@@ -10,7 +10,7 @@ Fill at kickoff from [ONBOARDING.md](../ONBOARDING.md) · mirror into [STATUS.md
 | **Program start (Week 1 day 1)** | _TBD_ — ISO date `YYYY-MM-DD` |
 | **Program end (last day of Week 16)** | _TBD_ — = start + 111 days (16×7 − 1) |
 | **Weekly meeting weekday** | _TBD_ — e.g. Thursday |
-| **Weekly meeting time** | _TBD_ — e.g. 16:00–17:30 |
+| **Weekly meeting time** | _TBD_ — e.g. 16:00–17:00 (**60 min max**) |
 | **Timezone** | _TBD_ — e.g. Europe/Zurich |
 | **T-24 deadline** | 24 hours before each weekly meeting (same clock time) |
 | **Figma link** | _TBD_ |
@@ -24,13 +24,13 @@ Fill at kickoff from [ONBOARDING.md](../ONBOARDING.md) · mirror into [STATUS.md
    - Week range = `[start + 7×(n−1), start + 7×(n−1) + 6]`  
    - Weekly meeting = the chosen weekday that falls inside that range  
    - T-24 = meeting datetime − 24 hours  
-4. Paste dates into the table below and send calendar invites for all **16 weekly sessions** (gates replace weekly when noted).
+4. Paste dates into the table below and send calendar invites for all **16 weekly sessions** (60 min). Gate locks happen **in** that week’s weekly — no extra invites.
 
 ---
 
 ## 16-week calendar
 
-Fill the date columns at kickoff. Gate weeks: prefer holding the gate **in** that week’s weekly slot (or replace it — note in T-24).
+Fill the date columns at kickoff. Gate weeks: the lock is **Decision A in that week’s weekly session** (same 60 min slot). Note the gate in T-24; do not book a second meeting.
 
 | Week | Block | Week dates (Mon–Sun or start–end) | Weekly meeting | T-24 due | Planned milestone |
 | --- | --- | --- | --- | --- | --- |
@@ -55,8 +55,8 @@ Fill the date columns at kickoff. Gate weeks: prefer holding the gate **in** tha
 
 ## Meeting invites checklist (after dates locked)
 
-- [ ] 16× weekly working session on calendar (Malte + Daniel)  
-- [ ] Optional: separate holds for Gates 1–6 on gate weeks (or mark weekly as “Gate N”)  
+- [ ] 16× weekly working session on calendar (Malte + Daniel), **60 min each**  
+- [ ] Gate weeks: mark the weekly invite title as “Weekly + Gate N” — **no extra holds**  
 - [ ] Reminder: T-24 is Malte’s deadline every week (not a second meeting)  
 - [ ] Kickoff meeting scheduled (before Week 1 start)  
 - [ ] [STATUS.md](../STATUS.md) shows start, end, Week 1 focus  

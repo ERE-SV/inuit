@@ -5,26 +5,34 @@
 - **Gate:** **Gate 1** — lock beachhead
 - **Owner:** Malte (proposes) / Daniel (approves)
 
-## Deliverables
+## Primary deliverable
 
-| File | Required |
+| File | Role |
 | --- | --- |
-| `BEACHHEAD-RECOMMENDATION.md` | Yes |
-| `SCORECARD.md` | Yes (or embedded scorecard) |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs + Gate 1 options (primary path) |
+
+### Optional evidence dumps only
+
+These stubs are **not** the definition of done. Use them if helpful for the Gate pack; still answer every worksheet sub-question and put the path in **Proof**.
+
+| File | Role |
+| --- | --- |
+| [BEACHHEAD-RECOMMENDATION.md](BEACHHEAD-RECOMMENDATION.md) | Optional recommendation narrative dump |
+| [SCORECARD.md](SCORECARD.md) | Optional scorecard table dump |
 
 ## Definition of done
 
-- [ ] ≥3 niche options scored against brief criteria
-- [ ] Clear recommendation: niche × geography
-- [ ] Written rejections for runners-up
-- [ ] Liquidity hypothesis with sources
-- [ ] Gate brief prepared (`meetings/templates/gate.md`)
-- [ ] Decision logged after Gate 1
+- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
+- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
+- [ ] Gate / checkpoint pack (Gate 1) in the worksheet complete
+- [ ] Decision logged in [decisions/DECISION-LOG.md](../../../decisions/DECISION-LOG.md) **after** Daniel decides (Malte does not self-approve)
+
+> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
 
 ## Inputs
 
-- Phases 01–02
-- `docs/brief/03-gtm-niche.md`
+- Phases 01–02 worksheets / evidence
+- [docs/brief/03-gtm-niche.md](../../brief/03-gtm-niche.md)
 - [PLAN-WEEKS.md](../../../PLAN-WEEKS.md) Weeks 3–4
 
 ## After Gate 1

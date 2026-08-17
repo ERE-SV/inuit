@@ -73,10 +73,9 @@ Full detail: [meetings/README.md](meetings/README.md).
 
 | Ritual | When | Purpose |
 | --- | --- | --- |
-| **Kickoff** | Before Week 1 | Align on charter, repo, tools, calendar |
-| **Weekly working session** | Same weekday, 60–90 min; **Malte leads** | Informed discussion of findings; Daniel chooses among 2–3 prepared decisions |
-| **Gate meeting** | When pack ready | Approve / revise / reject milestone locks |
-| **T-24 pack** | 24h before weekly | All content in repo + agenda + decision options with pros/cons — see [meetings/README.md](meetings/README.md) |
+| **Kickoff** | Before Week 1, **60 min max** | Align on charter, repo, tools, calendar |
+| **Weekly working session** | Same weekday, **60 min max**; **Malte leads**. Only live meeting each week. | Informed discussion of findings; Daniel chooses among 2–3 prepared decisions. Gate locks happen here when due. |
+| **T-24 pack** | 24h before weekly | All content in repo + agenda + decision options with pros/cons (+ gate brief on lock weeks) — see [meetings/README.md](meetings/README.md) |
 
 ---
 

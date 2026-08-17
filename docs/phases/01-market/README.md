@@ -5,23 +5,29 @@
 - **Gate:** none (feeds Gate 1)
 - **Owner:** Malte
 
-## Deliverables
+## Primary deliverable
 
-| File | Required |
+| File | Role |
 | --- | --- |
-| [MARKET-BRIEF.md](MARKET-BRIEF.md) | Yes |
-| [SOURCES.md](SOURCES.md) | Yes |
-| [SOURCES-STARTER.md](SOURCES-STARTER.md) | Reference (starter list) |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs (primary path) |
+| [SOURCES.md](SOURCES.md) | Required — running source log (URL + access date) |
+| [SOURCES-STARTER.md](SOURCES-STARTER.md) | Reference — starting search list |
+
+### Optional evidence dumps only
+
+These stubs are **not** the definition of done. Use them if you want a long write-up; still answer every worksheet sub-question and put the path in **Proof**.
+
+| File | Role |
+| --- | --- |
+| [MARKET-BRIEF.md](MARKET-BRIEF.md) | Optional narrative dump |
 
 ## Definition of done
 
-- [ ] Channels map: how CH (+ relevant DACH) hiring/job search works
-- [ ] Trends with sourced “so what” for this product
-- [ ] Demand/supply signals useful for niche choice (cited)
-- [ ] Regulatory/product constraints listed (matching, crawl, commute/home data)
-- [ ] Every quantitative claim has URL + access date
+- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
+- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
+- [ ] Gate / checkpoint pack section in the worksheet complete (weekly pack for Daniel)
 
-> This checklist is **canonical DoD** (see PLAN.md).
+> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
 
 ## Inputs
 

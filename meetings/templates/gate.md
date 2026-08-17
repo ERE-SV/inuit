@@ -1,7 +1,9 @@
-# Gate brief
+# Gate brief (T-24 attachment)
+
+Not a separate meeting. Attach this to that week’s T-24 pack. Daniel decides in the **60-minute weekly session**.
 
 - **Gate # / name:** 
-- **Date:** 
+- **Weekly session date:** 
 - **Phase folder:** 
 - **Author:** 
 

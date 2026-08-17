@@ -20,6 +20,7 @@ This repository is the **source of truth** for defining the job-marketplace comp
 
 - Build a coded frontend/backend unless explicitly asked in a later program.
 - Mark a gate as approved; only Daniel locks decisions in the decision log.
+- Schedule extra gate or review meetings; gates lock in the single weekly 60-min session.
 - Re-open a locked beachhead/GTM/brand without a new decision entry.
 - Expand MVP/V2/V3 scope after the scope checkpoint without logging a decision.
 - Invent statistics or competitor pricing.

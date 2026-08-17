@@ -1,6 +1,6 @@
 # Status
 
-Living snapshot. Update at least after every weekly session and every gate.
+Living snapshot. Update at least after every weekly session (gate locks happen in that session).
 
 ## Program
 

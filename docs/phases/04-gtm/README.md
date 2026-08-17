@@ -6,20 +6,28 @@
 - **Depends on:** Gate 1 (beachhead)
 - **Owner:** Malte (proposes) / Daniel (approves)
 
-## Deliverables
+## Primary deliverable
 
-| File | Required |
+| File | Role |
 | --- | --- |
-| `GTM-PLAN.md` | Yes |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs + Gate 2 options (primary path) |
+
+### Optional evidence dumps only
+
+These stubs are **not** the definition of done. Use them for a long GTM narrative; still answer every worksheet sub-question and put the path in **Proof**.
+
+| File | Role |
+| --- | --- |
+| [GTM-PLAN.md](GTM-PLAN.md) | Optional plan narrative dump |
 
 ## Definition of done
 
-- [ ] Seeker acquisition plan for locked beachhead
-- [ ] Company motion: forward qualified candidates → claim/onboard
-- [ ] Sales shape + materials list
-- [ ] ≥3 measurable GTM milestones (90-day framing OK)
-- [ ] Assumptions explicit and sourced where claims are factual
-- [ ] Gate 2 decision logged
+- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
+- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
+- [ ] Gate / checkpoint pack (Gate 2) in the worksheet complete
+- [ ] Decision logged **after** Daniel decides (Malte does not self-approve)
+
+> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
 
 ## Note
 

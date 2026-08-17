@@ -2,7 +2,7 @@
 
 | ID | Date | Decision | Phase | Status | Supersedes | Link / notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| — | — | *(none yet)* | — | — | — | Program not started |
+| D-001 | 2026-08-17 | One live meeting per week, 60 min max. Gates and checkpoints lock in that weekly slot; no extra review/gate meetings. | program | accepted | — | [meetings/README.md](../meetings/README.md) |
 
 **Status values:** `proposed` · `accepted` · `accepted-with-conditions` · `rejected` · `superseded`
 

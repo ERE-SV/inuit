@@ -10,7 +10,7 @@ Until these are filled, Week 1 does **not** start and [meetings/SCHEDULE.md](mee
 | --- | --- | --- |
 | **Program start** | _TBD_ `YYYY-MM-DD` | Day 1 of Week 1 (prefer Monday) |
 | **Program end** | _TBD_ `YYYY-MM-DD` | Last day of Week 16 = start + **111 days** |
-| **Weekly meeting** | _TBD_ weekday + time + timezone | Same slot all 16 weeks; **you lead** |
+| **Weekly meeting** | _TBD_ weekday + time + timezone | Same slot all 16 weeks, **60 min max**; **you lead**. Gates lock in this slot. |
 | **T-24** | Meeting − 24h | Content + agenda pack due in repo |
 
 After locking: fill the full table in [meetings/SCHEDULE.md](meetings/SCHEDULE.md), send calendar invites, update [STATUS.md](STATUS.md).
@@ -66,16 +66,16 @@ Use the kickoff checklist in [meetings/README.md](meetings/README.md).
 | --- | --- |
 | Ongoing | Follow [PLAN-WEEKS.md](PLAN-WEEKS.md); fill stubs linked from [PLAN.md](PLAN.md); tick DoD in phase READMEs |
 | **T-24** | All week content in repo + [weekly-t24.md](meetings/templates/weekly-t24.md) (see SCHEDULE for exact deadline) |
-| Weekly session | You **lead**; informed discussion; Daniel **chooses** among your prepared options |
+| Weekly session | You **lead** (60 min max); informed discussion; Daniel **chooses** among your prepared options. Gate locks happen here — no extra meeting. |
 | Same day after | Session notes + `STATUS.md` + decision log |
-| Before a gate | Gate brief + pack; Daniel approves; you log the decision |
+| Gate week (T-24) | Attach [gate brief](meetings/templates/gate.md) to the T-24 pack; Decision A in the weekly is the lock |
 
 ## Comms
 
 | Channel | Use for |
 | --- | --- |
 | **This repo** | Artifacts, decisions, meeting notes — canonical |
-| **Weekly session** | You lead; present results; Daniel chooses among prepared decisions |
+| **Weekly session** | You lead (60 min); present results; Daniel chooses among prepared decisions (including gate locks) |
 | **Async (WhatsApp)** | Short asks, scheduling, links to repo paths — not long strategy that never gets filed |
 
 If it matters later, it belongs in the repo within 24 hours of the discussion.

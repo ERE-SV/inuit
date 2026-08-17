@@ -5,7 +5,9 @@
 - **Attendees:** Malte (lead), Daniel  
 - **Phase focus:**  
 - **T-24 pack path:** `meetings/notes/YYYY-MM-DD-weekly-t24.md`  
+- **Gate / checkpoint this session?** No / Yes — Gate #_ — brief path:  
 - **Agenda adjusted live?** No / Yes — note:  
+- **Ended on time (≤ 60 min)?** Yes / No — leftover parked:  
 
 ## 1. Review of the week
 
@@ -23,19 +25,24 @@
 | B |  |  |  | Y/N | D-XXX |
 | C |  |  |  | Y/N | D-XXX |
 
-## 4. Plan adjustments
+### Gate outcome (if this session included a lock)
+
+- **Ask:** Approve / approve with conditions / reject  
+- **Result:**  
+- **Conditions (if any):**  
+- **What this unblocks / takes out of scope:**  
+
+## 4. Plan + outlook
 
 | Change | Why | Docs updated |
 | --- | --- | --- |
 |  |  | STATUS / PLAN-WEEKS / phase README |
 
-## 5. Future outlook (agreed)
-
 - Next week focus:  
 - Deliverables:  
 - [ ]  
 
-## 6. Blockers
+## 5. Blockers
 
 | Blocker | Owner | Next step |
 | --- | --- | --- |

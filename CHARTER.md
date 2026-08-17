@@ -54,8 +54,8 @@ This repo is the **deliverable** and the **source of truth**. Chat is ephemeral;
 ## Working model
 
 - **Decision-first spiral:** lock beachhead → GTM → brand principles → then deep product UI and data/matching → ops → finance → risk → handoff.
-- **Weekly working sessions** (Malte leads): informed discussion of findings after T-24 upload; Malte proposes 2–3 decisions with pros/cons; **Daniel chooses**.
-- **Formal gates** for milestone locks (Malte proposes, Daniel decides).
+- **One weekly working session** (Malte leads, **60 min max**): informed discussion of findings after T-24 upload; Malte proposes 2–3 decisions with pros/cons; **Daniel chooses**.
+- **Formal gates** for milestone locks happen **in that same weekly slot** (Malte proposes, Daniel decides). No extra review or gate meetings.
 - Every material decision → [decisions/DECISION-LOG.md](decisions/DECISION-LOG.md).
 
 

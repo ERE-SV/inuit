@@ -42,7 +42,7 @@ meetings/                  Cadence, SCHEDULE (real calendar), templates, notes
 - **Duration:** **16 weeks total** (14 weeks planned work + **2-week buffer**)
 - **Malte's scope:** Strategy through brand principles, full Figma (MVP/V2/V3), data & matching specs, ops & finance — **no coded frontend**
 - **Research style:** Desk research, **fact-based and sourced** (not interview-led)
-- **Governance:** Weekly sessions (**Malte leads**, T-24 pack) + formal **gates** (Malte proposes options → Daniel chooses/approves)
+- **Governance:** One **60 min** weekly session (**Malte leads**, T-24 pack). Formal **gates** lock in that same slot (Malte proposes → Daniel chooses/approves). No extra review meetings.
 - **Method:** Decision-first spiral — lock beachhead early; UI only after brand principles
 
 ## Phase index

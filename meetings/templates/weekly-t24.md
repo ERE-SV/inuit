@@ -7,20 +7,19 @@ Malte submits this **and** has pushed all week’s artifacts to the repo. Daniel
 - **Phase focus:**  
 - **Author:** Malte  
 - **Repo commit / branch:**  
+- **Gate / checkpoint this session?** No / Yes — Gate #_ — brief path:  
 
-## 1. Agenda for this session (Malte leads; may adjust)
+## 1. Agenda for this session (Malte leads; 60 min max)
 
-Default order — edit times or drop a block if needed; note why.
+Default order — edit times or drop a block if needed; **times must sum to ≤ 60**. Note why.
 
 | # | Block | Planned min | Keep / adjust |
 | --- | --- | --- | --- |
-| 1 | Review of the week | 10 | |
-| 2 | Presentation of results | 20 | |
-| 3 | Decision proposals (Daniel chooses) | 25 | |
-| 4 | Adjustment to the plan | 10 | |
-| 5 | Future outlook | 10 | |
-| 6 | Blockers | 5 | |
-| — | Buffer / overrun | 10 | |
+| 1 | Review of the week | 5 | |
+| 2 | Presentation of results | 15 | |
+| 3 | Decision proposals (Daniel chooses; gate lock = Decision A if due) | 25 | |
+| 4 | Plan + outlook | 10 | |
+| 5 | Blockers | 5 | |
 
 **Agenda change note (if any):**  
 
@@ -51,6 +50,8 @@ Weakest claims / open uncertainties:
 ## 5. Decision proposals (2–3)
 
 Daniel only **chooses** among options Malte has prepared. Each proposal needs advantages and disadvantages.
+
+On gate weeks, **Decision A is the gate lock** (Approve / conditions / reject) and the [gate brief](gate.md) is attached.
 
 ### Decision A — title
 
@@ -98,8 +99,3 @@ Daniel only **chooses** among options Malte has prepared. Each proposal needs ad
 ## 8. Known blockers
 
 -  
-
-## 9. Gate upcoming?
-
-- [ ] No  
-- [ ] Yes — Gate #_ — pack path:  
