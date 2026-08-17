@@ -1,6 +1,6 @@
 # System context (short)
 
-Fill before Gate 6.
+Fill via [WORKSHEET.md](WORKSHEET.md) before Gate 6.
 
 ## What we are building
 

@@ -9,25 +9,32 @@
 
 Single entry point so engineers (and future you) do not dig through chat history.
 
-## Deliverables
+## Primary deliverable
 
-| File | Required |
+**[WORKSHEET.md](WORKSHEET.md)** — guided tasks `11-T#` / sub-questions `11-T#-Q#` with Answer + Proof (engineer-ready pack as checklist).
+
+How worksheets work: [../WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md).
+
+## Optional evidence files (not the job by themselves)
+
+| File | Role |
 | --- | --- |
-| `README.md` | This file — keep updated as the handoff index |
-| `HANDOFF-CHECKLIST.md` | Yes — signed-off checklist |
-| `OPEN-QUESTIONS-FOR-ENG.md` | Yes |
-| `SYSTEM-CONTEXT.md` | Yes — short: what we are building, beachhead, versions |
+| [HANDOFF-CHECKLIST.md](HANDOFF-CHECKLIST.md) | Sign-off checklist (worksheet output) |
+| [OPEN-QUESTIONS-FOR-ENG.md](OPEN-QUESTIONS-FOR-ENG.md) | Open eng questions table |
+| [SYSTEM-CONTEXT.md](SYSTEM-CONTEXT.md) | Short: what we are building, beachhead, versions |
+| [BUILD-CONSTRAINTS.md](BUILD-CONSTRAINTS.md) | Budget/headcount/privacy constraints for build |
 | Links to Figma | Via `../06-product/FIGMA.md` |
 | Links to data/matching | Via `../07-data-matching/` |
-| Links to finance/ops summary | Short `BUILD-CONSTRAINTS.md` (budget/headcount constraints that affect build) |
+| Links to finance/ops/risk | Via worksheet Proof lines + index below |
 
-## Definition of done (Gate 6)
+## Definition of done
 
-- [ ] Index links to all gated artifacts (beachhead, GTM, brand, Figma, data/matching, ops, finance, risk)
-- [ ] MVP build scope unambiguous
-- [ ] Open questions listed with owner (eng vs business)
-- [ ] Decision log has Gates 1–6 reflected
-- [ ] Daniel accepts: “engineers can start from this folder + Figma”
+- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
+- [ ] Every sub-question has **Answer** + **Proof** (or `N/A — reason`)
+- [ ] Gate pack (Gate 6) section complete
+- [ ] Daniel accepts: “engineers can start from this folder + Figma” (decision logged)
+
+> **Canonical DoD** = worksheet tasks + proofs + Gate pack + Daniel sign-off. Stubs alone do not complete the phase.
 
 ## Handoff index (fill as phases complete)
 

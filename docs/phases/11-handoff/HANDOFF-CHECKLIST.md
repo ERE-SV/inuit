@@ -2,6 +2,8 @@
 
 **Gate 6:** Daniel accepts that engineers can start from this folder + Figma.
 
+Optional evidence — complete via [WORKSHEET.md](WORKSHEET.md).
+
 ## Artifacts present
 
 - [ ] Beachhead gated (`../03-beachhead/`, decision logged)

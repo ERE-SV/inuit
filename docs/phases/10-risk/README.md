@@ -6,22 +6,31 @@
 - **Depends on:** Gate 5 recommended (finance informs risk appetite)
 - **Owner:** Malte
 
-## Deliverables
+## Primary deliverable
 
-| File | Required |
+**[WORKSHEET.md](WORKSHEET.md)** — guided tasks `10-T#` / sub-questions `10-T#-Q#` with Answer + Proof.
+
+How worksheets work: [../WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md).
+
+## Optional evidence files (not the job by themselves)
+
+Fill these as proof targets from the worksheet. Empty stubs do not complete the phase.
+
+| File | Role |
 | --- | --- |
-| `RISK-REGISTER.md` | Yes |
-| `COMPLIANCE-BRIEF.md` | Yes |
-| `ASSUMPTIONS.md` | Yes |
-| `KILL-CRITERIA.md` | Yes (or section in risk register) |
+| [RISK-REGISTER.md](RISK-REGISTER.md) | Risk rows (optional evidence / worksheet output) |
+| [COMPLIANCE-BRIEF.md](COMPLIANCE-BRIEF.md) | Privacy, crawl, discrimination notes |
+| [ASSUMPTIONS.md](ASSUMPTIONS.md) | Assumption register |
+| [KILL-CRITERIA.md](KILL-CRITERIA.md) | Kill / pivot triggers |
 
 ## Definition of done
 
-- [ ] Top risks with likelihood/impact/mitigation
-- [ ] Crawl/ToS, privacy, discrimination/automated decision notes (CH/EU-aware)
-- [ ] Assumption register: each assumption + how it would be tested later
-- [ ] Kill / pivot triggers explicit
-- [ ] No critical risk left only in someone’s head
+- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
+- [ ] Every sub-question has **Answer** + **Proof** (or `N/A — reason`)
+- [ ] Gate pack (Gate 6 inputs) section complete
+- [ ] Bundled with [../11-handoff/WORKSHEET.md](../11-handoff/WORKSHEET.md) for Daniel’s Gate 6 accept
+
+> **Canonical DoD** = worksheet tasks + proofs + Gate pack. Stubs alone do not complete the phase.
 
 ## Order note
 

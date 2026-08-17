@@ -12,7 +12,7 @@ This repo is the **deliverable** and the **source of truth**. Chat is ephemeral;
 | Role       | Responsibility                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
 | **Daniel** | Approves gates; co-owns strategy in weekly sessions; final accept of handoff pack                     |
-| **Malte**  | Owns research, proposals, phase folders, Figma, models; documents everything here; proposes decisions |
+| **Malte**  | Owns research, proposals, phase folders, Figma, models; documents everything here; proposes decisions; **updates [STATUS.md](STATUS.md) after every weekly** |
 
 
 

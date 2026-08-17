@@ -1,5 +1,7 @@
 # Kill / pivot criteria
 
+Optional evidence — fill via [WORKSHEET.md](WORKSHEET.md) (≥4 triggers).
+
 | Trigger | What we do | Who decides |
 | --- | --- | --- |
 |  |  | Daniel |

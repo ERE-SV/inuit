@@ -139,4 +139,5 @@ Phases: [10-risk](docs/phases/10-risk/) · [11-handoff](docs/phases/11-handoff/)
 
 - [ ] Only rework / evidence / polish from gate feedback
 - [ ] No new niche, version, or scope without a decision-log entry
+- [ ] T-24 pack + weekly session (Malte leads, 60 min) each week
 - [ ] Final STATUS: all gates accepted or explicitly deferred with owner + date

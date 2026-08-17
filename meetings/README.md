@@ -123,17 +123,21 @@ When a formal **gate** or **checkpoint** is due (see [SCHEDULE.md](SCHEDULE.md))
 
 ### After (Malte, same day)
 
-- Session notes: `notes/YYYY-MM-DD-weekly.md` using [templates/weekly-session.md](templates/weekly-session.md)  
-- Log chosen decisions (including any gate outcome)  
-- Update [STATUS.md](../STATUS.md) and relevant phase READMEs
+Required — same day, before pinging Daniel:
+
+1. **Minutes:** `notes/YYYY-MM-DD-weekly.md` using [templates/weekly-session.md](templates/weekly-session.md)
+2. **Decision log:** chosen decisions (including any gate outcome) in [decisions/DECISION-LOG.md](../decisions/DECISION-LOG.md)
+3. **STATUS:** Malte updates [STATUS.md](../STATUS.md) — week number, current block, phase focus, next gate, open blockers, this week’s deliverables, and any gate row that changed
+4. Phase READMEs if status changed
+5. Ping Daniel with paths to minutes + STATUS for review
 
 
 ### Roles in the room
 
 
-| Malte                                            | Daniel                                                                                     |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Leads agenda; presents results; frames decisions | Pre-reads; discusses findings; **chooses** among prepared options; clears blockers he owns |
+| Malte                                                                                          | Daniel                                                                                     |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Leads agenda; presents results; frames decisions; **same day:** minutes, decision log, STATUS | Pre-reads; discusses findings; **chooses** among prepared options; clears blockers he owns |
 
 
 ---
@@ -158,6 +162,7 @@ When a formal **gate** or **checkpoint** is due (see [SCHEDULE.md](SCHEDULE.md))
 - Log decision in `decisions/DECISION-LOG.md` with status `accepted` / `accepted-with-conditions` / `rejected`
 - If conditions: checklist in the phase README until cleared
 - Record the outcome in the weekly session notes (no separate gate-meeting note)
+- Update [STATUS.md](../STATUS.md) (gates table + next gate + blockers)
 
 **Rules:**
 

@@ -67,7 +67,7 @@ Use the kickoff checklist in [meetings/README.md](meetings/README.md).
 | Ongoing | Follow [PLAN-WEEKS.md](PLAN-WEEKS.md); fill stubs linked from [PLAN.md](PLAN.md); tick DoD in phase READMEs |
 | **T-24** | All week content in repo + [weekly-t24.md](meetings/templates/weekly-t24.md) (see SCHEDULE for exact deadline) |
 | Weekly session | You **lead** (60 min max); informed discussion; Daniel **chooses** among your prepared options. Gate locks happen here — no extra meeting. |
-| Same day after | Session notes + `STATUS.md` + decision log |
+| Same day after | **You** write minutes, log decisions, and **update [STATUS.md](STATUS.md)** (week, focus, next gate, blockers, deliverables); then ping Daniel for review |
 | Gate week (T-24) | Attach [gate brief](meetings/templates/gate.md) to the T-24 pack; Decision A in the weekly is the lock |
 
 ## Comms

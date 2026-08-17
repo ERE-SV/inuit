@@ -6,40 +6,33 @@
 - **Depends on:** Gate 3 (brand principles)
 - **Owner:** Malte
 
-## Deliverables
+## Primary deliverable
 
-| File / artifact | Required |
+| File / artifact | Role |
 | --- | --- |
-| [PRODUCT-CONCEPT.md](PRODUCT-CONCEPT.md) | Yes *(seeded features)* |
-| [FIGMA.md](FIGMA.md) | Yes |
-| [MVP-SCREEN-INVENTORY.md](MVP-SCREEN-INVENTORY.md) | Yes *(seeded screens)* |
-| [V2-SCREEN-INVENTORY.md](V2-SCREEN-INVENTORY.md) | Yes |
-| [V3-SCREEN-INVENTORY.md](V3-SCREEN-INVENTORY.md) | Yes |
-| [VERSION-MAP.md](VERSION-MAP.md) | Yes |
-| Figma file(s) | Yes — full UI + functionality for MVP, V2, V3 |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs (primary path) |
+| Figma file(s) | Required — linked from worksheet / FIGMA.md; full UI for MVP, V2, V3 |
+
+### Optional evidence dumps only
+
+These seeded stubs are **not** the definition of done by themselves. Update them as you answer worksheet tasks; put paths in **Proof**.
+
+| File | Role |
+| --- | --- |
+| [PRODUCT-CONCEPT.md](PRODUCT-CONCEPT.md) | Optional / working dump *(seeded features)* |
+| [FIGMA.md](FIGMA.md) | Optional index for Figma URL |
+| [MVP-SCREEN-INVENTORY.md](MVP-SCREEN-INVENTORY.md) | Working inventory *(seeded)* — keep/cut/add via worksheet |
+| [V2-SCREEN-INVENTORY.md](V2-SCREEN-INVENTORY.md) | Working inventory |
+| [V3-SCREEN-INVENTORY.md](V3-SCREEN-INVENTORY.md) | Working inventory |
+| [VERSION-MAP.md](VERSION-MAP.md) | Working map — must stay consistent with concept |
 
 ## Definition of done
 
-### Scope checkpoint (end Week 7)
+- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
+- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/` / Figma)
+- [ ] Scope checkpoint + Gate 4 pack sections in the worksheet complete (Daniel locks decisions)
 
-- [ ] MVP / V2 / V3 feature lists locked (each feature in exactly one version)
-- [ ] Seeker + company journeys documented
-- [ ] Non-goals explicit
-- [ ] MVP Figma structure + core flows started under brand principles
-
-### Gate 4 (with phase 07; end Week 11)
-
-- [ ] MVP Figma complete: all screens, key states, functionality annotations
-- [ ] V2 Figma complete to same standard
-- [ ] Screen inventories match Figma frames
-- [ ] Engineer can implement UI structure from Figma + inventories
-
-### Week 12
-
-- [ ] V3 Figma complete to same standard
-- [ ] `VERSION-MAP.md` consistent with inventories
-
-> This checklist is **canonical DoD**. Week tasks: [PLAN-WEEKS.md](../../../PLAN-WEEKS.md).
+> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)). Week tasks: [PLAN-WEEKS.md](../../../PLAN-WEEKS.md).
 
 ## Figma standard (all versions)
 

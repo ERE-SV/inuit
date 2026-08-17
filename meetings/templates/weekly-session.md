@@ -48,8 +48,9 @@
 | --- | --- | --- |
 |  |  |  |
 
-## Follow-ups (same day)
+## Follow-ups (Malte, same day)
 
 - [ ] Decisions logged in `decisions/DECISION-LOG.md`  
-- [ ] [STATUS.md](../../STATUS.md) updated  
+- [ ] [STATUS.md](../../STATUS.md) updated (week, focus, next gate, blockers, deliverables, gate rows)  
 - [ ] Phase README statuses updated if needed  
+- [ ] Daniel pinged with minutes + STATUS paths for review  

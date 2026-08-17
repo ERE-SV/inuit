@@ -6,22 +6,28 @@
 - **Depends on:** Beachhead, GTM, data acquisition approach
 - **Owner:** Malte
 
-## Deliverables
+## Primary deliverable
 
-| File | Required |
+| File | Role |
 | --- | --- |
-| `OPS-MODEL.md` | Yes |
-| `HEADCOUNT-PLAN.md` | Yes (or section inside ops model) |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs (primary path) |
+
+### Optional evidence dumps only
+
+These stubs are **not** the definition of done. Use them if you want a long write-up; still answer every worksheet sub-question and put the path in **Proof**.
+
+| File | Role |
+| --- | --- |
+| [OPS-MODEL.md](OPS-MODEL.md) | Optional ops dump |
+| [HEADCOUNT-PLAN.md](HEADCOUNT-PLAN.md) | Optional headcount dump (or section inside ops model) |
 
 ## Definition of done
 
-- [ ] Listing supply approach (feeds/APIs vs crawl) and legal posture summary
-- [ ] Freshness / quality assumptions
-- [ ] Headcount: ingestion/crawler maintenance — how many, when, skills
-- [ ] Headcount: sales — how many, when, motion link to GTM
-- [ ] Support / other roles if needed for MVP
-- [ ] What one person can run vs when to hire #2
-- [ ] Cost drivers listed for phase 09 (tools, vendors, time)
+- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
+- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
+- [ ] Ops checkpoint pack section in the worksheet complete (Daniel accepts as finance inputs)
+
+> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
 
 ## Checkpoint
 

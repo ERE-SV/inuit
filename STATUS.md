@@ -1,6 +1,6 @@
 # Status
 
-Living snapshot. Update at least after every weekly session (gate locks happen in that session).
+Living snapshot. **Malte updates this the same day after every weekly session** (gate locks happen in that session): week number, block, phase focus, next gate, blockers, this week’s deliverables, and any gate row that changed. Then ping Daniel for review.
 
 ## Program
 
