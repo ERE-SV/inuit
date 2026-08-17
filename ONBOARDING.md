@@ -29,13 +29,14 @@ After locking: fill the full table in [meetings/SCHEDULE.md](meetings/SCHEDULE.m
 
 1. [README.md](README.md) — map  
 2. [CHARTER.md](CHARTER.md) — your mandate  
-3. [PLAN.md](PLAN.md) — 16-week plan and linked stubs  
-4. [PLAN-WEEKS.md](PLAN-WEEKS.md) — week-by-week checklist (daily driver)  
-5. [meetings/README.md](meetings/README.md) — session structure  
-6. [meetings/SCHEDULE.md](meetings/SCHEDULE.md) — real calendar (fill after kickoff)  
-7. [RESEARCH-STANDARD.md](RESEARCH-STANDARD.md) — evidence bar  
-8. [docs/brief/](docs/brief/) — ideation assumptions (not locked decisions)  
-9. [decisions/DECISION-LOG.md](decisions/DECISION-LOG.md) — anything already locked  
+3. [docs/phases/WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md) — how guided tasks work  
+4. [PLAN.md](PLAN.md) — 16-week plan  
+5. [PLAN-WEEKS.md](PLAN-WEEKS.md) — week checklist → worksheet task IDs  
+6. [meetings/README.md](meetings/README.md) — session structure  
+7. [meetings/SCHEDULE.md](meetings/SCHEDULE.md) — real calendar (fill after kickoff)  
+8. [RESEARCH-STANDARD.md](RESEARCH-STANDARD.md) — evidence bar  
+9. [docs/brief/](docs/brief/) — ideation assumptions (not locked decisions)  
+10. [decisions/DECISION-LOG.md](decisions/DECISION-LOG.md) — anything already locked  
 
 ## Day 1–2 — Kickoff with Daniel
 
@@ -64,7 +65,7 @@ Use the kickoff checklist in [meetings/README.md](meetings/README.md).
 
 | When | What |
 | --- | --- |
-| Ongoing | Follow [PLAN-WEEKS.md](PLAN-WEEKS.md); fill stubs linked from [PLAN.md](PLAN.md); tick DoD in phase READMEs |
+| Ongoing | Follow [PLAN-WEEKS.md](PLAN-WEEKS.md); complete tasks on each phase [WORKSHEET.md](docs/phases/WORKSHEET-GUIDE.md) (answer + proof) |
 | **T-24** | All week content in repo + [weekly-t24.md](meetings/templates/weekly-t24.md) (see SCHEDULE for exact deadline) |
 | Weekly session | You **lead** (60 min max); informed discussion; Daniel **chooses** among your prepared options. Gate locks happen here — no extra meeting. |
 | Same day after | **You** write minutes, log decisions, and **update [STATUS.md](STATUS.md)** (week, focus, next gate, blockers, deliverables); then ping Daniel for review |
@@ -87,7 +88,7 @@ If it matters later, it belongs in the repo within 24 hours of the discussion.
 - [ ] All 16 weekly meetings on the calendar  
 - [ ] `STATUS.md` shows start, end, Week 1 focus  
 - [ ] Figma link set  
-- [ ] You can explain Gate 1–6 in one minute each  
+- [ ] You understand worksheets: big task → sub-questions → Answer + Proof ([WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md))  
 - [ ] T-24 template understood ([weekly-t24.md](meetings/templates/weekly-t24.md))  
 
 ## Out of scope reminder

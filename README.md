@@ -8,7 +8,7 @@ It is **not** the engineering codebase yet. When this program is complete, an en
 
 | If you are… | Read |
 | --- | --- |
-| Malte (first day) | [ONBOARDING.md](ONBOARDING.md) |
+| Malte (first day) | [ONBOARDING.md](ONBOARDING.md) → [WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md) |
 | New to the project | [CHARTER.md](CHARTER.md) → [docs/brief/](docs/brief/) |
 | Checking progress | [STATUS.md](STATUS.md) · [meetings/SCHEDULE.md](meetings/SCHEDULE.md) |
 | Running the 16-week program | [PLAN.md](PLAN.md) + [PLAN-WEEKS.md](PLAN-WEEKS.md) + [meetings/README.md](meetings/README.md) |
@@ -29,7 +29,7 @@ RESEARCH-STANDARD.md       Evidence & citation bar
 
 docs/
   brief/                   Pre-hire ideation (starting assumptions)
-  phases/01–11/            Workstream folders = program deliverables (stubs ready)
+  phases/01–11/            Each phase: WORKSHEET.md (primary guided tasks)
   archive/                 Frozen original German brainstorm
 
 decisions/                 Decision log + templates

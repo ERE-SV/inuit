@@ -1,143 +1,142 @@
 # Week-by-week checklist
 
 Use with [PLAN.md](PLAN.md) and [STATUS.md](STATUS.md).  
-**Total program:** 16 weeks (**14 work** + **2 buffer**).  
-**Meetings:** one **60 min** weekly session (Malte leads). Gates and checkpoints lock in that slot — no extra review meetings. See [meetings/README.md](meetings/README.md).  
-**Definition of done** for each phase lives in that phase’s `README.md` (canonical). Stubs are linked from PLAN.
+**Total program:** 16 weeks (**14 work** + **2 buffer**).
 
-Mark checkboxes as you go; update `STATUS.md` every week.
+**How work works:** Each phase has a guided **[WORKSHEET.md](docs/phases/WORKSHEET-GUIDE.md)** — big tasks with concrete sub-questions. You answer + prove with sources. Long essays/graphs/videos go wherever you like; put the **path in Proof**.
 
-**Week 1 start date:** _TBD — see [meetings/SCHEDULE.md](meetings/SCHEDULE.md) after kickoff_  
-**Program end:** _TBD — Week 16 last day_
+**Canonical DoD:** all tasks on that phase’s worksheet ticked (+ gate pack if any).  
+Old stub files (`MARKET-BRIEF.md`, etc.) are **optional evidence dumps**, not the assignment.
+
+**Week 1 start / program end:** see [meetings/SCHEDULE.md](meetings/SCHEDULE.md)
 
 ---
 
 ## Week 1 — Market (start)
 
-Phase: [01-market](docs/phases/01-market/) · Stub: [MARKET-BRIEF.md](docs/phases/01-market/MARKET-BRIEF.md) · Starter sources: [SOURCES-STARTER.md](docs/phases/01-market/SOURCES-STARTER.md)
+Worksheet: [01-market/WORKSHEET.md](docs/phases/01-market/WORKSHEET.md)
 
-- [ ] Skim starter sources list; pick Tier A/B sources to open first
-- [ ] Draft **channels map** (how CH hiring/job search works today)
-- [ ] Start **trends** section (sourced + “so what”)
-- [ ] File T-24 pack (content in repo + agenda + 2–3 decisions); attend weekly session (you lead, 60 min)
-- [ ] Update [STATUS.md](STATUS.md)
+- [ ] Read **Learn** section on the worksheet  
+- [ ] **01-T1** — Swiss hiring channels map (all sub-questions)  
+- [ ] Start **01-T2** — trends with “so what”  
+- [ ] T-24 pack + weekly session (you lead)  
+- [ ] Update [STATUS.md](STATUS.md)  
 
 ## Week 2 — Market finish + competitive start
 
-Phases: [01-market](docs/phases/01-market/) → [02-competitive](docs/phases/02-competitive/)
+Worksheets: [01](docs/phases/01-market/WORKSHEET.md) → [02](docs/phases/02-competitive/WORKSHEET.md)
 
-- [ ] Finish demand/supply signals + regulatory constraints in market brief
-- [ ] Complete [SOURCES.md](docs/phases/01-market/SOURCES.md); set phase 01 README → `review` then `done` when solid
-- [ ] Start [COMPETITOR-MATRIX.md](docs/phases/02-competitive/COMPETITOR-MATRIX.md) using [COMPETITORS-STARTER.md](docs/phases/02-competitive/COMPETITORS-STARTER.md) (≥8 rows target)
-- [ ] T-24 pack + weekly session (Malte leads, 60 min); update STATUS
+- [ ] Finish **01-T2**, **01-T3**, **01-T4**, **01-T5**  
+- [ ] Mark phase 01 worksheet Status → review/done when complete  
+- [ ] Start **02-T1** — competitor set (≥8)  
+- [ ] Start **02-T2** — feature/GTM comparison  
+- [ ] T-24 + weekly session  
 
 ## Week 3 — Competitive finish + beachhead start
 
-Phases: [02-competitive](docs/phases/02-competitive/) → [03-beachhead](docs/phases/03-beachhead/)
+Worksheets: [02](docs/phases/02-competitive/WORKSHEET.md) → [03](docs/phases/03-beachhead/WORKSHEET.md)
 
-- [ ] Finish competitor matrix + [POSITIONING-DRAFT.md](docs/phases/02-competitive/POSITIONING-DRAFT.md)
-- [ ] Define scorecard rubric in [SCORECARD.md](docs/phases/03-beachhead/SCORECARD.md)
-- [ ] Score ≥3 niche × geo options with evidence
-- [ ] T-24 pack + weekly session (Malte leads, 60 min); update STATUS
+- [ ] Finish **02-T3**, **02-T4**, **02-T5**  
+- [ ] **03-T1** — options list + scorecard design  
+- [ ] **03-T2** — liquidity per option  
+- [ ] T-24 + weekly session  
 
 ## Week 4 — Beachhead + Gate 1
 
-- [ ] Complete [BEACHHEAD-RECOMMENDATION.md](docs/phases/03-beachhead/BEACHHEAD-RECOMMENDATION.md)
-- [ ] Prepare gate brief from [meetings/templates/gate.md](meetings/templates/gate.md); attach to T-24
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) — **Gate 1** is Decision A: lock niche × geography
-- [ ] Log decision in [decisions/DECISION-LOG.md](decisions/DECISION-LOG.md); update STATUS gates table
+Worksheet: [03-beachhead/WORKSHEET.md](docs/phases/03-beachhead/WORKSHEET.md)
+
+- [ ] **03-T3** — recommendation + rejections  
+- [ ] **03-T4** — Gate 1 options for Daniel (pros/cons)  
+- [ ] **03-T5** — pack completeness  
+- [ ] **Gate 1** — lock niche × geography; log decision  
 
 ---
 
 ## Week 5 — GTM + Gate 2
 
-Phase: [04-gtm](docs/phases/04-gtm/) · [GTM-PLAN.md](docs/phases/04-gtm/GTM-PLAN.md)
+Worksheet: [04-gtm/WORKSHEET.md](docs/phases/04-gtm/WORKSHEET.md)
 
-- [ ] Seeker acquisition, company forward-motion, sales shape, 3 milestones
-- [ ] Gate brief in T-24 pack
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) — **Gate 2** is Decision A: lock GTM; log decision; update STATUS
+- [ ] Read Learn (what GTM is)  
+- [ ] **04-T1** … **04-T5** (seeker acquisition, company motion, buyer personas HR/CEO/board, milestones)  
+- [ ] **Gate 2**  
 
 ## Week 6 — Brand + Gate 3
 
-Phase: [05-brand](docs/phases/05-brand/) · [BRAND-PRINCIPLES.md](docs/phases/05-brand/BRAND-PRINCIPLES.md)
+Worksheet: [05-brand/WORKSHEET.md](docs/phases/05-brand/WORKSHEET.md)
 
-- [ ] Promise, personality/tone, visual principles, naming direction
-- [ ] Gate brief in T-24 pack
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) — **Gate 3** is Decision A: lock brand principles (binding for Figma); log decision
+- [ ] Read Learn (branding vs marketing vs positioning)  
+- [ ] **05-T1** — positioning vs competitors  
+- [ ] **05-T2** — target groups (seekers + companies)  
+- [ ] **05-T3** — who at the company (HR / hiring manager / CEO / board)  
+- [ ] **05-T4** — demands → brand values  
+- [ ] **05-T5** — tone + visuals + naming  
+- [ ] **Gate 3**  
 
-## Week 7 — Product scope + data v0 + MVP start + Scope checkpoint
+## Week 7 — Product scope + data v0 + scope checkpoint
 
-Phases: [06-product](docs/phases/06-product/) · [07-data-matching](docs/phases/07-data-matching/)
+Worksheets: [06-product](docs/phases/06-product/WORKSHEET.md) · [07-data-matching](docs/phases/07-data-matching/WORKSHEET.md)
 
-- [ ] Draft journeys + MVP/V2/V3 features in [PRODUCT-CONCEPT.md](docs/phases/06-product/PRODUCT-CONCEPT.md)
-- [ ] Refine seeded fields in [DATA-DICTIONARY.md](docs/phases/07-data-matching/DATA-DICTIONARY.md) (mark keep/cut/add)
-- [ ] Align [SEARCH-DIMENSIONS.md](docs/phases/07-data-matching/SEARCH-DIMENSIONS.md)
-- [ ] Create Figma file; set link in [FIGMA.md](docs/phases/06-product/FIGMA.md)
-- [ ] Start MVP frames from seeded [MVP-SCREEN-INVENTORY.md](docs/phases/06-product/MVP-SCREEN-INVENTORY.md)
-- [ ] Apply brand principles in Figma
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) — **Scope checkpoint** is Decision A: lock MVP/V2/V3 feature lists; update STATUS
+- [ ] **06-T1**, **06-T2** — versions, journeys, feature keep/cut/move  
+- [ ] **07-T1** — dictionary keep/cut/add (start)  
+- [ ] **Scope checkpoint** — lock MVP/V2/V3 feature lists  
+- [ ] Start **06-T3** / **06-T4** — MVP screens + Figma structure  
+- [ ] T-24 + weekly session  
 
 ---
 
 ## Week 8 — MVP Figma (deep)
 
-- [ ] Build out MVP screens + states + annotations
-- [ ] Keep inventory rows in sync with Figma frame names
-- [ ] T-24 pack + weekly session (Malte leads, 60 min)
+- [ ] Continue **06-T3**, **06-T4**  
+- [ ] T-24 + weekly session  
 
 ## Week 9 — MVP finish + V2 start
 
-- [ ] MVP inventory complete → ready for Gate 4 pack
-- [ ] Start V2 frames + [V2-SCREEN-INVENTORY.md](docs/phases/06-product/V2-SCREEN-INVENTORY.md)
-- [ ] T-24 pack + weekly session (Malte leads, 60 min)
+- [ ] Finish MVP parts of **06-T3** / **06-T4**  
+- [ ] Start **06-T5** (V2 inventory)  
+- [ ] T-24 + weekly session  
 
-## Week 10 — V2 + acquisition + matching draft
+## Week 10 — V2 + acquisition + matching
 
-- [ ] Finish V2 Figma + inventory
-- [ ] Fill [DATA-ACQUISITION.md](docs/phases/07-data-matching/DATA-ACQUISITION.md) for dictionary fields
-- [ ] Draft [MATCHING-SPEC.md](docs/phases/07-data-matching/MATCHING-SPEC.md)
-- [ ] Start [OPS-MODEL.md](docs/phases/08-ops/OPS-MODEL.md) / [HEADCOUNT-PLAN.md](docs/phases/08-ops/HEADCOUNT-PLAN.md)
-- [ ] T-24 pack + weekly session (Malte leads, 60 min)
+- [ ] Finish **07-T2**, **07-T3**, start **07-T4**  
+- [ ] Continue **06-T5**  
+- [ ] Start [08-ops](docs/phases/08-ops/WORKSHEET.md) **08-T1** if time  
+- [ ] T-24 + weekly session  
 
-## Week 11 — Ops + V3 start + Gate 4
+## Week 11 — Ops + Gate 4
 
-- [ ] Finish matching spec + ops checkpoint pack
-- [ ] Frame key V3 flows in Figma
-- [ ] Gate brief in T-24 pack (Gate 4 + ops checkpoint)
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) — **Gate 4** is Decision A; **ops checkpoint** is Decision B; log both; update STATUS
+Worksheets: [07](docs/phases/07-data-matching/WORKSHEET.md) · [08](docs/phases/08-ops/WORKSHEET.md) · [06](docs/phases/06-product/WORKSHEET.md)
+
+- [ ] Finish **07-T4**, **07-T5**  
+- [ ] **08-T2** … **08-T5**  
+- [ ] Gate 4 readiness on **06-T5**  
+- [ ] **Gate 4** + ops checkpoint  
 
 ---
 
 ## Week 12 — V3 Figma finish
 
-- [ ] Complete V3 + [V3-SCREEN-INVENTORY.md](docs/phases/06-product/V3-SCREEN-INVENTORY.md)
-- [ ] Align [VERSION-MAP.md](docs/phases/06-product/VERSION-MAP.md)
-- [ ] T-24 pack + weekly session (Malte leads, 60 min)
+- [ ] Complete remaining **06-T5** (V3 + version map)  
+- [ ] T-24 + weekly session  
 
 ## Week 13 — Finance + Gate 5
 
-Phase: [09-finance](docs/phases/09-finance/) · Outline: [MODEL-OUTLINE.md](docs/phases/09-finance/MODEL-OUTLINE.md)
+Worksheet: [09-finance/WORKSHEET.md](docs/phases/09-finance/WORKSHEET.md)
 
-- [ ] Build spreadsheet per model outline; link from [FINANCIAL-MODEL.md](docs/phases/09-finance/FINANCIAL-MODEL.md)
-- [ ] Fill [MILESTONE-PROJECTIONS.md](docs/phases/09-finance/MILESTONE-PROJECTIONS.md) (≥3 milestones, 3 scenarios)
-- [ ] Gate brief in T-24 pack
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) — **Gate 5** is Decision A: lock finance shape; log decision
+- [ ] All **09-T#** tasks (spreadsheet + narrative + milestones)  
+- [ ] **Gate 5**  
 
 ## Week 14 — Risk + handoff + Gate 6
 
-Phases: [10-risk](docs/phases/10-risk/) · [11-handoff](docs/phases/11-handoff/)
+Worksheets: [10-risk](docs/phases/10-risk/WORKSHEET.md) · [11-handoff](docs/phases/11-handoff/WORKSHEET.md)
 
-- [ ] [RISK-REGISTER.md](docs/phases/10-risk/RISK-REGISTER.md), [COMPLIANCE-BRIEF.md](docs/phases/10-risk/COMPLIANCE-BRIEF.md), [ASSUMPTIONS.md](docs/phases/10-risk/ASSUMPTIONS.md), [KILL-CRITERIA.md](docs/phases/10-risk/KILL-CRITERIA.md)
-- [ ] Complete [SYSTEM-CONTEXT.md](docs/phases/11-handoff/SYSTEM-CONTEXT.md), [BUILD-CONSTRAINTS.md](docs/phases/11-handoff/BUILD-CONSTRAINTS.md), [OPEN-QUESTIONS-FOR-ENG.md](docs/phases/11-handoff/OPEN-QUESTIONS-FOR-ENG.md)
-- [ ] Run [HANDOFF-CHECKLIST.md](docs/phases/11-handoff/HANDOFF-CHECKLIST.md)
-- [ ] Gate brief in T-24 pack
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) — **Gate 6** is Decision A: Daniel accepts handoff; log decision; update STATUS
+- [ ] All **10-T#** tasks  
+- [ ] All **11-T#** tasks  
+- [ ] **Gate 6**  
 
 ---
 
 ## Weeks 15–16 — Buffer
 
-- [ ] Only rework / evidence / polish from gate feedback
-- [ ] No new niche, version, or scope without a decision-log entry
-- [ ] T-24 pack + weekly session (Malte leads, 60 min) each week
-- [ ] Final STATUS: all gates accepted or explicitly deferred with owner + date
+- [ ] Only rework from gate feedback  
+- [ ] No new niche/version/scope without decision log  
+- [ ] Final STATUS: gates closed or deferred with owner + date  

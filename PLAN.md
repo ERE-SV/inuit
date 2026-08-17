@@ -2,17 +2,17 @@
 
 > **Schedule and narrative.**  
 > **Total:** 16 weeks = **14 weeks planned work** + **2 weeks buffer**.  
-> **Canonical definition of done** = each phase’s [`docs/phases/*/README.md`](docs/phases/README.md).  
-> **Week-by-week tasks** = [`PLAN-WEEKS.md`](PLAN-WEEKS.md).  
-> **Stubs** = linked files below (already created — fill them, don’t recreate).
+> **Primary work product:** each phase [`WORKSHEET.md`](docs/phases/WORKSHEET-GUIDE.md) (guided tasks + proof).  
+> **Week checklist:** [`PLAN-WEEKS.md`](PLAN-WEEKS.md) (points at task IDs like `05-T3`).  
+> Stubs in phase folders are optional evidence only.
 
 ## How to use this doc
 
-1. Read [CHARTER.md](CHARTER.md) once.  
-2. Work from [PLAN-WEEKS.md](PLAN-WEEKS.md) day to day.  
-3. Fill linked stubs; tick DoD in the **phase README**.  
+1. Read [CHARTER.md](CHARTER.md) and [docs/phases/WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md) once.  
+2. Work from [PLAN-WEEKS.md](PLAN-WEEKS.md) day to day (task IDs).  
+3. Complete the phase **WORKSHEET.md** (Answer + Proof on every sub-question).  
 4. Keep [STATUS.md](STATUS.md) current.  
-5. If PLAN text and a phase README disagree → **phase README wins**; then fix PLAN.
+5. If anything conflicts → **worksheet + WORKSHEET-GUIDE win**; then fix PLAN.
 
 ---
 
@@ -201,22 +201,19 @@ Full detail: [meetings/README.md](meetings/README.md).
 
 ## Deliverable index
 
-| Artifact | Stub | Phase DoD |
-| --- | --- | --- |
-| Market brief | [MARKET-BRIEF.md](docs/phases/01-market/MARKET-BRIEF.md) | [01 README](docs/phases/01-market/README.md) |
-| Competitor matrix | [COMPETITOR-MATRIX.md](docs/phases/02-competitive/COMPETITOR-MATRIX.md) | [02 README](docs/phases/02-competitive/README.md) |
-| Beachhead | [BEACHHEAD-RECOMMENDATION.md](docs/phases/03-beachhead/BEACHHEAD-RECOMMENDATION.md) | [03 README](docs/phases/03-beachhead/README.md) |
-| GTM plan | [GTM-PLAN.md](docs/phases/04-gtm/GTM-PLAN.md) | [04 README](docs/phases/04-gtm/README.md) |
-| Brand principles | [BRAND-PRINCIPLES.md](docs/phases/05-brand/BRAND-PRINCIPLES.md) | [05 README](docs/phases/05-brand/README.md) |
-| Product concept | [PRODUCT-CONCEPT.md](docs/phases/06-product/PRODUCT-CONCEPT.md) | [06 README](docs/phases/06-product/README.md) |
-| Figma index | [FIGMA.md](docs/phases/06-product/FIGMA.md) | same |
-| MVP / V2 / V3 inventories | [MVP](docs/phases/06-product/MVP-SCREEN-INVENTORY.md) · [V2](docs/phases/06-product/V2-SCREEN-INVENTORY.md) · [V3](docs/phases/06-product/V3-SCREEN-INVENTORY.md) | same |
-| Data dictionary | [DATA-DICTIONARY.md](docs/phases/07-data-matching/DATA-DICTIONARY.md) | [07 README](docs/phases/07-data-matching/README.md) |
-| Data acquisition | [DATA-ACQUISITION.md](docs/phases/07-data-matching/DATA-ACQUISITION.md) | same |
-| Matching spec | [MATCHING-SPEC.md](docs/phases/07-data-matching/MATCHING-SPEC.md) | same |
-| Ops / headcount | [OPS-MODEL.md](docs/phases/08-ops/OPS-MODEL.md) · [HEADCOUNT-PLAN.md](docs/phases/08-ops/HEADCOUNT-PLAN.md) | [08 README](docs/phases/08-ops/README.md) |
-| Finance | [FINANCIAL-MODEL.md](docs/phases/09-finance/FINANCIAL-MODEL.md) · [MODEL-OUTLINE.md](docs/phases/09-finance/MODEL-OUTLINE.md) | [09 README](docs/phases/09-finance/README.md) |
-| Risk pack | [10-risk/](docs/phases/10-risk/) | [10 README](docs/phases/10-risk/README.md) |
-| Handoff | [11-handoff/](docs/phases/11-handoff/) | [11 README](docs/phases/11-handoff/README.md) |
-| Decisions | [DECISION-LOG.md](decisions/DECISION-LOG.md) | — |
-| Week checklist | [PLAN-WEEKS.md](PLAN-WEEKS.md) | — |
+| Phase | Guided worksheet (primary) |
+| --- | --- |
+| 01 Market | [WORKSHEET.md](docs/phases/01-market/WORKSHEET.md) |
+| 02 Competitive | [WORKSHEET.md](docs/phases/02-competitive/WORKSHEET.md) |
+| 03 Beachhead | [WORKSHEET.md](docs/phases/03-beachhead/WORKSHEET.md) |
+| 04 GTM | [WORKSHEET.md](docs/phases/04-gtm/WORKSHEET.md) |
+| 05 Brand | [WORKSHEET.md](docs/phases/05-brand/WORKSHEET.md) |
+| 06 Product | [WORKSHEET.md](docs/phases/06-product/WORKSHEET.md) |
+| 07 Data & matching | [WORKSHEET.md](docs/phases/07-data-matching/WORKSHEET.md) |
+| 08 Ops | [WORKSHEET.md](docs/phases/08-ops/WORKSHEET.md) |
+| 09 Finance | [WORKSHEET.md](docs/phases/09-finance/WORKSHEET.md) |
+| 10 Risk | [WORKSHEET.md](docs/phases/10-risk/WORKSHEET.md) |
+| 11 Handoff | [WORKSHEET.md](docs/phases/11-handoff/WORKSHEET.md) |
+| How to use | [WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md) |
+| Week checklist | [PLAN-WEEKS.md](PLAN-WEEKS.md) |
+| Decisions | [DECISION-LOG.md](decisions/DECISION-LOG.md) |
