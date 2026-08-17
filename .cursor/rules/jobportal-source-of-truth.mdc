@@ -1,0 +1,30 @@
+---
+description: Job portal repo is the source of truth for company definition work
+globs:
+alwaysApply: true
+---
+
+# Job portal — workspace rules
+
+This repository is the **source of truth** for defining the job-marketplace company (strategy → Figma specs → finance). It is not yet an application codebase.
+
+## Must
+
+- Put lasting work in `docs/phases/`, `decisions/`, or `meetings/notes/` — not only chat.
+- Follow `CHARTER.md`, `PLAN.md`, and `PLAN-WEEKS.md` for scope and sequence.
+- Follow `RESEARCH-STANDARD.md` for evidence; cite URL + access date.
+- Update `STATUS.md` when week focus, gates, or blockers change.
+- Treat `decisions/DECISION-LOG.md` as authoritative for locked choices.
+
+## Must not
+
+- Build a coded frontend/backend unless explicitly asked in a later program.
+- Mark a gate as approved; only Daniel locks decisions in the decision log.
+- Re-open a locked beachhead/GTM/brand without a new decision entry.
+- Expand MVP/V2/V3 scope after the scope checkpoint without logging a decision.
+- Invent statistics or competitor pricing.
+
+## Ideation vs phases
+
+- `docs/brief/` = pre-hire assumptions (may be outdated).
+- `docs/phases/` = current program output. Prefer phases when they exist.
