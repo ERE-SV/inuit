@@ -7,7 +7,7 @@
 | **Answers live in** | [WORKSHEET.md](../WORKSHEET.md) (`01-T1-Q1` … `Q21`) |
 | **Week** | 1 (Q1–Q5, Q12, Q14–Q16) · 2 (Q6–Q11, Q13, Q17–Q21) |
 | **Formal gate** | None — feeds Gate 1 later |
-| **Optional dump** | [MARKET-BRIEF.md](../MARKET-BRIEF.md) §1 · [evidence/APPLY-LOG.md](../evidence/APPLY-LOG.md) |
+| **Evidence** | [MARKET-BRIEF.md](../MARKET-BRIEF.md) §1 (optional dump) · [evidence/APPLY-LOG.md](../evidence/APPLY-LOG.md) (**required** for Q16) |
 
 This file is the **assignment definition**. Do not write answers here.
 
@@ -105,7 +105,24 @@ Start in **Switzerland**. DACH channels only if Swiss users already use them. Di
 
 ### Proof and `unknown`
 
-[RESEARCH-STANDARD.md](../../../../RESEARCH-STANDARD.md): no invented statistics. **`unknown` is a finished answer** if you say what you opened and what a stronger source would be. Private cost-per-hire and portal revenue share are often `unknown`.
+[RESEARCH-STANDARD.md](../../../../RESEARCH-STANDARD.md): no invented statistics. **`unknown` is a finished answer only after a real search** — name what you opened and what a stronger source would be. A blank cell is not `unknown`.
+
+**Must attempt (cannot skip the search):**
+
+| Item | Required output | `unknown` allowed for |
+| --- | --- | --- |
+| Q6 volume | A named official CH series (hires, vacancies, or employment change) + period | Industry split |
+| Q3 pricing | You **opened** the employer pricing/product page for every Q2 channel | The CHF figure |
+| Q8 / Q9 | Search for the **same three industries** (brief shortlist) | Days / CHF if unpublished |
+| Q10 tightness | ≥2 tight and ≥1 slack with *some* official or association signal | Precise vacancy rates |
+| Q11 | ≥1 seasonal and ≥1 growing/shrinking, each sourced | Fine monthly series |
+| Q13 | You opened arbeit.swiss or SECO, one cantonal RAV page, one university/FH career page | Subsidy **amounts** |
+| Q16 | 3 flows, 3 channel types, **one KMU and one larger** if honest targets exist | Submit vs stop-at-review |
+| Q19 | How each required portal **makes money** (listings, seats, etc.) from public pages | Revenue share; cost per hire |
+| Q20 | ≤6 sourced trend bullets | — |
+| Q21 | **≥2 named non-EU** disruptors (name, country, job, URL) | A CH/DACH clone existing |
+
+Private cost-per-hire and portal **share** will often stay `unknown`. That is fine. “I didn’t look” is not.
 
 ---
 
@@ -256,7 +273,7 @@ Short lists. T2 and Phase 02 reuse these rows; do not write the full so-what ess
 
 - Use **your own identity** and truthful information. No fake names, fake degrees, or fake current-employer stories.
 - Submit only where you are a **plausible, honest** candidate. Otherwise stop at the last review screen and write why you did not submit.
-- Aim for a **KMU and a larger employer** if you can find honest targets.
+- Include **one KMU and one larger employer** if you can find honest targets; if not, say why in the log.
 - Log time, required fields, cover letter, account/ATS friction, and the pain-point IDs you will use in Q15.
 
 ### Leavers and roles — Q17–Q18
@@ -271,7 +288,7 @@ Short lists. T2 and Phase 02 reuse these rows; do not write the full so-what ess
 
 **Q20.** First-pass **trends** in the CH hiring market (≤6 bullets, each sourced). [01-T2](01-T2-TRENDS.md) reuses these and adds product “so what.” Do not skip T2.
 
-**Q21.** Disrupting players / startups that change matching, apply, or talent marketplace — **include at least two outside Europe** if you can find them. For each: name, country, one-line job, URL, whether a CH/DACH equivalent exists. Phase 02 builds the matrix from this seed list.
+**Q21.** Disrupting players / startups that change matching, apply, or talent marketplace — **at least two outside Europe** (required). For each: name, country, one-line job, URL, whether a CH/DACH equivalent exists. Phase 02 builds the matrix from this seed list.
 
 ---
 
@@ -297,7 +314,7 @@ You recommend; Daniel chooses.
 
 | Result | Looks like |
 | --- | --- |
-| **Pass** | Q1–Q21 answered; required tables + apply log exist; every number has URL + date or is `unknown`; KMU vs large is explicit; pain sits on journey steps; no fake applications; [SOURCES.md](../SOURCES.md) is current. |
+| **Pass** | Q1–Q21 answered; must-attempt searches done (§4); required tables + apply log exist; every number has URL + date or is `unknown` after search; KMU vs large is explicit; pain sits on journey steps; Q21 has ≥2 non-EU names; [SOURCES.md](../SOURCES.md) is current. |
 | **Incomplete** | Channels only; no apply log; journeys are generic “HR posts a job”; all economics blank instead of `unknown`; institutions skipped. |
 | **Fail** | Invented CHF or application counts; brief pasted as fact; fake identity; beachhead announced; “LinkedIn is dominant” with no observation. |
 
@@ -321,8 +338,8 @@ Depth beats a 40-row directory. Three well-sourced industries beat eight empty o
 
 | Next | How it uses T1 |
 | --- | --- |
-| [01-T2](01-T2-TRENDS.md) | Deepens Q20 with product “so what.” |
-| [01-T3](01-T3-SEGMENTS.md) | Reuses Q6, Q10, Q11, Q17, Q18 by path for the three segments. |
+| [01-T2](01-T2-TRENDS.md) | Product so-what on Q20 — not a new study. |
+| [01-T3](01-T3-SEGMENTS.md) | Same three industries; T1 paths for demand; T3 adds supply. |
 | [01-T4](01-T4-CONSTRAINTS.md) | ToS/robots on channels you already opened. |
 | Phase 02 | Channel + disruptor seeds; economics; dominant-channel claim to test. |
 | Phase 03 | Volume, tightness, fluctuation, wrong-hire, seasonality. |

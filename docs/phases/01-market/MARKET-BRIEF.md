@@ -67,21 +67,21 @@ See [01-T1-MARKET-FUNCTIONS.md](tasks/01-T1-MARKET-FUNCTIONS.md).
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-## 2. Trends (with “so what” for this product)
+## 2. Trends — product “so what” (01-T2)
 
-See [01-T2](tasks/01-T2-TRENDS.md). Reuse T1 §1.8 proofs.
+See [01-T2](tasks/01-T2-TRENDS.md). Reuse T1 §1.8 / Q20 proofs. Not a second BFS dump.
 
-| Trend (one line) | Evidence (URL + accessed + tier) | So what for this product |
-| --- | --- | --- |
-|  |  |  |
+| # | Trend (one line) | T1 path or URL + accessed + tier | Strength | So what for this product | If wrong (one row) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | strong / weak / unknown |  |  |
 
-## 3. Demand & supply signals (by segment)
+## 3. Three-segment comparison (01-T3)
 
-See [01-T3](tasks/01-T3-SEGMENTS.md). Reuse T1 volume / competition / fluctuation by path.
+See [01-T3](tasks/01-T3-SEGMENTS.md). Same three industries as T1. Demand-side cells cite T1 paths.
 
-| Segment | Demand signal | Supply signal | Geography (fact + inference) | Sources (URL + accessed) |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| Segment | Demand (T1 path) | Supply (T3) | Geography (fact + inference) | Time to hire (T1) | Tight/slack (T1) | Fluctuation (T1) | Wrong-hire (T1) | Sources |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
 
 ## 4. Regulatory & product constraints
 

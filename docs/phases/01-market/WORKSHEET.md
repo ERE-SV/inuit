@@ -8,7 +8,7 @@
 
 ### What this phase is
 
-You map how the Swiss hiring market actually functions today — volume and shape, channels (KMU vs corporate), company and applicant journeys, institutions (universities, Bund, cantons, subsidies), pain (including applying yourself), roles, channel economics, first-pass trends, and disruptors. Then you add product-relevant trends (T2), segment demand/supply (T3), and regulatory constraints (T4). You are collecting **evidence**, not picking a niche yet. Start from [SOURCES-STARTER.md](SOURCES-STARTER.md); log every source you use in [SOURCES.md](SOURCES.md). Before each task, read its **[task brief](tasks/README.md)**.
+You map how the Swiss hiring market actually functions today — volume and shape, channels (KMU vs corporate), company and applicant journeys, institutions (universities, Bund, cantons, subsidies), pain (including applying yourself), roles, channel economics, first-pass trends, and disruptors. Then T2 writes product **so what** on the T1 trend inventory (not a second study), T3 **compares** T1’s three industries and adds supply, T4 turns T1 channels into product constraints, and T5 audits citations and unknowns. You are collecting **evidence**, not picking a niche yet. Start from [SOURCES-STARTER.md](SOURCES-STARTER.md); log every source you use in [SOURCES.md](SOURCES.md). Before each task, read its **[task brief](tasks/README.md)**.
 
 ### Key terms
 
@@ -85,11 +85,11 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T1-Q8.** What **time to hire** can you source by industry (at least three industries)? Use `unknown` where missing.
+- [ ] **01-T1-Q8.** What **time to hire** can you source for the **same three industries** you use in Q6–Q11 (brief shortlist)? Search required; `unknown` after search is allowed.
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T1-Q9.** What **cost per hire** can you source by industry (at least three)? Do not treat a listing price as cost per hire unless the source does — and say so. `unknown` is allowed.
+- [ ] **01-T1-Q9.** What **cost per hire** can you source for those **same three industries**? Do not treat a listing price as cost per hire unless the source does — and say so. Search required; `unknown` after search is allowed.
   - **Answer:**  
   - **Proof:**  
 
@@ -123,7 +123,7 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T1-Q16.** Apply through **≥3 companies** and **≥3 channel types** using your own truthful identity; fill [evidence/APPLY-LOG.md](evidence/APPLY-LOG.md). Submit only as a plausible honest candidate; otherwise stop at last review and say why.
+- [ ] **01-T1-Q16.** Apply through **≥3 companies** and **≥3 channel types** using your own truthful identity; include **one KMU and one larger** employer if honest targets exist; fill [evidence/APPLY-LOG.md](evidence/APPLY-LOG.md). Submit only as a plausible honest candidate; otherwise stop at last review and say why.
   - **Answer:**  
   - **Proof:** (`evidence/APPLY-LOG.md`)
 
@@ -147,23 +147,23 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T1-Q21.** Which **disrupting players / startups** change matching, apply, or talent marketplaces — including **at least two outside Europe** if you can find them? Name, country, one-line job, URL, CH/DACH analogue or none. Phase 02 will matrix them.
+- [ ] **01-T1-Q21.** Which **disrupting players / startups** change matching, apply, or talent marketplaces — **at least two outside Europe** (required)? Name, country, one-line job, URL, CH/DACH analogue or none. Phase 02 will matrix them.
   - **Answer:**  
   - **Proof:**  
 
-### [ ] 01-T2 — Labour-market trends with “so what”
+### [ ] 01-T2 — Product “so what” on the T1 trend inventory
 
-**Task brief:** [01-T2-TRENDS.md](tasks/01-T2-TRENDS.md) — definition, output shape, quality bar  
-**Done when:** At least 4 trend claims each have a source and a product-relevant “so what.”  
-**Unlocks / feeds:** Positioning later; beachhead pain criteria  
+**Task brief:** [01-T2-TRENDS.md](tasks/01-T2-TRENDS.md) — not a second market study  
+**Done when:** ≥4 trends from T1-Q20 (≤2 adds) each have a product so-what; Q2 has a strength label; Q5 has if-wrong.  
+**Unlocks / feeds:** Positioning; beachhead pain criteria  
 
 #### Sub-questions
 
-- [ ] **01-T2-Q1.** What do official stats (BFS / opendata.swiss or similar) say about employment / unemployment / sector hiring that is relevant to a CH job marketplace? Summarize in ≤5 bullets.
+- [ ] **01-T2-Q1.** From [01-T1-Q20](tasks/01-T1-MARKET-FUNCTIONS.md) (and at most two adds if T1 missed something load-bearing), which trends will you carry? List with T1 proof paths — do not rewrite T1 official stats.
   - **Answer:**  
-  - **Proof:** (URL — accessed YYYY-MM-DD)  
+  - **Proof:**  
 
-- [ ] **01-T2-Q2.** What evidence exists (sourced) about apply volume, unqualified applications, or AI-generated applications / cover letters? If weak, say so.
+- [ ] **01-T2-Q2.** Apply volume / unqualified applications / AI cover letters — **so what** for matchmaking vs listing? Label strength `strong` / `weak` / `unknown`. Reuse T1-Q14–Q16.
   - **Answer:**  
   - **Proof:**  
 
@@ -171,46 +171,46 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T2-Q4.** Salary / compensation transparency or benchmarking in CH — what can you source, and **so what** for company profiles and seeker salary floors?
+- [ ] **01-T2-Q4.** Salary / compensation transparency in CH — **so what** for company ranges and seeker floors? `unknown` beats a guessed median.
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T2-Q5.** Pick one more trend you judge important for *this* product. State fact → **so what** → implication if the trend is wrong (**inference**).
+- [ ] **01-T2-Q5.** The one trend that would most change *this* product if wrong: fact → **so what** → implication if reversed (**inference**).
   - **Answer:**  
   - **Proof:**  
 
-### [ ] 01-T3 — Demand and supply by segment
+### [ ] 01-T3 — Three-segment comparison from T1 numbers
 
-**Task brief:** [01-T3-SEGMENTS.md](tasks/01-T3-SEGMENTS.md) — definition, output shape, quality bar  
-**Done when:** You can compare at least 3 candidate segments (see brief niches) on openings + candidates with citations.  
+**Task brief:** [01-T3-SEGMENTS.md](tasks/01-T3-SEGMENTS.md) — same three industries as T1; supply is the add  
+**Done when:** Comparison table cites T1 for demand-side cells; supply filled or `unknown`; Q5 is two sentences, not a lock.  
 **Unlocks / feeds:** Phase 03 scorecard liquidity rows  
 
 #### Sub-questions
 
-- [ ] **01-T3-Q1.** Which segments will you compare? Include at least three from the brief shortlist (e.g. specialized IT/consultants, Zurich bankers, healthcare/nurses, trades) or justify substitutes.
-  - **Answer:**  
-  - **Proof:** (reference [docs/brief/03-gtm-niche.md](../../brief/03-gtm-niche.md) + your choice rationale)  
-
-- [ ] **01-T3-Q2.** For each segment: what **demand** signals can you find (openings volume, shortage reports, industry associations)? Use `unknown` where missing.
+- [ ] **01-T3-Q1.** Which ≥3 segments? Default = the **same three industries** as T1 Q6–Q11. Substitutes: one sentence why. Brief names: [docs/brief/03-gtm-niche.md](../../brief/03-gtm-niche.md).
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T3-Q3.** For each segment: what **supply** signals can you find (graduates, job-seeker pools, network size proxies)? Use `unknown` where missing.
+- [ ] **01-T3-Q2.** Demand per segment — cite **T1 paths** (Q6, Q10, Q11, Q18). Add a source only if T1 has a hole. Do not invent a second demand series.
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T3-Q4.** Where is hiring geographically concentrated for each segment (city / canton / remote)? What does that imply for a Zurich-first vs CH-wide start? (**inference** OK if labeled.)
+- [ ] **01-T3-Q3.** **Supply** per segment (graduates, seeker pools, labeled proxies). This is the T3 add. `unknown` after search is allowed.
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T3-Q5.** Which segment looks strongest on *liquidity* vs strongest on *pain / cost of bad hire*? One sentence each — you are not locking a beachhead yet.
+- [ ] **01-T3-Q4.** Geography per segment (city / canton / remote) and implication for Zurich-first vs CH-wide (**inference** labeled).
   - **Answer:**  
   - **Proof:**  
 
-### [ ] 01-T4 — Regulatory and product constraints checklist
+- [ ] **01-T3-Q5.** Strongest on *liquidity* vs strongest on *pain / cost of bad hire* — one sentence each, pointing at the table. Not a beachhead lock.
+  - **Answer:**  
+  - **Proof:**  
 
-**Task brief:** [01-T4-CONSTRAINTS.md](tasks/01-T4-CONSTRAINTS.md) — definition, output shape, quality bar  
-**Done when:** Every item in the starter regulatory checklist has a note (constraint + implication + open legal question).  
+### [ ] 01-T4 — Regulatory product constraints (from T1 channels)
+
+**Task brief:** [01-T4-CONSTRAINTS.md](tasks/01-T4-CONSTRAINTS.md) — constraint → implication → open legal question  
+**Done when:** Every starter item has those three lines; Q4 names **two T1 channels**.  
 **Unlocks / feeds:** Phase 07 data/matching; Phase 10 compliance; crawl/commute design  
 
 #### Sub-questions
@@ -227,7 +227,7 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T4-Q4.** Scraping or reusing third-party listings — what ToS / robots.txt / opt-out issues did you find for at least two sources? (Flag for counsel; do not invent legality.)
+- [ ] **01-T4-Q4.** Scraping or reusing third-party listings — ToS / robots.txt / opt-out for **at least two channels from your T1 table**? Flag for counsel; do not invent legality.
   - **Answer:**  
   - **Proof:**  
 
@@ -239,10 +239,10 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-### [ ] 01-T5 — Sources log and brief quality pass
+### [ ] 01-T5 — Sources log and Phase 01 quality pass
 
-**Task brief:** [01-T5-SOURCES-PASS.md](tasks/01-T5-SOURCES-PASS.md) — definition, output shape, quality bar  
-**Done when:** [SOURCES.md](SOURCES.md) lists every URL used this phase with access dates; quantitative claims are checkable.  
+**Task brief:** [01-T5-SOURCES-PASS.md](tasks/01-T5-SOURCES-PASS.md) — audit, not new research  
+**Done when:** [SOURCES.md](SOURCES.md) is complete; no orphan numbers; Q4 artifacts exist; Q5 lists load-bearing unknowns.  
 **Unlocks / feeds:** Credibility for Gate 1 pack later  
 
 #### Sub-questions
@@ -259,15 +259,23 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
+- [ ] **01-T5-Q4.** Required artifacts exist (yes/path): T1 tables + apply log ≥3; T2 so-what table ≥4 rows; T3 comparison of the same three industries; T4 constraints table. See the checklist in the [T5 brief](tasks/01-T5-SOURCES-PASS.md).
+  - **Answer:**  
+  - **Proof:**  
+
+- [ ] **01-T5-Q5.** Which load-bearing claims are `unknown` (listing price, cost per hire, share, apply counts, …) so later phases must not treat them as facts?
+  - **Answer:**  
+  - **Proof:**  
+
 ## Gate / checkpoint pack (if any)
 
 No formal gate this phase. For the weekly with Daniel, bring (see each [task brief](tasks/README.md) for what he can usefully choose):
 
 - [ ] 01-T1 pack: channels + journeys + apply log (Week 1); volume / institutions / economics / disruptors (Week 2)  
-- [ ] Trend table with “so what” (01-T2)  
-- [ ] Segment demand/supply comparison (01-T3)  
-- [ ] Regulatory checklist status (01-T4)  
-- [ ] Updated [SOURCES.md](SOURCES.md)  
+- [ ] T2 so-what table (≥4 rows, strength on apply/AI)  
+- [ ] T3 comparison of T1’s three industries + supply  
+- [ ] T4 constraints (two T1 channels on scrape)  
+- [ ] T5: [SOURCES.md](SOURCES.md) + artifact checklist + load-bearing unknowns  
 
 ## Handoff to next phase
 

@@ -1,48 +1,42 @@
-# 01-T4 — Regulatory and product constraints checklist
+# 01-T4 — Regulatory product constraints (from T1 channels)
 
 | Field | Value |
 | --- | --- |
 | **Task ID** | `01-T4` |
 | **Phase** | [01-market](../README.md) |
 | **Answers live in** | [WORKSHEET.md](../WORKSHEET.md) (`01-T4-Q1` … `Q6`) |
-| **Week** | 2 |
-| **Formal gate** | None — flags feed Phase 07, Phase 10, and counsel |
+| **Week** | 2 — after T1 channels exist |
+| **Formal gate** | None — flags feed Phase 07, 10, and counsel |
 | **Optional dump** | [MARKET-BRIEF.md](../MARKET-BRIEF.md) §4 |
 
 This file is the **assignment definition**. Do not write answers here.
+
+T4 is **not** a legal opinion. It turns T1’s real channels and journeys into **product constraints** so matching, commute, scores, and crawl are not designed as if law were optional.
 
 ---
 
 ## 1. Definition
 
-You turn the starter **regulatory product checklist** into a set of **product constraints**: for each topic, what the product must be able to explain or refuse, what to assume until counsel reviews, and what is an **open legal question** (not an answer).
+For each required topic you write three lines: **constraint** (sourced) → **product implication** → **open legal question** (counsel later).
 
-Topics (required):
+Required topics:
 
-1. Processing candidate profiles for **matching** (purpose limitation).
-2. **Home address / commute** calculation (consent, minimization, employers do not see raw home address).
-3. Automated **“fit” scores** and notifications (transparency / human-in-the-loop).
-4. **Scraping or reusing** third-party listings (ToS / robots.txt / opt-out) for at least two sources.
-5. **Cross-border CH/EU** data — when this product would touch EU rules.
-6. Any **extra** constraint you discover, plus the starter checklist marked complete.
+1. Processing profiles for **matching** (purpose limitation).
+2. **Home / commute** (consent, minimization; employers do not see raw home address).
+3. Automated **fit scores** and dual notifications.
+4. **Scrape / reuse** of third-party listings — **≥2 sources from your T1 channels table**.
+5. **CH / EU** cross-border — when this product would touch EU rules.
+6. Starter checklist complete + any extra you actually found.
 
-**Done when:** every starter item has a note in the form **constraint → product implication → open legal question**, with official or primary pages as proof — not blog legal advice.
-
-This is **not** a legal opinion and **not** a compliance program. It is a flag list so matching, crawl, and commute are not designed as if law were optional.
+**Done when:** the constraints table is full, scrape rows name T1 channels, no sentence says “it is legal to…”
 
 ---
 
 ## 2. Why this task exists
 
-The product idea needs things that are legally sharp: rich profiles, commute from home, auto-match scores, and a bootstrap that **ingests other people’s listings** ([docs/brief/03-gtm-niche.md](../../../brief/03-gtm-niche.md), [docs/brief/05-tech-feasibility.md](../../../brief/05-tech-feasibility.md)).
+The idea needs rich profiles, commute from home, auto-scores, and bootstrap **ingest of other people’s ads** ([docs/brief/03-gtm-niche.md](../../../brief/03-gtm-niche.md)). T1 already named those channels and the apply/commute pain. T4 is the flag list so Phase 07/10 do not rediscover this.
 
-If T4 is skipped or written as “we will be GDPR compliant”:
-
-- Phase 07 will specify commute and scores with no constraints.
-- Phase 10 will rediscover the same questions.
-- Engineering handoff will look implementable and still be blocked.
-
-You **flag**. Counsel (later) **answers**. Daniel should see what cannot be casually promised in GTM or UI copy.
+You **flag**. Counsel **answers**. Daniel sees what GTM/UI must not promise.
 
 ---
 
@@ -50,42 +44,40 @@ You **flag**. Counsel (later) **answers**. Daniel should see what cannot be casu
 
 | Who | What they do |
 | --- | --- |
-| **Malte** | Read official nDSG / FDPIC / GDPR pages; observe ToS/robots on ≥2 listing sources; write constraints in plain language. |
-| **Daniel** | Sees which product bets (commute, crawl, auto-score) are “design under assumption” vs “needs review before build.” May prioritize which flags to take to counsel first — not a legal sign-off. |
-| **Phase 07 / 10 / 11** | Dictionary, matching spec, compliance brief, open questions for eng reuse these flags by path. |
+| **Malte** | Official nDSG / FDPIC / GDPR; ToS + robots on **two T1 channels**; plain-language constraints. |
+| **Daniel** | Prioritize counsel (crawl vs home vs scores). Not a sign-off. |
+| **Phase 07 / 10 / 11** | Reuse flags by path. |
 
-Do not ask Daniel to “approve crawling jobs.ch.”
+Do not ask Daniel to approve crawling jobs.ch.
 
 ---
 
 ## 4. Guiding context
 
-### Product constraints, not legal advice
+### Tie to T1
 
-Write as: “Until counsel reviews, the product should assume X, and must be able to explain Y to a user.”  
-Do not write: “It is legal to scrape Z.”
-
-Every item has three lines:
-
-| Line | Meaning |
+| T1 fact | T4 use |
 | --- | --- |
-| **Constraint** | What the rule or ToS appears to require or forbid (sourced). |
-| **Product implication** | What UI, data, or ops should do or avoid. |
-| **Open legal question** | What only counsel can answer. |
+| Channels table (Q1–Q5) | Q4 scrape sources **must be two named rows** from that table |
+| Applicant journey / apply log (home, docs uploaded) | Q1–Q2: what you already typed is personal data |
+| Notify-both-sides product idea | Q3: notifications are also processing |
+| Disruptors / aggregators (Q21) | Same ToS class of problem — do not assume “they do it so we can” |
 
-### Why these five topics (they match the product)
+### Constraint / implication / open question
 
-| Topic | Why it is on the starter list |
-| --- | --- |
-| Profile matching | The whole product is processing personal data for a new purpose — matching — not “just hosting a CV.” |
-| Home / commute | Seeker hard constraint; company has no “commute” field. Home is sensitive; employers should not see the raw address. |
-| Fit scores + notify both sides | Automated suggestion that can feel like a decision; transparency and human review matter. |
-| Scrape / reuse listings | Bootstrap GTM depends on ingesting existing ads. ToS ≠ “we looked at the homepage.” |
-| CH / EU | Seekers, employers, or vendors may sit in the EU; GDPR may apply even if the company is CH. |
+| Line | Meaning | Example shape (not legal advice) |
+| --- | --- | --- |
+| **Constraint** | What the page/ToS appears to require | “Purpose must be specified…” + URL |
+| **Product implication** | What we assume in UI/data until counsel | “Explain matching purpose in plain language before profile create.” |
+| **Open legal question** | Only counsel | “Does inferred commute from home require a separate consent?” |
+
+**Fail:** “We will be GDPR compliant.” **Fail:** “Public listings can always be reused.”
 
 ### Official pages first
 
-Prefer FDPIC (EDÖB), Swiss nDSG materials, official GDPR / Commission pages. Tier C “GDPR guides” are not enough for a constraint you will design against.
+FDPIC (EDÖB), nDSG materials, official GDPR/Commission. Tier C “GDPR blogs” are not enough to design against.
+
+`unknown` here means **open legal question** after you opened the official page — not “skipped.”
 
 ---
 
@@ -93,87 +85,75 @@ Prefer FDPIC (EDÖB), Swiss nDSG materials, official GDPR / Commission pages. Ti
 
 **In**
 
-- Plain-language purpose limitation for matching profiles.
-- Working assumptions for commute (consent, minimization, no raw home address to employers).
-- Transparency / human-in-the-loop flags for scores and notifications.
-- ToS / robots / opt-out notes for **at least two** concrete sources (e.g. a major portal + a career-page example).
-- When CH/EU cross-border likely triggers extra rules.
-- Extra constraints you found (discrimination/fairness, retention, enrichment vendors — only if you actually opened a source).
+- Plain-language purpose limitation for matching.
+- Commute assumptions: consent, minimization, no raw home address to employers.
+- Score + notify transparency / human-in-the-loop **flags**.
+- ToS / robots / opt-out on **≥2 T1 channels** (e.g. a major portal + a career page or second portal).
+- Concrete CH/EU triggers (EU applicants, EU company users, EU subprocessors).
+- Extras only if you opened a source (fairness, retention, enrichment vendors).
 
 **Out**
 
-- A DPIA, vendor DPA, or “we are compliant” statement.
-- A crawl implementation plan or parser list.
-- Invented legality (“fair use,” “public data is free”).
-- Resolving Phase 10 kill criteria (you only feed them).
+- DPIA, DPAs, “we are compliant.”
+- Crawl architecture.
+- Invented legality (“fair use”).
+- Resolving Phase 10 kill criteria.
 
 ---
 
 ## 6. Required output
 
-A **checklist table** (in the worksheet, MARKET-BRIEF §4, or `evidence/constraints.md`):
+[MARKET-BRIEF.md](../MARKET-BRIEF.md) §4 or `evidence/constraints.md`:
 
 | Topic | Constraint (sourced) | Product implication | Open legal question | Proof (URL + accessed) |
 | --- | --- | --- | --- | --- |
 | Matching / purpose limitation |  |  |  |  |
 | Home / commute |  |  |  |  |
-| Automated fit scores / notify |  |  |  |  |
-| Scrape / reuse (source A) |  |  |  |  |
-| Scrape / reuse (source B) |  |  |  |  |
+| Fit scores / notify both |  |  |  |  |
+| Scrape / reuse — T1 channel A |  |  |  |  |
+| Scrape / reuse — T1 channel B |  |  |  |  |
 | CH / EU cross-border |  |  |  |  |
-| Extra (if any) |  |  |  |  |
+| Extra (or “none found”) |  |  |  |  |
 
-Also tick the list in [SOURCES-STARTER.md](../SOURCES-STARTER.md) **or** paste status in Q6 — one place of truth, pointed to from the other.
+Tick [SOURCES-STARTER.md](../SOURCES-STARTER.md) **or** paste status in Q6 — one place of truth.
 
 ---
 
 ## 7. Method
 
-1. Official privacy pages first; log in [SOURCES.md](../SOURCES.md).
-2. Write Q1 in language a user could read (“we use your profile to…”).
-3. Q2: assume **employers never see raw home address** until counsel says otherwise. Document consent + minimization as product requirements.
-4. Q3: scores and dual notifications — what would need to be explainable; where a human (employer) still decides to interview.
-5. Q4: open robots.txt and ToS/terms for ≥2 sources you might ingest. Quote or paraphrase the relevant clause; **flag for counsel**.
-6. Q5: concrete triggers (EU applicants, EU company users, EU subprocessors, targeting EU). “Needs legal review before build” list.
-7. Q6: close the starter checklist; add extras.
+1. Official privacy pages → [SOURCES.md](../SOURCES.md).
+2. Q1 in user-facing language (“we use your profile to…”).
+3. Q2: assume employers **never** see raw home address until counsel says otherwise.
+4. Q3: what must be explainable; who still decides to interview (human).
+5. Q4: robots.txt **and** terms that mention automated access, for two **T1** channels. Quote/paraphrase; flag for counsel.
+6. Q5: trigger list + “needs review before build.”
+7. Q6: close starter checklist.
 
 ---
 
 ## 8. Sub-questions — what “complete” means
 
-### 01-T4-Q1 — Purpose limitation / matching
+**Q1.** What must the product explain for matching? Official page + date.
 
-What must the product explain to a user in plain language? Proof: official nDSG / FDPIC or GDPR page + access date.
+**Q2.** Home/commute: consent, minimization, no raw address to employers — **assumptions until counsel**.
 
-### 01-T4-Q2 — Home / commute
+**Q3.** Scores + notifications: transparency / human-in-the-loop **flags**, not a model design.
 
-Consent, minimization, and “employers don’t see raw home address” as **assumptions until counsel**. Not a full location-architecture.
+**Q4.** ≥2 **named T1 channels**. ToS / robots / opt-out. Not a legality conclusion.
 
-### 01-T4-Q3 — Automated scores and notifications
+**Q5.** When EU rules likely apply; what is blocked until review.
 
-Transparency and human-in-the-loop **expectations to flag**. You are not designing the model.
-
-### 01-T4-Q4 — Scrape / reuse
-
-≥2 named sources. What ToS / robots / opt-out you found. Explicit: not a legality conclusion.
-
-### 01-T4-Q5 — CH / EU
-
-When this product would likely touch EU rules; what is “needs legal review before build.”
-
-### 01-T4-Q6 — Checklist complete + extras
-
-Starter items ticked or pasted; extras listed or “none found.”
+**Q6.** Starter checklist done; extras or “none found.”
 
 ---
 
-## 9. What Daniel can usefully react to
+## 9. What Daniel can usefully choose
 
-- Which flags are **blocking for bootstrap GTM** (crawl/reuse) vs design-time assumptions (commute, scores).
-- Order for later counsel: crawl ToS vs privacy of home vs automated scoring.
-- Whether Week 2 messaging should already avoid “we scrape the market” language.
+- Counsel order: crawl/reuse vs home vs automated scoring.
+- Whether Week 2 language already avoids “we scrape the market.”
+- Which T1 channels are **off-limits to ingest** until review (assumption, not a verdict).
 
-No legal approval in the weekly.
+No legal approval.
 
 ---
 
@@ -181,19 +161,18 @@ No legal approval in the weekly.
 
 | Result | Looks like |
 | --- | --- |
-| **Pass** | All six Qs; each required topic has constraint + implication + open question; official/primary proof; ≥2 named scrape sources; no “it is legal.” |
-| **Incomplete** | Generic “comply with GDPR”; only one scrape source; commute skipped because “hard.” |
-| **Fail** | Legal conclusions; invented ToS; “public listings can always be reused.” |
+| **Pass** | Three lines per topic; official/primary proof; Q4 names two T1 channels; no “it is legal.” |
+| **Incomplete** | “Comply with GDPR”; one scrape source; commute skipped; Q4 uses a site not in T1. |
+| **Fail** | Legal conclusions; invented ToS; “public data is free.” |
 
 ---
 
 ## 11. Common mistakes
 
-- Treating this as a law-school essay.
-- Forgetting that **notifications to both sides** are also processing.
-- Checking robots.txt but not the terms that mention automated access.
-- Mixing T4 (constraints) with T1 (channel jobs) — T1 sees the channel; T4 sees whether reuse is restricted.
-- Closing Q6 without opening the starter checklist.
+- Law-school essay with no product implication.
+- Forgetting dual notifications are processing.
+- robots.txt without the terms clause on automated access.
+- Mixing T1 (what the channel *is*) with T4 (whether reuse is restricted).
 
 ---
 
@@ -201,16 +180,14 @@ No legal approval in the weekly.
 
 | Next | How it uses T4 |
 | --- | --- |
-| Phase 07 | Dictionary, commute fields, score explanations, acquisition methods. |
-| Phase 10 | Compliance brief, risk register, kill criteria. |
-| Phase 11 | Open questions for eng — do not leave “is crawl legal?” undiscovered until handoff. |
-| Phase 02 / 04 | Honesty in positioning: do not claim a crawl-fed product as if it were first-party supply. |
+| Phase 07 | Dictionary, commute, score copy, acquisition methods. |
+| Phase 10 / 11 | Compliance, risks, open questions for eng. |
+| Phase 02 / 04 | Do not market a crawl-fed product as first-party supply. |
 
 ---
 
 ## 13. Start here
 
-1. Starter checklist in [SOURCES-STARTER.md](../SOURCES-STARTER.md).
-2. Official nDSG / FDPIC / GDPR pages (Tier A).
-3. ToS + robots for two channels you already opened in [01-T1](01-T1-MARKET-FUNCTIONS.md).
-4. Fill the constraints table; then `01-T4-Q1` … `Q6`.
+1. T1 channels table — pick two ingest candidates.
+2. [SOURCES-STARTER.md](../SOURCES-STARTER.md) checklist + official nDSG/FDPIC/GDPR.
+3. Fill the constraints table; then `01-T4-Q1` … `Q6`.

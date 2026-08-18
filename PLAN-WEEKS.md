@@ -19,7 +19,7 @@ Task briefs: [01-market/tasks/](docs/phases/01-market/tasks/README.md)
 
 - [ ] Read **Learn** section on the worksheet  
 - [ ] Read **[01-T1 brief](docs/phases/01-market/tasks/01-T1-MARKET-FUNCTIONS.md)** then complete **01-T1-Q1–Q5**, **Q12**, **Q14–Q16** (channels, journeys, apply log)  
-- [ ] Start **[01-T2](docs/phases/01-market/tasks/01-T2-TRENDS.md)** if time — or wait until T1-Q20 in Week 2  
+- [ ] Do **not** start T2 until T1-Q20 exists (T2 is so-what on that inventory)  
 - [ ] T-24 pack + weekly session (you lead)  
 - [ ] Update [STATUS.md](STATUS.md)  
 
@@ -29,7 +29,10 @@ Worksheets: [01](docs/phases/01-market/WORKSHEET.md) → [02](docs/phases/02-com
 Task briefs: [01-T1](docs/phases/01-market/tasks/01-T1-MARKET-FUNCTIONS.md) · [01-T2](docs/phases/01-market/tasks/01-T2-TRENDS.md) · [01-T3](docs/phases/01-market/tasks/01-T3-SEGMENTS.md) · [01-T4](docs/phases/01-market/tasks/01-T4-CONSTRAINTS.md) · [01-T5](docs/phases/01-market/tasks/01-T5-SOURCES-PASS.md)
 
 - [ ] Finish **01-T1-Q6–Q11**, **Q13**, **Q17–Q21** (volume, institutions, roles, economics, trends inventory, disruptors)  
-- [ ] Finish **01-T2**, **01-T3**, **01-T4**, **01-T5** (read each task brief first)  
+- [ ] **01-T2** — product so-what on T1-Q20 (not a second BFS dump)  
+- [ ] **01-T3** — compare T1’s three industries; add supply  
+- [ ] **01-T4** — constraints; scrape rows = two T1 channels  
+- [ ] **01-T5** — audit + artifact checklist + load-bearing unknowns  
 - [ ] Mark phase 01 worksheet Status → review/done when complete  
 - [ ] Start **02-T1** — competitor set (≥8)  
 - [ ] Start **02-T2** — feature/GTM comparison  

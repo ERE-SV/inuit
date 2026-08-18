@@ -1,37 +1,37 @@
-# 01-T5 — Sources log and brief quality pass
+# 01-T5 — Sources log and Phase 01 quality pass
 
 | Field | Value |
 | --- | --- |
 | **Task ID** | `01-T5` |
 | **Phase** | [01-market](../README.md) |
-| **Answers live in** | [WORKSHEET.md](../WORKSHEET.md) (`01-T5-Q1` … `Q3`) |
-| **Week** | 2 (keep the log **from day one** of Week 1) |
-| **Formal gate** | None — this is the credibility pass for everything Phase 01 will hand to Gate 1 |
+| **Answers live in** | [WORKSHEET.md](../WORKSHEET.md) (`01-T5-Q1` … `Q5`) |
+| **Week** | 2 (log from day one of Week 1; audit last) |
+| **Formal gate** | None — credibility pass for Gate 1 later |
 | **Canonical log** | [SOURCES.md](../SOURCES.md) |
 
 This file is the **assignment definition**. Do not write answers here.
+
+T5 is **not** new research. It is the audit that T1–T4 are usable: every number is cited or deleted, required T1 outputs exist, and load-bearing `unknown`s are listed so later phases do not treat them as facts.
 
 ---
 
 ## 1. Definition
 
-You run a **quality pass over all Phase 01 evidence**: every URL used in T1–T4 is in [SOURCES.md](../SOURCES.md) with access date and tier; you opened **5–8 Tier A sources before** leaning on press/blogs; every remaining number is checkable or deleted; the optional long narrative (if any) does not replace worksheet answers.
+You confirm:
 
-**Done when:** [SOURCES.md](../SOURCES.md) is complete for the phase, Q1–Q2 are an honest audit, [01-T1](01-T1-MARKET-FUNCTIONS.md) Q1–Q21 and the apply log are cited or `unknown`, and the worksheet answers for T1–T4 still stand alone if someone never opens [MARKET-BRIEF.md](../MARKET-BRIEF.md).
+1. [SOURCES.md](../SOURCES.md) lists every URL used in T1–T4 (access date + tier).
+2. You opened **5–8 Tier A** sources **before** leaning on press.
+3. Every remaining number has URL + date, or you **deleted** it.
+4. Required T1 tables + apply log + T2 so-what table + T3 comparison exist.
+5. A short list of **load-bearing unknowns** (listing price, cost per hire, share, apply counts, etc.).
 
-T5 is not new research. It is the **bar** that makes T1–T4 usable in Week 2 and in the Gate 1 pack two weeks later.
+**Done when:** Q1–Q5 are an honest audit and the worksheet answers for T1–T4 still stand alone without the essay.
 
 ---
 
 ## 2. Why this task exists
 
-Gates can be rejected for weak evidence even when the story “sounds right” ([RESEARCH-STANDARD.md](../../../../RESEARCH-STANDARD.md)). Phase 01 has no formal gate, but Gate 1 will reuse these sources. T5 is the last chance to catch invented or orphan numbers before they harden into beachhead scores.
-
-If T5 is a shrug:
-
-- Phase 02–03 inherit unsourced CHF figures and shortage claims.
-- Daniel cannot click through load-bearing facts in 15 minutes.
-- You will redo citations under time pressure in Week 4.
+A gate can fail on weak evidence even if the story sounds right ([RESEARCH-STANDARD.md](../../../../RESEARCH-STANDARD.md)). Gate 1 will reuse this log. T5 is the last chance to stop invented CHF and brief-statistics from hardening into beachhead scores.
 
 ---
 
@@ -39,35 +39,29 @@ If T5 is a shrug:
 
 | Who | What they do |
 | --- | --- |
-| **Malte** | Audit T1–T4 + MARKET-BRIEF + evidence files against SOURCES.md. Fix or delete. |
-| **Daniel** | May spot-check 3–5 URLs. He should not have to hunt for “where did this number come from?” |
-| **Gate 1 (Week 4)** | Scorecard and recommendation must point back at this log, not at chat. |
+| **Malte** | Audit T1–T4, MARKET-BRIEF, apply log, evidence/ against SOURCES.md. |
+| **Daniel** | Spot-check 3–5 URLs; read the unknown list. |
+| **Gate 1** | Scorecard cites this log, not chat. |
 
-T5 itself usually needs no decision — unless you must drop a claim (e.g. listing price stays `unknown`). Then say so in T-24.
+Usually no decision unless a brief claim is now `unknown` (then say so in T-24).
 
 ---
 
 ## 4. Guiding context
 
-### What “Tier A first” means
+### Tier A first
 
-The worksheet asks: did you open 5–8 **Tier A** sources **before** leaning on press/blogs?
-
-Tier A here: BFS / official stats, opendata.swiss, official law / FDPIC / GDPR pages, **primary observation** of portal pricing and product pages, company filings if used.
-
-Opening jobs.ch’s pricing or product page counts. A recap article about jobs.ch does **not** replace that visit.
-
-Order matters: official + live sites first, then Tier B to interpret. T5 checks that you did not write the brief from blogs and sprinkle BFS at the end.
+BFS / official stats, opendata.swiss, official law / FDPIC / GDPR, **live** portal pricing/product pages, filings. Opening jobs.ch’s pricing page counts. A recap article does not replace that visit.
 
 ### Every number
 
-If a figure appears in any T1–T4 answer, MARKET-BRIEF, or evidence file, it needs **URL + access date** (or a path to a screenshot/table that itself cites the URL). Otherwise **fix or delete**. “Order of magnitude from the brief” is not a citation.
+Search answers for digits, “k CHF,” “%,” “shortage,” “months,” “applications.” Each hit: SOURCES.md row or delete. The brief’s 2–3k / 40–50 is **not** a citation.
 
-`unknown` is a finished answer. A bare number is not.
+`unknown` after search is finished. A bare number is not.
 
 ### Worksheet stands alone
 
-Long narrative is optional (Q3). Daniel’s path is: worksheet → Proof path → source. If the only good answer lives in a three-page essay and the worksheet says “see MARKET-BRIEF,” that is incomplete.
+Daniel’s path: worksheet → Proof path → source. “See MARKET-BRIEF” with an empty worksheet answer is incomplete.
 
 ---
 
@@ -75,16 +69,17 @@ Long narrative is optional (Q3). Daniel’s path is: worksheet → Proof path �
 
 **In**
 
-- Complete [SOURCES.md](../SOURCES.md) rows: ID, claim summary, URL, accessed, tier.
-- List of 5–8 Tier A sources you opened early (Q1).
-- Yes/no + list of numbers you fixed or deleted (Q2).
-- Path to optional dump, or “no long narrative” (Q3).
+- SOURCES.md complete.
+- Tier A list (Q1).
+- Numbers audit (Q2).
+- Optional dump path or `none` (Q3).
+- Required-artifact checklist (Q4).
+- Load-bearing unknown list (Q5).
 
 **Out**
 
-- New trend or segment research (go back to T2/T3).
-- Re-opening T1–T4 questions except to add proof.
-- A bibliography of things you did not use.
+- New trends or segments (go back to T2/T3).
+- Re-answering T1–T4 except to add proof.
 
 ---
 
@@ -96,49 +91,57 @@ Long narrative is optional (Q3). Daniel’s path is: worksheet → Proof path �
 | --- | --- | --- | --- | --- |
 | S-01 | … | https://… | YYYY-MM-DD | A |
 
-One row per load-bearing use. Same URL may appear twice if it supports two claims — or one row with a careful summary. Prefer **traceable claims** over a URL dump.
+### Q4 checklist (yes/no + path)
 
-### Worksheet
+| Artifact | Exists? | Path |
+| --- | --- | --- |
+| T1 channels table |  |  |
+| T1 market-shape table |  |  |
+| T1 company + applicant journeys |  |  |
+| T1 institutions table |  |  |
+| T1 roles table |  |  |
+| T1 channel economics |  |  |
+| Apply log ≥3 flows, 3 channel types |  | [evidence/APPLY-LOG.md](../evidence/APPLY-LOG.md) |
+| T2 so-what table ≥4 rows |  |  |
+| T3 comparison (same three industries) |  |  |
+| T4 constraints table |  |  |
 
-- **Q1:** the 5–8 Tier A list (names + URLs). Proof = SOURCES.md.
-- **Q2:** `yes` (all numbers cited) or `no` plus what you fixed/deleted.
-- **Q3:** path or `none`.
+### Q5 unknown list
+
+| Claim | Status | Must not do later |
+| --- | --- | --- |
+| e.g. listing CHF | `unknown` | Claim “5–10× cheaper” with a number |
 
 ---
 
 ## 7. Method
 
-1. Keep SOURCES.md updated **during** T1–T4, not only on Friday of Week 2.
-2. When starting T5, search your own answers for digits, “k CHF,” “%,” “shortage,” “months,” “applications.”
-3. Each hit: citation exists → ensure SOURCES.md row; missing → find the page or delete the number.
-4. Flag sources older than 24 months as `dated` in the claim summary or a note.
-5. Skim MARKET-BRIEF: no extra unsourced tables.
-6. Confirm T1 table, T2 trends, T3 segments, T4 constraints each have Proof paths that resolve.
+1. Keep SOURCES.md current during T1–T4, not only on Friday.
+2. Digit sweep across T1–T4 + MARKET-BRIEF + apply log.
+3. Tick Q4 paths. Missing artifact → go back; do not tick T5.
+4. Write Q5 from T1’s must-attempt table (price, CPH, share, apply counts, industry splits).
+5. Flag sources >24 months as `dated`.
 
 ---
 
 ## 8. Sub-questions — what “complete” means
 
-### 01-T5-Q1 — Tier A first
+**Q1.** 5–8 Tier A you opened **before** press. Names + URLs. Portal product pages and official stats/law count.
 
-List 5–8 Tier A sources you opened **before** relying on press. Portal product/pricing pages and official stats/law count. “I read eight blogs” fails.
+**Q2.** Yes/no: all numbers cited. If you fixed items, list them. “Nothing to fix” only **after** the sweep.
 
-### 01-T5-Q2 — Numbers audit
+**Q3.** Path to MARKET-BRIEF / `evidence/`, or `none`. Worksheet still readable alone.
 
-Yes/no. If you fixed items, list them (“deleted unsourced 2–3k CHF from Q5; marked Indeed price unknown”). If nothing to fix, say that **after** checking, not instead of checking.
+**Q4.** Q4 checklist above — every row yes + path, or T5 is not done.
 
-### 01-T5-Q3 — Optional dump
-
-Path to MARKET-BRIEF or `evidence/`, or `none`. Reminder: worksheet answers must still be readable alone.
+**Q5.** Load-bearing `unknown`s later phases must not treat as known.
 
 ---
 
-## 9. What Daniel can usefully react to
+## 9. What Daniel can usefully choose
 
-- A claim you **dropped** (especially listing price or apply-volume) so later phases do not treat it as known.
-- Whether the source set is CH-heavy enough, or too dependent on global press.
-
-Usually no formal options unless a load-bearing brief claim is now `unknown`.
+- A dropped claim (listing price, apply volume) so Phase 04/09 cannot use it as baseline.
+- Whether the set is CH-heavy enough.
 
 ---
 
@@ -146,18 +149,19 @@ Usually no formal options unless a load-bearing brief claim is now `unknown`.
 
 | Result | Looks like |
 | --- | --- |
-| **Pass** | SOURCES.md covers T1–T4; 5–8 Tier A listed; no orphan numbers; worksheet readable without the essay. |
-| **Incomplete** | URLs in answers but not in SOURCES.md; access dates missing; Q1 is mixed-tier. |
+| **Pass** | SOURCES.md covers T1–T4; 5–8 Tier A; no orphan numbers; Q4 all yes; Q5 lists the dangerous unknowns. |
+| **Incomplete** | URLs in answers but not in SOURCES.md; Q4 missing apply log or T3 table. |
 | **Fail** | Brief statistics still unsourced; empty SOURCES.md; “see chat.” |
 
 ---
 
 ## 11. Common mistakes
 
-- Filling SOURCES.md with unused starter links you never opened.
-- Access dates all the same Monday because you backfilled.
-- Leaving MARKET-BRIEF §5 “implications for beachhead” as a hidden recommendation.
-- Counting Tier B workforce reports as the “5–8 Tier A” quota.
+- Starter links you never opened, dumped into SOURCES.md.
+- Access dates all the same Monday (backfill).
+- MARKET-BRIEF §5 as a hidden beachhead rec.
+- Counting Tier B reports toward the 5–8 Tier A quota.
+- Ticking T5 while T1-Q16 is empty.
 
 ---
 
@@ -165,14 +169,14 @@ Usually no formal options unless a load-bearing brief claim is now `unknown`.
 
 | Next | How it uses T5 |
 | --- | --- |
-| Week 2 T-24 | Daniel can click sources. |
-| Phase 02–03 | Reuse proof **by path** — do not re-invent numbers. |
-| Gate 1 pack | Recommendation + scorecard + **this source log**. |
+| Week 2 T-24 | Clickable sources + unknown list. |
+| Phase 02–03 | Reuse **by path**; no new invented numbers. |
+| Gate 1 | Recommendation + scorecard + this log. |
 
 ---
 
 ## 13. Start here
 
 1. [RESEARCH-STANDARD.md](../../../../RESEARCH-STANDARD.md)
-2. [SOURCES.md](../SOURCES.md) — fill as you work T1–T4
-3. Audit pass on the last day of Phase 01, then tick T5
+2. Digit sweep + Q4 checklist
+3. Tick T5 last

@@ -1,35 +1,35 @@
-# 01-T3 — Demand and supply by segment
+# 01-T3 — Three-segment comparison from T1 numbers
 
 | Field | Value |
 | --- | --- |
 | **Task ID** | `01-T3` |
 | **Phase** | [01-market](../README.md) |
 | **Answers live in** | [WORKSHEET.md](../WORKSHEET.md) (`01-T3-Q1` … `Q5`) |
-| **Week** | 2 |
+| **Week** | 2 — **after** T1 Q6–Q11, Q17–Q18 |
 | **Formal gate** | None — you are **not** locking a beachhead |
 | **Optional dump** | [MARKET-BRIEF.md](../MARKET-BRIEF.md) §3 |
 
 This file is the **assignment definition**. Do not write answers here.
 
+T3 is **not** a new industry study. It **compares** three candidate beachhead segments using T1 figures (by path) and fills the one gap T1 did not require per segment: **supply**.
+
 ---
 
 ## 1. Definition
 
-You compare **at least three candidate segments** on **demand** (employers needing to hire) and **supply** (people who could fill those roles), with citations, plus a light geographic read (Zurich-first vs CH-wide). Reuse [01-T1](01-T1-MARKET-FUNCTIONS.md) Q6–Q11, Q17–Q18 by path where they already cover an industry — do not invent a second set of numbers.
+You lock **≥3 segments** (same three industries as [01-T1](01-T1-MARKET-FUNCTIONS.md) §6.2 unless you justify a substitute), put T1 demand / tightness / geography / time-to-hire / fluctuation / wrong-hire **in one table**, add a **supply** cell per segment, and write **two sentences**: strongest on **liquidity** vs strongest on **pain / cost of a bad hire**.
 
-You then write **one sentence** on which segment looks strongest on **liquidity** and **one sentence** on which looks strongest on **pain / cost of a bad hire**. Those sentences are labeled observations or **inferences**, not a decision.
+Those sentences are observations or labeled **inferences**, not Gate 1.
 
-**Done when:** at least three segments (from the brief shortlist, or justified substitutes) have openings + candidate signals (or explicit `unknown`), geography is addressed, and Q5 does *not* name a locked beachhead.
+**Done when:** the comparison table is filled (sourced or `unknown` with T1 path), supply is not blank, Q5 does not name a locked beachhead.
 
 ---
 
 ## 2. Why this task exists
 
-Gate 1 (Week 4) is **niche × geography**. Phase 03 will score options on the brief’s criteria. T3 is the **first evidence pass** on two of those criteria: enough volume on *both* sides, and whether pain/cost might justify better matching.
+Gate 1 (Week 4) scores **niche × geography**. Phase 03 will reuse **these names and these numbers**. If T3 is a second, conflicting dataset, Gate 1 becomes an argument about whose spreadsheet is right.
 
-If this is thin, Phase 03 either scores on vibes or repeats the brief shortlist with no numbers.
-
-T3 is a **comparison**, not a recommendation. Recommending is [03-T3](../../03-beachhead/WORKSHEET.md) after competitive evidence exists.
+T3’s unique job: **side-by-side + supply**. T1 can describe the CH market; T3 says “for these three wedges, both sides of the marketplace.”
 
 ---
 
@@ -37,43 +37,41 @@ T3 is a **comparison**, not a recommendation. Recommending is [03-T3](../../03-b
 
 | Who | What they do |
 | --- | --- |
-| **Malte** | Pick ≥3 segments, hunt demand and supply signals, mark `unknown` honestly, infer geography with a label. |
-| **Daniel** | Checks whether the comparison is fair and sourced. May say “drop trades” or “add a substitute” — that is direction, not Gate 1. |
-| **Phase 03** | Liquidity rows and “why these options” start from this table. |
-
-Do not ask Daniel to lock niche × geography in Week 2.
+| **Malte** | Same three industries as T1. Cite T1 paths. Add supply. Two sentences in Q5. |
+| **Daniel** | Keep / drop / substitute a segment. Not a lock. |
+| **Phase 03** | Options list and liquidity rows start here. |
 
 ---
 
 ## 4. Guiding context
 
-### Segments come from the brief — still open
+### Same three as T1
 
-From [docs/brief/03-gtm-niche.md](../../../brief/03-gtm-niche.md):
+T1 asked you to use one set of industries across Q6–Q11 (brief shortlist: specialized IT/consultants, Zurich bankers, healthcare/nurses, trades). **T3 uses that set.** Substitute only with a one-line reason (no public signal at all, or Daniel already redirected).
 
-| Niche | Brief note (hypothesis, not a finding) |
+From [docs/brief/03-gtm-niche.md](../../../brief/03-gtm-niche.md) — hypotheses, not findings:
+
+| Niche | Brief note |
 | --- | --- |
-| Specialized IT / consultants | Switching, willingness to pay for speed, culture beyond keywords |
-| Bankers (Zurich) | High compensation, dense geography, expensive mis-hires |
-| Healthcare (nurses) | Real pain; **location constraints** may kill liquidity |
-| Trades | Same location concern; harder early structured matching |
-
-You must include **at least three** of these, or substitute with a written reason (e.g. no public demand signal at all).
+| Specialized IT / consultants | Switching, pay for speed, culture beyond keywords |
+| Bankers (Zurich) | High pay, dense geography, expensive mis-hires |
+| Healthcare (nurses) | Pain; **location** may kill liquidity |
+| Trades | Location + harder early structured matching |
 
 ### Liquidity vs pain
 
-| Idea | Meaning here |
+| Idea | Meaning |
 | --- | --- |
-| **Demand** | Openings, shortage reports, association “hard to fill” notes — employer side. |
-| **Supply** | Graduates, registered seekers, workforce size, network proxies — people side. |
-| **Liquidity** | Enough *relevant* openings **and** seekers so matches happen often. One fat side is not a marketplace. |
-| **Pain / cost of bad hire** | Why an employer would pay for fewer, better introductions (salary level, mis-hire cost, time-to-fill). High pain + no supply is still a bad beachhead. |
+| **Demand** | Openings / tightness — **reuse T1** Q6, Q10, Q18 |
+| **Supply** | Graduates, registered seekers, workforce, network proxies — **T3 add** |
+| **Liquidity** | Enough *relevant* openings **and** seekers |
+| **Pain** | Why an employer would pay for better intros — T1 Q8, Q9, Q17, Q18 |
 
-The brief *likes* high salaries and Zurich concentration. **Prove or mark unknown.** Do not score Zurich as 5 because the brief said it looks attractive.
+High pain + no supply is a bad beachhead. The brief *likes* Zurich and high salaries — **prove or `unknown`.**
 
-### Proxies are OK if labeled
+### Proxies
 
-You will not get a clean “nurses seeking in Zurich this month” number from a public page. Allowed: official employment by occupation, vacancy stats, association reports, portal search-result **counts you observed** (screenshot + date — treat as a snapshot, not a market size). Forbidden: invented headcount.
+Portal search-result counts: snapshot + date, not market size. LinkedIn member counts: **weak proxy**, label them. Do not invent headcount.
 
 ---
 
@@ -81,73 +79,61 @@ You will not get a clean “nurses seeking in Zurich this month” number from a
 
 **In**
 
-- ≥3 segments, named the same way you will reuse in Phase 03 (`specialized IT/consultants`, etc.).
-- Demand signal and supply signal per segment, or `unknown` + what you would need.
-- Geographic concentration (city / canton / remote) and an **inference** for Zurich-first vs CH-wide.
-- One sentence liquidity leader, one sentence pain leader — not a pick.
+- ≥3 segments, stable names for Block A.
+- One comparison table that **cites T1** for demand-side cells.
+- Supply per segment (the new work).
+- Geography + Zurich-first vs CH-wide **inference**.
+- Two-sentence Q5.
 
 **Out**
 
-- Full scorecard and Gate 1 pack (Phase 03).
-- Competitive teardown of niche boards (Phase 02) — you may *name* a niche board as a signal, not matrix it.
-- Declaring the beachhead.
-- Invented vacancy or graduate counts.
+- Re-running T1 volume research with new unsourced numbers.
+- Gate 1 scorecard or recommendation.
+- Phase 02 competitor matrix.
 
 ---
 
 ## 6. Required output
 
-A **segment comparison table** (MARKET-BRIEF §3 or `evidence/segments.md`):
+[MARKET-BRIEF.md](../MARKET-BRIEF.md) §3 or `evidence/segments.md`:
 
-| Segment | Demand signal | Supply signal | Geography (fact + inference) | Sources (URL + accessed) |
-| --- | --- | --- | --- | --- |
-|  | openings / shortage / `unknown` | graduates / pools / `unknown` |  |  |
+| Segment | Demand (T1 path) | Supply (T3) | Geography (fact + inference) | Time to hire (T1) | Tight/slack (T1) | Fluctuation (T1) | Wrong-hire (T1) | Sources |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Q6/Q10/Q18 + `unknown` OK | graduates / pools / `unknown` |  | Q8 | Q10 | Q17 | Q18 |  |
 
-Plus Q5: two sentences (liquidity vs pain), labeled if inference.
-
-Reuse the same segment names in Phase 03 options (`niche × geography`).
+If a T1 cell is `unknown`, copy `unknown` — do not fill it with a guess here.
 
 ---
 
 ## 7. Method
 
-1. Lock the segment list in Q1 *before* hunting numbers (stops moving goalposts).
-2. For each segment, start Tier A (BFS, official vacancy/occupation data, industry associations). Then portal snapshots if useful.
-3. Write `unknown` rather than stretching a national figure onto a Zurich niche without saying so.
-4. Geography: where the jobs sit vs where the people sit. Nursing/trades — take the brief’s location-constraint warning seriously and look for evidence.
-5. Q5 last. If liquidity-leader and pain-leader differ, that is useful — say so. Do not force one winner.
+1. Q1: write the three names (= T1 industries) before adding supply numbers.
+2. Pull T1 cells by path into the table.
+3. Hunt **supply** only (BFS graduates/employment by occupation, associations, RAV if relevant, labeled proxies).
+4. Geography: jobs vs people. Take the nurses/trades location warning seriously.
+5. Q5 last. If liquidity-leader ≠ pain-leader, say so. Do not force one winner.
 
 ---
 
 ## 8. Sub-questions — what “complete” means
 
-### 01-T3-Q1 — Which segments?
+**Q1.** ≥3 segments. Default = T1’s three industries. Substitutes: one sentence why.
 
-List ≥3 with a pointer to the brief. Substitutes need one sentence why. This list should be stable for the rest of Block A unless Daniel redirects.
+**Q2.** Demand per segment — **T1 paths** (Q6, Q10, Q11, Q18). Add a source only if T1 truly has a hole.
 
-### 01-T3-Q2 — Demand per segment
+**Q3.** Supply per segment — the T3 add. `unknown` after search is allowed.
 
-What you found: volume, shortage, association language. `unknown` is valid. Do not copy “talent shortage” from a vendor landing page as Tier A.
+**Q4.** Geography per segment + implication for Zurich-first vs CH-wide (**inference** labeled).
 
-### 01-T3-Q3 — Supply per segment
-
-Graduates, workforce, seeker-pool proxies. Same honesty. A LinkedIn member count is a **weak proxy** — label it.
-
-### 01-T3-Q4 — Geography
-
-Per segment: city / canton / remote facts you can source. Then **inference:** implication for Zurich-first vs CH-wide. Remote-heavy IT ≠ tram-bound nursing.
-
-### 01-T3-Q5 — Liquidity vs pain (not a lock)
-
-One sentence each. “Strongest on liquidity” ≠ “we should start there.” Phrase as “looks strongest on X given [proof path].”
+**Q5.** One sentence liquidity leader, one sentence pain leader, each pointing at the table. Not “we should start there.”
 
 ---
 
-## 9. What Daniel can usefully react to
+## 9. What Daniel can usefully choose
 
 - Keep / drop / substitute a segment before Phase 02–03 spend time on it.
-- Whether Zurich-first is a **working assumption** to test in Phase 03, or already poorly supported.
-- Whether any segment is “high pain, low liquidity” and should stay on the list only as a rejection case.
+- Whether Zurich-first is a working assumption to test in Phase 03, or already poorly supported.
+- Whether a “high pain, low liquidity” segment stays only as a rejection case.
 
 Still not Gate 1.
 
@@ -157,18 +143,18 @@ Still not Gate 1.
 
 | Result | Looks like |
 | --- | --- |
-| **Pass** | ≥3 segments; demand and supply cells filled or `unknown`; geography addressed; Q5 is two sentences, not a recommendation; citations checkable. |
-| **Incomplete** | Only demand (job ads) and no supply; all segments “Zurich” with no source; Q5 picks a winner. |
-| **Fail** | Invented volumes; beachhead announced; brief notes treated as research. |
+| **Pass** | Same three as T1 (or justified sub); demand cells cite T1; supply filled or `unknown`; geography done; Q5 is two sentences. |
+| **Incomplete** | New unsourced demand numbers; supply blank; all “Zurich” with no source; Q5 picks a winner. |
+| **Fail** | Invented volumes; beachhead announced; brief notes treated as research; T1 and T3 contradict without comment. |
 
 ---
 
 ## 11. Common mistakes
 
-- Comparing “IT” (huge) to “Zurich corporate-banking front office” (narrow) without saying the units differ.
-- Treating portal search counts as official market size.
-- Ignoring the location-constraint warning on nurses/trades.
-- Writing the Gate 1 recommendation early so T3 looks decisive.
+- Comparing “IT” (huge) to “Zurich front-office banking” (narrow) without saying units differ.
+- Treating a jobs.ch hit count as official market size.
+- Ignoring location constraints on nurses/trades.
+- Writing the Gate 1 memo in Q5.
 
 ---
 
@@ -176,13 +162,13 @@ Still not Gate 1.
 
 | Next | How it uses T3 |
 | --- | --- |
-| [02-T1-Q5](../../02-competitive/WORKSHEET.md) | Which competitors matter most for *these* segments. |
-| [03-T1](../../03-beachhead/WORKSHEET.md) / [03-T2](../../03-beachhead/WORKSHEET.md) | Options list and liquidity rows — reuse names and proof paths; do not invent new numbers. |
+| [02-T1-Q5](../../02-competitive/WORKSHEET.md) | Which competitors matter for *these* segments. |
+| [03-T1](../../03-beachhead/WORKSHEET.md) / [03-T2](../../03-beachhead/WORKSHEET.md) | Options + liquidity — **same names and paths**. |
 
 ---
 
 ## 13. Start here
 
-1. [docs/brief/03-gtm-niche.md](../../../brief/03-gtm-niche.md) — criteria + shortlist.
-2. [SOURCES-STARTER.md](../SOURCES-STARTER.md) — BFS + industry associations.
-3. Fill the segment table; then `01-T3-Q1` … `Q5`.
+1. T1 market-shape + roles tables (Q6–Q11, Q17–Q18).
+2. [docs/brief/03-gtm-niche.md](../../../brief/03-gtm-niche.md) for names only.
+3. Fill the comparison table; then `01-T3-Q1` … `Q5`.
