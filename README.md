@@ -33,7 +33,7 @@ docs/
   archive/                 Frozen original German brainstorm
 
 decisions/                 Decision log + templates
-meetings/                  Cadence, SCHEDULE (real calendar), templates, notes
+meetings/                  Cadence, SCHEDULE, templates, minutes, transcripts
 .cursor/rules/             Cursor rules for work in this repo
 ```
 

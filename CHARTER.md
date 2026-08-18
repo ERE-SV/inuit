@@ -67,7 +67,7 @@ This repo is the **deliverable** and the **source of truth**. Chat is ephemeral;
 3. Data & matching specs are implementable by an engineer without a strategy call.
 4. Finance model shows costs, revenue mechanics, and projections to named milestones.
 5. `docs/phases/11-handoff/` is a single entry point an engineer can follow.
-6. Repo is consistent: phase statuses, decision log, and meeting notes match reality.
+6. Repo is consistent: phase statuses, decision log, and meeting minutes match reality.
 
 
 

@@ -61,7 +61,7 @@ Also mirror start/end into [STATUS.md](../STATUS.md) and [ONBOARDING.md](../ONBO
 - [ ] Fill [SCHEDULE.md](SCHEDULE.md) — all 16 weeks + gate targets  
 - [ ] Fill calendar mirror table above  
 - [ ] Send/create **16 weekly** calendar invites (+ kickoff if not done)  
-- [ ] Write `notes/YYYY-MM-DD-kickoff.md`  
+- [ ] Write `minutes/YYYY-MM-DD-kickoff.md`  
 - [ ] Update [STATUS.md](../STATUS.md) (start, end, Week 1 focus)  
 - [ ] Set Figma link in SCHEDULE + `docs/phases/06-product/FIGMA.md` when file exists  
 
@@ -80,7 +80,7 @@ Also mirror start/end into [STATUS.md](../STATUS.md) and [ONBOARDING.md](../ONBO
 ### T-24 (24 hours before) — Malte
 
 1. **Upload all week’s content** to the repo (phase stubs filled/updated, sources, Figma links as relevant).
-2. File the **T-24 pack** using [templates/weekly-t24.md](templates/weekly-t24.md) → `notes/YYYY-MM-DD-weekly-t24.md`
+2. File the **T-24 pack** using [templates/weekly-t24.md](templates/weekly-t24.md) → `minutes/YYYY-MM-DD-weekly-t24.md`
   - Predefined agenda (see below)  
   - Paths to artifacts  
   - **2–3 decision proposals**, each with options and **advantages / disadvantages** listed
@@ -91,7 +91,7 @@ Also mirror start/end into [STATUS.md](../STATUS.md) and [ONBOARDING.md](../ONBO
 
 ### Live agenda (Malte leads) — 60 min max
 
-Malte may drop/shorten a block if T-24 already said so, or adjust live if discussion requires it (note the change in session notes). Times still must sum to **≤ 60**.
+Malte may drop/shorten a block if T-24 already said so, or adjust live if discussion requires it (note the change in minutes). Times still must sum to **≤ 60**.
 
 
 | #   | Block                       | Time    | What happens                                                                                                                                                                                       |
@@ -125,11 +125,12 @@ When a formal **gate** or **checkpoint** is due (see [SCHEDULE.md](SCHEDULE.md))
 
 Required — same day, before pinging Daniel:
 
-1. **Minutes:** `notes/YYYY-MM-DD-weekly.md` using [templates/weekly-session.md](templates/weekly-session.md)
-2. **Decision log:** chosen decisions (including any gate outcome) in [decisions/DECISION-LOG.md](../decisions/DECISION-LOG.md)
-3. **STATUS:** Malte updates [STATUS.md](../STATUS.md) — week number, current block, phase focus, next gate, open blockers, this week’s deliverables, and any gate row that changed
-4. Phase READMEs if status changed
-5. Ping Daniel with paths to minutes + STATUS for review
+1. **Minutes:** `minutes/YYYY-MM-DD-weekly.md` using [templates/minutes.md](templates/minutes.md) (decisions, actions, blockers, next — not a transcript)
+2. **Transcript (optional):** full text in `transcripts/YYYY-MM-DD-weekly.md` if captured; link it from the minutes
+3. **Decision log:** chosen decisions (including any gate outcome) in [decisions/DECISION-LOG.md](../decisions/DECISION-LOG.md)
+4. **STATUS:** Malte updates [STATUS.md](../STATUS.md) — week number, current block, phase focus, next gate, open blockers, this week’s deliverables, and any gate row that changed
+5. Phase READMEs if status changed
+6. Ping Daniel with paths to minutes + STATUS for review
 
 
 ### Roles in the room
@@ -151,7 +152,7 @@ Required — same day, before pinging Daniel:
 **Before (Malte, in the T-24 pack):**
 
 - Complete phase deliverables (see [PLAN.md](../PLAN.md))
-- Write gate brief using [templates/gate.md](templates/gate.md) → `notes/YYYY-MM-DD-gate-N-brief.md`
+- Write gate brief using [templates/gate.md](templates/gate.md) → `minutes/YYYY-MM-DD-gate-N-brief.md`
 - Propose decision text ready to paste into the decision log
 - Attach the brief path in the T-24 pack at least 24h ahead
 
@@ -161,7 +162,7 @@ Required — same day, before pinging Daniel:
 
 - Log decision in `decisions/DECISION-LOG.md` with status `accepted` / `accepted-with-conditions` / `rejected`
 - If conditions: checklist in the phase README until cleared
-- Record the outcome in the weekly session notes (no separate gate-meeting note)
+- Record the outcome in the weekly minutes (no separate gate-meeting note)
 - Update [STATUS.md](../STATUS.md) (gates table + next gate + blockers)
 
 **Rules:**
@@ -187,13 +188,14 @@ Required — same day, before pinging Daniel:
 
 
 
-## Notes folder convention
+## Folder convention
 
 ```text
-meetings/notes/YYYY-MM-DD-kickoff.md
-meetings/notes/YYYY-MM-DD-weekly-t24.md    # due 24h before
-meetings/notes/YYYY-MM-DD-weekly.md        # after the session
-meetings/notes/YYYY-MM-DD-gate-N-brief.md  # T-24 attachment on gate weeks (not a meeting)
+meetings/minutes/YYYY-MM-DD-kickoff.md
+meetings/minutes/YYYY-MM-DD-weekly-t24.md    # due 24h before
+meetings/minutes/YYYY-MM-DD-weekly.md        # after the session (lean minutes)
+meetings/minutes/YYYY-MM-DD-gate-N-brief.md  # T-24 attachment on gate weeks (not a meeting)
+meetings/transcripts/YYYY-MM-DD-weekly.md    # optional full transcript
 ```
 
-Keep notes short; put lasting artifacts in `docs/phases/`.
+Keep minutes short; put lasting artifacts in `docs/phases/`; put verbatim text in `transcripts/`.

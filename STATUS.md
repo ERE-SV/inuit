@@ -49,4 +49,4 @@ Living snapshot. **Malte updates this the same day after every weekly session** 
 
 - [PLAN.md](PLAN.md) · [PLAN-WEEKS.md](PLAN-WEEKS.md) · [CHARTER.md](CHARTER.md) · [ONBOARDING.md](ONBOARDING.md)
 - [decisions/DECISION-LOG.md](decisions/DECISION-LOG.md)
-- [meetings/notes/](meetings/notes/)
+- [meetings/minutes/](meetings/minutes/) · [meetings/transcripts/](meetings/transcripts/)

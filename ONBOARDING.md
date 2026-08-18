@@ -56,7 +56,7 @@ Use the kickoff checklist in [meetings/README.md](meetings/README.md).
 - [ ] Fill [meetings/SCHEDULE.md](meetings/SCHEDULE.md) (all 16 week rows + gate targets)  
 - [ ] Create/send calendar invites for Weeks 1–16  
 - [ ] Update [STATUS.md](STATUS.md) (start, end, Week 1 focus)  
-- [ ] Kickoff note → `meetings/notes/YYYY-MM-DD-kickoff.md`  
+- [ ] Kickoff minutes → `meetings/minutes/YYYY-MM-DD-kickoff.md`  
 - [ ] Set Figma link in SCHEDULE + [docs/phases/06-product/FIGMA.md](docs/phases/06-product/FIGMA.md)  
 
 ---
@@ -68,14 +68,14 @@ Use the kickoff checklist in [meetings/README.md](meetings/README.md).
 | Ongoing | Follow [PLAN-WEEKS.md](PLAN-WEEKS.md); complete tasks on each phase [WORKSHEET.md](docs/phases/WORKSHEET-GUIDE.md) (answer + proof) |
 | **T-24** | All week content in repo + [weekly-t24.md](meetings/templates/weekly-t24.md) (see SCHEDULE for exact deadline) |
 | Weekly session | You **lead** (60 min max); informed discussion; Daniel **chooses** among your prepared options. Gate locks happen here — no extra meeting. |
-| Same day after | **You** write minutes, log decisions, and **update [STATUS.md](STATUS.md)** (week, focus, next gate, blockers, deliverables); then ping Daniel for review |
+| Same day after | **You** write [minutes](meetings/templates/minutes.md), log decisions, and **update [STATUS.md](STATUS.md)** (week, focus, next gate, blockers, deliverables); then ping Daniel for review |
 | Gate week (T-24) | Attach [gate brief](meetings/templates/gate.md) to the T-24 pack; Decision A in the weekly is the lock |
 
 ## Comms
 
 | Channel | Use for |
 | --- | --- |
-| **This repo** | Artifacts, decisions, meeting notes — canonical |
+| **This repo** | Artifacts, decisions, meeting minutes — canonical |
 | **Weekly session** | You lead (60 min); present results; Daniel chooses among prepared decisions (including gate locks) |
 | **Async (WhatsApp)** | Short asks, scheduling, links to repo paths — not long strategy that never gets filed |
 

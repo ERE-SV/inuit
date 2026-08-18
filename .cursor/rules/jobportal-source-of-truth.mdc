@@ -10,7 +10,7 @@ This repository is the **source of truth** for defining the job-marketplace comp
 
 ## Must
 
-- Put lasting work in `docs/phases/`, `decisions/`, or `meetings/notes/` — not only chat.
+- Put lasting work in `docs/phases/`, `decisions/`, or `meetings/minutes/` — not only chat.
 - Follow `CHARTER.md`, `PLAN.md`, and `PLAN-WEEKS.md` for scope and sequence.
 - Follow `RESEARCH-STANDARD.md` for evidence; cite URL + access date.
 - Update `STATUS.md` when week focus, gates, or blockers change.
