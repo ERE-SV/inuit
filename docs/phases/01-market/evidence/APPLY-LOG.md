@@ -6,7 +6,7 @@ First-person observation. Rules: [01-T1 brief](../tasks/01-T1-MARKET-FUNCTIONS.m
 - **Dates:**
 - Use your **own identity** and truthful information. No fake profiles.
 
-Minimum: **3 flows**, **3 channel types**. Prefer one KMU and one larger employer.
+Minimum: **3 flows**, **3 channel types**, **one KMU and one larger employer** if honest targets exist.
 
 | ID | Date | Company (or anonymized) | Approx. size (KMU / large / unknown) | Channel type | Channel URL | Submitted? (yes / stopped at review) | Time spent | Cover letter required? | What you had to enter | Friction / pain (1–3 bullets) | Journey step this sits on |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
