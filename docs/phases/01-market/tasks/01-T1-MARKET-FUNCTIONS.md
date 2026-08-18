@@ -338,7 +338,7 @@ Depth beats a 40-row directory. Three well-sourced industries beat eight empty o
 
 | Next | How it uses T1 |
 | --- | --- |
-| [01-T2](01-T2-TRENDS.md) | Product so-what on Q20 — not a new study. |
+| [01-T2](01-T2-TRENDS.md) | Six theme cards from T1 facts (including Q20). |
 | [01-T3](01-T3-SEGMENTS.md) | Same three industries; T1 paths for demand; T3 adds supply. |
 | [01-T4](01-T4-CONSTRAINTS.md) | ToS/robots on channels you already opened. |
 | Phase 02 | Channel + disruptor seeds; economics; dominant-channel claim to test. |

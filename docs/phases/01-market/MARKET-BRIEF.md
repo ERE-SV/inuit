@@ -67,13 +67,22 @@ See [01-T1-MARKET-FUNCTIONS.md](tasks/01-T1-MARKET-FUNCTIONS.md).
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-## 2. Trends — product “so what” (01-T2)
+## 2. Product “so what” — six theme cards (01-T2)
 
-See [01-T2](tasks/01-T2-TRENDS.md). Reuse T1 §1.8 / Q20 proofs. Not a second BFS dump.
+See [01-T2](tasks/01-T2-TRENDS.md). One row per required ID. Facts from T1.
 
-| # | Trend (one line) | T1 path or URL + accessed + tier | Strength | So what for this product | If wrong (one row) |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | strong / weak / unknown |  |  |
+| ID | Fact + T1 path | Strength | So what — seekers | So what — companies | So what — product | Must not claim yet |
+| --- | --- | --- | --- | --- | --- | --- |
+| T2-A Labour motion |  |  |  |  |  |  |
+| T2-B Seeker apply / AI |  |  |  |  |  |  |
+| T2-C Employer noise / TTH |  |  |  |  |  |  |
+| T2-D Structured matching |  |  |  |  |  |  |
+| T2-E Salary transparency |  |  |  |  |  |  |
+| T2-F Commute / culture / remote |  |  |  |  |  |  |
+
+**If-wrong card:**  
+**If reversed we would:**  
+**Do-not-claim list:**
 
 ## 3. Three-segment comparison (01-T3)
 

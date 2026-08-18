@@ -8,7 +8,7 @@
 
 ### What this phase is
 
-You map how the Swiss hiring market actually functions today — volume and shape, channels (KMU vs corporate), company and applicant journeys, institutions (universities, Bund, cantons, subsidies), pain (including applying yourself), roles, channel economics, first-pass trends, and disruptors. Then T2 writes product **so what** on the T1 trend inventory (not a second study), T3 **compares** T1’s three industries and adds supply, T4 turns T1 channels into product constraints, and T5 audits citations and unknowns. You are collecting **evidence**, not picking a niche yet. Start from [SOURCES-STARTER.md](SOURCES-STARTER.md); log every source you use in [SOURCES.md](SOURCES.md). Before each task, read its **[task brief](tasks/README.md)**.
+You map how the Swiss hiring market actually functions today — volume and shape, channels (KMU vs corporate), company and applicant journeys, institutions (universities, Bund, cantons, subsidies), pain (including applying yourself), roles, channel economics, first-pass trends, and disruptors. Then T2 fills **six theme cards** (labour motion, seeker noise, employer noise, structured match, salary, commute/culture), T3 **compares** T1’s three industries and adds supply, T4 turns T1 channels into product constraints, and T5 audits citations and unknowns. You are collecting **evidence**, not picking a niche yet. Start from [SOURCES-STARTER.md](SOURCES-STARTER.md); log every source you use in [SOURCES.md](SOURCES.md). Before each task, read its **[task brief](tasks/README.md)**.
 
 ### Key terms
 
@@ -151,31 +151,39 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-### [ ] 01-T2 — Product “so what” on the T1 trend inventory
+### [ ] 01-T2 — Product “so what” (six theme cards)
 
-**Task brief:** [01-T2-TRENDS.md](tasks/01-T2-TRENDS.md) — not a second market study  
-**Done when:** ≥4 trends from T1-Q20 (≤2 adds) each have a product so-what; Q2 has a strength label; Q5 has if-wrong.  
-**Unlocks / feeds:** Positioning; beachhead pain criteria  
+**Task brief:** [01-T2-TRENDS.md](tasks/01-T2-TRENDS.md) — content is six fixed cards, not a second study  
+**Done when:** Cards T2-A…F are complete (fact, strength, three so-whats, must-not-claim); Q7 has if-wrong + do-not-claim list.  
+**Unlocks / feeds:** Positioning; beachhead pain; which fields we may claim  
 
-#### Sub-questions
+Each answer is the **card** (or a pointer to MARKET-BRIEF §2). Facts from T1 paths.
 
-- [ ] **01-T2-Q1.** From [01-T1-Q20](tasks/01-T1-MARKET-FUNCTIONS.md) (and at most two adds if T1 missed something load-bearing), which trends will you carry? List with T1 proof paths — do not rewrite T1 official stats.
+- [ ] **01-T2-Q1 (T2-A).** Labour-market motion (T1 Q6, Q11) — so what for **liquidity / timing / seasonality** of a matchmaking wedge?
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T2-Q2.** Apply volume / unqualified applications / AI cover letters — **so what** for matchmaking vs listing? Label strength `strong` / `weak` / `unknown`. Reuse T1-Q14–Q16.
+- [ ] **01-T2-Q2 (T2-B).** Seeker apply load + AI cover letters (T1 Q14–Q16) — so what for a **reusable profile** and **no letter factory**? Strength required.
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T2-Q3.** Skills-based hiring or structured requirements — what is changing, and **so what** for bidirectional matching (not keyword search alone)?
+- [ ] **01-T2-Q3 (T2-C).** Employer inbound noise + time/cost to hire (T1 Q5, Q8, Q9, Q15) — so what for **Top-X pre-qualified** intros vs another listing?
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T2-Q4.** Salary / compensation transparency in CH — **so what** for company ranges and seeker floors? `unknown` beats a guessed median.
+- [ ] **01-T2-Q4 (T2-D).** Structured / skills-based requirements (T1 Q18, Q20) — so what for **bidirectional matching** (not a better keyword box)?
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T2-Q5.** The one trend that would most change *this* product if wrong: fact → **so what** → implication if reversed (**inference**).
+- [ ] **01-T2-Q5 (T2-E).** Salary transparency — so what for **company ranges** and **seeker floors** as hard filters? `unknown` beats a guessed median.
+  - **Answer:**  
+  - **Proof:**  
+
+- [ ] **01-T2-Q6 (T2-F).** Commute / place / culture / remote (T1 Q12, Q14–Q15) — which preferences are **first-class match fields**?
+  - **Answer:**  
+  - **Proof:**  
+
+- [ ] **01-T2-Q7.** Which **one** card is load-bearing if the fact is wrong? What we would drop. List claims later phases **must not** make (especially `weak` / `unknown` cards).
   - **Answer:**  
   - **Proof:**  
 
@@ -259,7 +267,7 @@ You map how the Swiss hiring market actually functions today — volume and shap
   - **Answer:**  
   - **Proof:**  
 
-- [ ] **01-T5-Q4.** Required artifacts exist (yes/path): T1 tables + apply log ≥3; T2 so-what table ≥4 rows; T3 comparison of the same three industries; T4 constraints table. See the checklist in the [T5 brief](tasks/01-T5-SOURCES-PASS.md).
+- [ ] **01-T5-Q4.** Required artifacts exist (yes/path): T1 tables + apply log ≥3; T2 six theme cards (A–F); T3 comparison of the same three industries; T4 constraints table. See the checklist in the [T5 brief](tasks/01-T5-SOURCES-PASS.md).
   - **Answer:**  
   - **Proof:**  
 
@@ -272,7 +280,7 @@ You map how the Swiss hiring market actually functions today — volume and shap
 No formal gate this phase. For the weekly with Daniel, bring (see each [task brief](tasks/README.md) for what he can usefully choose):
 
 - [ ] 01-T1 pack: channels + journeys + apply log (Week 1); volume / institutions / economics / disruptors (Week 2)  
-- [ ] T2 so-what table (≥4 rows, strength on apply/AI)  
+- [ ] T2 six theme cards (A–F) + Q7 if-wrong / do-not-claim  
 - [ ] T3 comparison of T1’s three industries + supply  
 - [ ] T4 constraints (two T1 channels on scrape)  
 - [ ] T5: [SOURCES.md](SOURCES.md) + artifact checklist + load-bearing unknowns  

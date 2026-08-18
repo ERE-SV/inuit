@@ -102,7 +102,7 @@ Daniel’s path: worksheet → Proof path → source. “See MARKET-BRIEF” wit
 | T1 roles table |  |  |
 | T1 channel economics |  |  |
 | Apply log ≥3 flows, 3 channel types |  | [evidence/APPLY-LOG.md](../evidence/APPLY-LOG.md) |
-| T2 so-what table ≥4 rows |  |  |
+| T2 six theme cards (A–F) |  |  |
 | T3 comparison (same three industries) |  |  |
 | T4 constraints table |  |  |
 
