@@ -14,19 +14,21 @@ Old stub files (`MARKET-BRIEF.md`, etc.) are **optional evidence dumps**, not th
 
 ## Week 1 — Market (start)
 
-Worksheet: [01-market/WORKSHEET.md](docs/phases/01-market/WORKSHEET.md)
+Worksheet: [01-market/WORKSHEET.md](docs/phases/01-market/WORKSHEET.md)  
+Task briefs: [01-market/tasks/](docs/phases/01-market/tasks/README.md)
 
 - [ ] Read **Learn** section on the worksheet  
-- [ ] **01-T1** — Swiss hiring channels map (all sub-questions)  
-- [ ] Start **01-T2** — trends with “so what”  
+- [ ] Read **[01-T1 brief](docs/phases/01-market/tasks/01-T1-CHANNELS-MAP.md)** then complete **01-T1** (all sub-questions)  
+- [ ] Read **[01-T2 brief](docs/phases/01-market/tasks/01-T2-TRENDS.md)** then start **01-T2** — trends with “so what”  
 - [ ] T-24 pack + weekly session (you lead)  
 - [ ] Update [STATUS.md](STATUS.md)  
 
 ## Week 2 — Market finish + competitive start
 
-Worksheets: [01](docs/phases/01-market/WORKSHEET.md) → [02](docs/phases/02-competitive/WORKSHEET.md)
+Worksheets: [01](docs/phases/01-market/WORKSHEET.md) → [02](docs/phases/02-competitive/WORKSHEET.md)  
+Task briefs: [01-T2](docs/phases/01-market/tasks/01-T2-TRENDS.md) · [01-T3](docs/phases/01-market/tasks/01-T3-SEGMENTS.md) · [01-T4](docs/phases/01-market/tasks/01-T4-CONSTRAINTS.md) · [01-T5](docs/phases/01-market/tasks/01-T5-SOURCES-PASS.md)
 
-- [ ] Finish **01-T2**, **01-T3**, **01-T4**, **01-T5**  
+- [ ] Finish **01-T2**, **01-T3**, **01-T4**, **01-T5** (read each task brief first)  
 - [ ] Mark phase 01 worksheet Status → review/done when complete  
 - [ ] Start **02-T1** — competitor set (≥8)  
 - [ ] Start **02-T2** — feature/GTM comparison  

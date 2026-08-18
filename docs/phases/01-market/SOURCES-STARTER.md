@@ -2,6 +2,8 @@
 
 Use these as a **starting search list**, not an exhaustive bibliography. Verify every claim with URL + access date per [RESEARCH-STANDARD.md](../../../RESEARCH-STANDARD.md). Prefer Tier A/B.
 
+Task briefs (read before working): [01-T1 channels](tasks/01-T1-CHANNELS-MAP.md) · [01-T2 trends](tasks/01-T2-TRENDS.md) · [01-T3 segments](tasks/01-T3-SEGMENTS.md) · [01-T4 constraints](tasks/01-T4-CONSTRAINTS.md) · [01-T5 quality](tasks/01-T5-SOURCES-PASS.md)
+
 ## Official / statistical (Tier A)
 
 | Topic | Where to look | Notes |
@@ -14,7 +16,7 @@ Use these as a **starting search list**, not an exhaustive bibliography. Verify 
 
 ## Job market channels to map (Tier A/B — primary observation)
 
-Visit and document **role for seekers vs employers** (pricing pages if public):
+Used by [01-T1](tasks/01-T1-CHANNELS-MAP.md). Visit and document **role for seekers vs employers** (pricing pages if public):
 
 | Channel | URL to start | Capture |
 | --- | --- | --- |
@@ -35,7 +37,7 @@ Visit and document **role for seekers vs employers** (pricing pages if public):
 | Salary benchmarks CH | Official or well-known CH salary surveys (cite methodology) |
 | Talent shortage by occupation | BFS + industry associations (ICT, banking, health) |
 
-## Regulatory product checklist (must address in MARKET-BRIEF)
+## Regulatory product checklist (must address in [01-T4](tasks/01-T4-CONSTRAINTS.md); optional dump in MARKET-BRIEF)
 
 - [ ] Processing candidate profiles for matching (purpose limitation)
 - [ ] Home address / commute calculation
@@ -46,5 +48,5 @@ Visit and document **role for seekers vs employers** (pricing pages if public):
 ## How to use this week
 
 1. Open 5–8 Tier A sources first; log them in [SOURCES.md](SOURCES.md).  
-2. Build the channels table from **direct observation** of portals.  
-3. Only then add trend claims — each with “so what” for *this* product.
+2. Build the channels table from **direct observation** of portals ([01-T1 brief](tasks/01-T1-CHANNELS-MAP.md)).  
+3. Only then add trend claims — each with “so what” for *this* product ([01-T2 brief](tasks/01-T2-TRENDS.md)).

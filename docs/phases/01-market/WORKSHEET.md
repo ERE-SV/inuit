@@ -8,7 +8,7 @@
 
 ### What this phase is
 
-You map how the Swiss job market actually works today — which channels people and companies use, what is changing, where demand and supply look strong or weak by segment, and which legal/product rules constrain matching, crawling, and commute features. You are collecting **evidence**, not picking a niche yet. Start from [SOURCES-STARTER.md](SOURCES-STARTER.md); log every source you use in [SOURCES.md](SOURCES.md).
+You map how the Swiss job market actually works today — which channels people and companies use, what is changing, where demand and supply look strong or weak by segment, and which legal/product rules constrain matching, crawling, and commute features. You are collecting **evidence**, not picking a niche yet. Start from [SOURCES-STARTER.md](SOURCES-STARTER.md); log every source you use in [SOURCES.md](SOURCES.md). Before each task, read its **[task brief](tasks/README.md)** (definition + guiding context).
 
 ### Key terms
 
@@ -43,6 +43,7 @@ You map how the Swiss job market actually works today — which channels people 
 
 ### [ ] 01-T1 — Swiss hiring channels map
 
+**Task brief:** [01-T1-CHANNELS-MAP.md](tasks/01-T1-CHANNELS-MAP.md) — definition, output shape, quality bar  
 **Done when:** You have a filled channels table covering seekers *and* employers for the main CH (+ relevant DACH) paths.  
 **Unlocks / feeds:** Phase 02 competitor list; Phase 03 volume/geography judgment  
 
@@ -70,6 +71,7 @@ You map how the Swiss job market actually works today — which channels people 
 
 ### [ ] 01-T2 — Labour-market trends with “so what”
 
+**Task brief:** [01-T2-TRENDS.md](tasks/01-T2-TRENDS.md) — definition, output shape, quality bar  
 **Done when:** At least 4 trend claims each have a source and a product-relevant “so what.”  
 **Unlocks / feeds:** Positioning later; beachhead pain criteria  
 
@@ -97,6 +99,7 @@ You map how the Swiss job market actually works today — which channels people 
 
 ### [ ] 01-T3 — Demand and supply by segment
 
+**Task brief:** [01-T3-SEGMENTS.md](tasks/01-T3-SEGMENTS.md) — definition, output shape, quality bar  
 **Done when:** You can compare at least 3 candidate segments (see brief niches) on openings + candidates with citations.  
 **Unlocks / feeds:** Phase 03 scorecard liquidity rows  
 
@@ -124,6 +127,7 @@ You map how the Swiss job market actually works today — which channels people 
 
 ### [ ] 01-T4 — Regulatory and product constraints checklist
 
+**Task brief:** [01-T4-CONSTRAINTS.md](tasks/01-T4-CONSTRAINTS.md) — definition, output shape, quality bar  
 **Done when:** Every item in the starter regulatory checklist has a note (constraint + implication + open legal question).  
 **Unlocks / feeds:** Phase 07 data/matching; Phase 10 compliance; crawl/commute design  
 
@@ -155,6 +159,7 @@ You map how the Swiss job market actually works today — which channels people 
 
 ### [ ] 01-T5 — Sources log and brief quality pass
 
+**Task brief:** [01-T5-SOURCES-PASS.md](tasks/01-T5-SOURCES-PASS.md) — definition, output shape, quality bar  
 **Done when:** [SOURCES.md](SOURCES.md) lists every URL used this phase with access dates; quantitative claims are checkable.  
 **Unlocks / feeds:** Credibility for Gate 1 pack later  
 
@@ -174,7 +179,7 @@ You map how the Swiss job market actually works today — which channels people 
 
 ## Gate / checkpoint pack (if any)
 
-No formal gate this phase. For the weekly with Daniel, bring:
+No formal gate this phase. For the weekly with Daniel, bring (see each [task brief](tasks/README.md) for what he can usefully choose):
 
 - [ ] Channels map path filled in 01-T1  
 - [ ] Trend table with “so what” (01-T2)  

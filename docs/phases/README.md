@@ -5,6 +5,7 @@ Each phase folder has:
 | File | Role |
 | --- | --- |
 | **[WORKSHEET.md](WORKSHEET-GUIDE.md)** | **Primary assignment** — guided tasks + sub-questions + proof |
+| `tasks/` (when present) | Definition + guiding context per task ID — read before answering |
 | `README.md` | Status + DoD pointer |
 | Other `.md` stubs | **Optional** evidence dumps (tables, long notes) — not the assignment |
 
@@ -12,7 +13,7 @@ Read [WORKSHEET-GUIDE.md](WORKSHEET-GUIDE.md) once before Week 1.
 
 | Phase | Worksheet | Status |
 | --- | --- | --- |
-| [01-market](01-market/) | [WORKSHEET](01-market/WORKSHEET.md) | not-started |
+| [01-market](01-market/) | [WORKSHEET](01-market/WORKSHEET.md) · [task briefs](01-market/tasks/README.md) | not-started |
 | [02-competitive](02-competitive/) | [WORKSHEET](02-competitive/WORKSHEET.md) | not-started |
 | [03-beachhead](03-beachhead/) | [WORKSHEET](03-beachhead/WORKSHEET.md) | not-started |
 | [04-gtm](04-gtm/) | [WORKSHEET](04-gtm/WORKSHEET.md) | not-started |

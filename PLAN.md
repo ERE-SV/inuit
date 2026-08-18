@@ -86,6 +86,7 @@ Full detail: [meetings/README.md](meetings/README.md).
 | | Link |
 | --- | --- |
 | Phase DoD | [docs/phases/01-market/README.md](docs/phases/01-market/README.md) |
+| Task briefs | [tasks/](docs/phases/01-market/tasks/README.md) (`01-T1` … `01-T5`) |
 | Stub | [MARKET-BRIEF.md](docs/phases/01-market/MARKET-BRIEF.md) |
 | Sources log | [SOURCES.md](docs/phases/01-market/SOURCES.md) |
 | Starter list | [SOURCES-STARTER.md](docs/phases/01-market/SOURCES-STARTER.md) |
@@ -203,7 +204,7 @@ Full detail: [meetings/README.md](meetings/README.md).
 
 | Phase | Guided worksheet (primary) |
 | --- | --- |
-| 01 Market | [WORKSHEET.md](docs/phases/01-market/WORKSHEET.md) |
+| 01 Market | [WORKSHEET.md](docs/phases/01-market/WORKSHEET.md) · [task briefs](docs/phases/01-market/tasks/README.md) |
 | 02 Competitive | [WORKSHEET.md](docs/phases/02-competitive/WORKSHEET.md) |
 | 03 Beachhead | [WORKSHEET.md](docs/phases/03-beachhead/WORKSHEET.md) |
 | 04 GTM | [WORKSHEET.md](docs/phases/04-gtm/WORKSHEET.md) |

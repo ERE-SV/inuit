@@ -10,6 +10,7 @@
 | File | Role |
 | --- | --- |
 | **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs (primary path) |
+| **[tasks/](tasks/README.md)** | **Required reading** — definition + guiding context per task (`01-T1` … `01-T5`) |
 | [SOURCES.md](SOURCES.md) | Required — running source log (URL + access date) |
 | [SOURCES-STARTER.md](SOURCES-STARTER.md) | Reference — starting search list |
 
@@ -33,4 +34,5 @@ These stubs are **not** the definition of done. Use them if you want a long writ
 
 - [docs/brief/01-vision.md](../../brief/01-vision.md)
 - [SOURCES-STARTER.md](SOURCES-STARTER.md)
+- Task briefs: [tasks/README.md](tasks/README.md)
 - Week tasks: [PLAN-WEEKS.md](../../../PLAN-WEEKS.md) Weeks 1–2

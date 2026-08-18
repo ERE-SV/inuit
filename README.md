@@ -49,7 +49,7 @@ meetings/                  Cadence, SCHEDULE, templates, minutes, transcripts
 
 | # | Phase folder | Gate? |
 | --- | --- | --- |
-| 01 | [Market](docs/phases/01-market/) | — |
+| 01 | [Market](docs/phases/01-market/) · [task briefs](docs/phases/01-market/tasks/README.md) | — |
 | 02 | [Competitive](docs/phases/02-competitive/) | — |
 | 03 | [Beachhead](docs/phases/03-beachhead/) | **Gate 1** |
 | 04 | [Go-to-market](docs/phases/04-gtm/) | **Gate 2** |
