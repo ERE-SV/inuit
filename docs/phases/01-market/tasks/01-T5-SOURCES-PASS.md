@@ -17,7 +17,7 @@ This file is the **assignment definition**. Do not write answers here.
 
 You run a **quality pass over all Phase 01 evidence**: every URL used in T1–T4 is in [SOURCES.md](../SOURCES.md) with access date and tier; you opened **5–8 Tier A sources before** leaning on press/blogs; every remaining number is checkable or deleted; the optional long narrative (if any) does not replace worksheet answers.
 
-**Done when:** [SOURCES.md](../SOURCES.md) is complete for the phase, Q1–Q2 are an honest audit, and the worksheet answers for T1–T4 still stand alone if someone never opens [MARKET-BRIEF.md](../MARKET-BRIEF.md).
+**Done when:** [SOURCES.md](../SOURCES.md) is complete for the phase, Q1–Q2 are an honest audit, [01-T1](01-T1-MARKET-FUNCTIONS.md) Q1–Q21 and the apply log are cited or `unknown`, and the worksheet answers for T1–T4 still stand alone if someone never opens [MARKET-BRIEF.md](../MARKET-BRIEF.md).
 
 T5 is not new research. It is the **bar** that makes T1–T4 usable in Week 2 and in the Gate 1 pack two weeks later.
 

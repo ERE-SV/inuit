@@ -86,10 +86,11 @@ Full detail: [meetings/README.md](meetings/README.md).
 | | Link |
 | --- | --- |
 | Phase DoD | [docs/phases/01-market/README.md](docs/phases/01-market/README.md) |
-| Task briefs | [tasks/](docs/phases/01-market/tasks/README.md) (`01-T1` … `01-T5`) |
+| Task briefs | [tasks/](docs/phases/01-market/tasks/README.md) (`01-T1` market functions … `01-T5`) |
 | Stub | [MARKET-BRIEF.md](docs/phases/01-market/MARKET-BRIEF.md) |
 | Sources log | [SOURCES.md](docs/phases/01-market/SOURCES.md) |
 | Starter list | [SOURCES-STARTER.md](docs/phases/01-market/SOURCES-STARTER.md) |
+| Apply log (T1) | [evidence/APPLY-LOG.md](docs/phases/01-market/evidence/APPLY-LOG.md) |
 
 ### Weeks 2–3 — Competitive
 

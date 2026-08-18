@@ -18,16 +18,17 @@ Worksheet: [01-market/WORKSHEET.md](docs/phases/01-market/WORKSHEET.md)
 Task briefs: [01-market/tasks/](docs/phases/01-market/tasks/README.md)
 
 - [ ] Read **Learn** section on the worksheet  
-- [ ] Read **[01-T1 brief](docs/phases/01-market/tasks/01-T1-CHANNELS-MAP.md)** then complete **01-T1** (all sub-questions)  
-- [ ] Read **[01-T2 brief](docs/phases/01-market/tasks/01-T2-TRENDS.md)** then start **01-T2** — trends with “so what”  
+- [ ] Read **[01-T1 brief](docs/phases/01-market/tasks/01-T1-MARKET-FUNCTIONS.md)** then complete **01-T1-Q1–Q5**, **Q12**, **Q14–Q16** (channels, journeys, apply log)  
+- [ ] Start **[01-T2](docs/phases/01-market/tasks/01-T2-TRENDS.md)** if time — or wait until T1-Q20 in Week 2  
 - [ ] T-24 pack + weekly session (you lead)  
 - [ ] Update [STATUS.md](STATUS.md)  
 
 ## Week 2 — Market finish + competitive start
 
 Worksheets: [01](docs/phases/01-market/WORKSHEET.md) → [02](docs/phases/02-competitive/WORKSHEET.md)  
-Task briefs: [01-T2](docs/phases/01-market/tasks/01-T2-TRENDS.md) · [01-T3](docs/phases/01-market/tasks/01-T3-SEGMENTS.md) · [01-T4](docs/phases/01-market/tasks/01-T4-CONSTRAINTS.md) · [01-T5](docs/phases/01-market/tasks/01-T5-SOURCES-PASS.md)
+Task briefs: [01-T1](docs/phases/01-market/tasks/01-T1-MARKET-FUNCTIONS.md) · [01-T2](docs/phases/01-market/tasks/01-T2-TRENDS.md) · [01-T3](docs/phases/01-market/tasks/01-T3-SEGMENTS.md) · [01-T4](docs/phases/01-market/tasks/01-T4-CONSTRAINTS.md) · [01-T5](docs/phases/01-market/tasks/01-T5-SOURCES-PASS.md)
 
+- [ ] Finish **01-T1-Q6–Q11**, **Q13**, **Q17–Q21** (volume, institutions, roles, economics, trends inventory, disruptors)  
 - [ ] Finish **01-T2**, **01-T3**, **01-T4**, **01-T5** (read each task brief first)  
 - [ ] Mark phase 01 worksheet Status → review/done when complete  
 - [ ] Start **02-T1** — competitor set (≥8)  

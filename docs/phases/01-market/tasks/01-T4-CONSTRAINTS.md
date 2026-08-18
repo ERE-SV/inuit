@@ -212,5 +212,5 @@ No legal approval in the weekly.
 
 1. Starter checklist in [SOURCES-STARTER.md](../SOURCES-STARTER.md).
 2. Official nDSG / FDPIC / GDPR pages (Tier A).
-3. ToS + robots for two channels you already opened in [01-T1](01-T1-CHANNELS-MAP.md).
+3. ToS + robots for two channels you already opened in [01-T1](01-T1-MARKET-FUNCTIONS.md).
 4. Fill the constraints table; then `01-T4-Q1` … `Q6`.

@@ -6,23 +6,70 @@
 - **Last updated:**  
 
 Optional evidence dump. **Answers still go on [WORKSHEET.md](WORKSHEET.md).**  
-Table shapes follow the task briefs: [01-T1](tasks/01-T1-CHANNELS-MAP.md) · [01-T2](tasks/01-T2-TRENDS.md) · [01-T3](tasks/01-T3-SEGMENTS.md) · [01-T4](tasks/01-T4-CONSTRAINTS.md).
+Table shapes follow the task briefs: [01-T1](tasks/01-T1-MARKET-FUNCTIONS.md) · [01-T2](tasks/01-T2-TRENDS.md) · [01-T3](tasks/01-T3-SEGMENTS.md) · [01-T4](tasks/01-T4-CONSTRAINTS.md).  
+First-person applies: [evidence/APPLY-LOG.md](evidence/APPLY-LOG.md).
 
 Follow [RESEARCH-STANDARD.md](../../../RESEARCH-STANDARD.md).
 
-## 1. How hiring & job search work today (CH + relevant DACH)
+## 1. How the Swiss hiring market functions (01-T1)
 
-### Channels map
+See [01-T1-MARKET-FUNCTIONS.md](tasks/01-T1-MARKET-FUNCTIONS.md).
 
-See [01-T1](tasks/01-T1-CHANNELS-MAP.md) for required rows and columns.
+### 1.1 Channels map
 
-| Channel | Type | Geography | Seeker job (1 sentence) | Employer job (1 sentence) | Public employer pricing | Source (URL + accessed) |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
+| Channel | Type | Geography | Seeker job (1 sentence) | Employer job (1 sentence) | Public employer pricing | Dominant for (KMU / large / both / unknown) | Source (URL + accessed) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+
+### 1.2 Market shape (volume, time, cost, competition, seasonality)
+
+| Question | CH / industry figure | Period | Source + accessed | Notes / `unknown` |
+| --- | --- | --- | --- | --- |
+| Positions filled / vacancies / hires |  |  |  |  |
+| Time to hire |  |  |  |  |
+| Cost per hire |  |  |  |  |
+| Tight vs slack |  |  |  |  |
+| Seasonal |  |  |  |  |
+| Growing / shrinking |  |  |  |  |
+
+### 1.3 Company journey (KMU vs large)
+
+-
+
+### 1.4 Applicant journey
+
+-
+
+### 1.5 Institutions (universities, Bund, cantons, subsidies)
+
+| Actor | What they do in hiring | Who uses them | Source |
+| --- | --- | --- | --- |
+| Universities / FH / Berufsbildung |  |  |  |
+| Bund |  |  |  |
+| Cantons / RAV |  |  |  |
+| Subsidies / public money |  |  |  |
+
+### 1.6 Roles (demand, homo/hetero, wrong-hire cost)
+
+| Role / family | High demand? | Homogeneous / heterogeneous | Wrong-hire cost signal | Source |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+### 1.7 Channel economics
+
+| Channel | How they make money (public) | List price / cost per hire | Market or revenue share | Source or `unknown` |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+### 1.8 Trends (first pass) and disruptors
+
+| Item | Type (trend / disruptor) | Geography | One-line | Source |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 
 ## 2. Trends (with “so what” for this product)
 
-See [01-T2](tasks/01-T2-TRENDS.md).
+See [01-T2](tasks/01-T2-TRENDS.md). Reuse T1 §1.8 proofs.
 
 | Trend (one line) | Evidence (URL + accessed + tier) | So what for this product |
 | --- | --- | --- |
@@ -30,7 +77,7 @@ See [01-T2](tasks/01-T2-TRENDS.md).
 
 ## 3. Demand & supply signals (by segment)
 
-See [01-T3](tasks/01-T3-SEGMENTS.md).
+See [01-T3](tasks/01-T3-SEGMENTS.md). Reuse T1 volume / competition / fluctuation by path.
 
 | Segment | Demand signal | Supply signal | Geography (fact + inference) | Sources (URL + accessed) |
 | --- | --- | --- | --- | --- |

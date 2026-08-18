@@ -5,7 +5,7 @@
 | **Task ID** | `01-T2` |
 | **Phase** | [01-market](../README.md) |
 | **Answers live in** | [WORKSHEET.md](../WORKSHEET.md) (`01-T2-Q1` … `Q5`) |
-| **Week** | Start in Week 1; finish in Week 2 |
+| **Week** | Week 2 (after [01-T1-Q20](01-T1-MARKET-FUNCTIONS.md) inventory) |
 | **Formal gate** | None — feeds Gate 1 later |
 | **Optional dump** | [MARKET-BRIEF.md](../MARKET-BRIEF.md) §2 |
 
@@ -15,7 +15,7 @@ This file is the **assignment definition**. Do not write answers here.
 
 ## 1. Definition
 
-You collect **at least four labour-market trend claims** that matter to *this* product (a Swiss two-sided matchmaking marketplace), and you give each claim a product-relevant **“so what.”**
+You take the first-pass trend inventory from [01-T1-Q20](01-T1-MARKET-FUNCTIONS.md) (and add any you missed) and turn **at least four** claims into product-relevant **“so what”** for a Swiss two-sided matchmaking marketplace. Reuse T1 proof paths — do not re-research the same URLs from scratch.
 
 A trend here is not “HR is changing.” It is a **checkable claim** about how hiring or job search is moving — official stats, apply-volume / AI-application evidence, skills-based or structured requirements, CH salary transparency — plus one extra trend you judge important.
 
@@ -47,7 +47,7 @@ The **“so what”** is the point. A sourced stat with no implication is trivia
 | **Daniel** | Reads a **short trend table** (fact → source → so what). Pushes on weakest claims. Does not lock messaging. |
 | **Later phases** | Pain criteria, positioning inputs, “what we must not claim yet.” |
 
-Week 1: start Q1 (official stats) and sketch the table. Week 2: finish Q2–Q5.
+Week 2: start from [01-T1-Q20](01-T1-MARKET-FUNCTIONS.md), then finish Q1–Q5.
 
 ---
 
@@ -187,6 +187,6 @@ No lock. Options with pros/cons if you want a choice (e.g. “treat apply-spam a
 
 ## 13. Start here
 
-1. [SOURCES-STARTER.md](../SOURCES-STARTER.md) — official / statistical + trends rows.
-2. Build the trend table; then fill `01-T2-Q1` … `Q5`.
+1. [01-T1-Q20](01-T1-MARKET-FUNCTIONS.md) inventory + [SOURCES-STARTER.md](../SOURCES-STARTER.md).
+2. Build the trend table with **so what**; then fill `01-T2-Q1` … `Q5`.
 3. Log everything in [SOURCES.md](../SOURCES.md).

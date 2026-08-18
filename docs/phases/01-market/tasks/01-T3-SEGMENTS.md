@@ -15,7 +15,7 @@ This file is the **assignment definition**. Do not write answers here.
 
 ## 1. Definition
 
-You compare **at least three candidate segments** on **demand** (employers needing to hire) and **supply** (people who could fill those roles), with citations, plus a light geographic read (Zurich-first vs CH-wide).
+You compare **at least three candidate segments** on **demand** (employers needing to hire) and **supply** (people who could fill those roles), with citations, plus a light geographic read (Zurich-first vs CH-wide). Reuse [01-T1](01-T1-MARKET-FUNCTIONS.md) Q6–Q11, Q17–Q18 by path where they already cover an industry — do not invent a second set of numbers.
 
 You then write **one sentence** on which segment looks strongest on **liquidity** and **one sentence** on which looks strongest on **pain / cost of a bad hire**. Those sentences are labeled observations or **inferences**, not a decision.
 

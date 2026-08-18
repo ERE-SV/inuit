@@ -21,6 +21,7 @@ These stubs are **not** the definition of done. Use them if you want a long writ
 | File | Role |
 | --- | --- |
 | [MARKET-BRIEF.md](MARKET-BRIEF.md) | Optional narrative dump |
+| [evidence/APPLY-LOG.md](evidence/APPLY-LOG.md) | Required for **01-T1-Q16** (template) |
 
 ## Definition of done
 
