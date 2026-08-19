@@ -29,7 +29,7 @@ RESEARCH-STANDARD.md       Evidence & citation bar
 
 docs/
   brief/                   Pre-hire ideation (starting assumptions)
-  phases/01–11/            Each phase: WORKSHEET.md (primary guided tasks)
+  phases/01–11/            WORKSHEET.md (progress) + tasks/ (inspiration)
   archive/                 Frozen original German brainstorm
 
 decisions/                 Decision log + templates

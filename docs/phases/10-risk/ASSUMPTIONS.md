@@ -1,6 +1,6 @@
 # Assumptions register
 
-Optional evidence — fill via [WORKSHEET.md](WORKSHEET.md) (≥8 rows).
+Optional dump — suggested shape for [10-T5](tasks/10-T5-ASSUMPTIONS.md). Link notes from [WORKSHEET.md](WORKSHEET.md).
 
 | ID | Assumption | Why it matters | How we’d test later | Related phase |
 | --- | --- | --- | --- | --- |

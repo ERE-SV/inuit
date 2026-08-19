@@ -10,11 +10,10 @@
 
 | File | Role |
 | --- | --- |
-| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs (primary path) |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — overview + progress; link your notes; Gate 3 pack |
+| **[tasks/](tasks/README.md)** | Inspiration — context and example questions per task (do not fill) |
 
-### Optional evidence dumps only
-
-These stubs are **not** the definition of done. Use them if you want a long write-up; still answer every worksheet sub-question and put the path in **Proof**.
+Put notes wherever helps you think ([BRAND-PRINCIPLES.md](BRAND-PRINCIPLES.md), `evidence/`, slides, moodboard…). Link from the worksheet.
 
 | File | Role |
 | --- | --- |
@@ -22,11 +21,11 @@ These stubs are **not** the definition of done. Use them if you want a long writ
 
 ## Definition of done
 
-- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
-- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
-- [ ] Gate 3 pack section in the worksheet complete (Daniel locks in decision log)
+- [ ] Progress rows on [WORKSHEET.md](WORKSHEET.md) ticked when ready to discuss (not every example question answered)
+- [ ] Notes linked from the worksheet for areas you rely on
+- [ ] Gate 3 pack ready for the weekly (Daniel locks in the decision log)
 
-> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
+> Worksheet = progress; `tasks/` = inspiration ([WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
 
 ## Note
 

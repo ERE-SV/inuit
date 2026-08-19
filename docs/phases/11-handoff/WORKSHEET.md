@@ -2,219 +2,65 @@
 
 **Status:** not-started  
 **Unlocks:** **Gate 6** — Daniel accepts handoff (“engineers can start from this folder + Figma”)  
-**Primary path:** this file  
 **Depends on:** Gates 1–5 + Phase 10 risk pack  
 **Owner:** Malte prepares / Daniel accepts  
+**Primary path:** this file  
+
+## How this file works
+
+This is **progress tracking**, not an exam. Tick **Ready** when you can walk Daniel through that area in the weekly. Put notes wherever you like and paste the path under **Your notes**.
+
+Read [task files](tasks/README.md) for context and example questions. Each brief has the same thread: **why it exists → guideline → what came before → what we're doing now → why it matters.**
+
+**Malte does not self-approve Gate 6.** Only Daniel accepts in the decision log. See [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md).
 
 ## Learn (read before working)
 
 ### What this phase is
 
-Engineers should **not** dig through chat. You assemble a **single entry pack**: what we are building, for whom, what MVP means, what is decided, what is still open (with owners), and which budget/ops/privacy constraints limit the build.
+Assemble a **single entry pack**: what we are building, for whom, what MVP means, what is decided, what is still open (with owners), and which budget/ops/privacy constraints limit the build.
 
-You deliver the **blueprint index**. Coded product build is a later program unless Daniel expands scope. Optional dumps: [SYSTEM-CONTEXT.md](SYSTEM-CONTEXT.md), [BUILD-CONSTRAINTS.md](BUILD-CONSTRAINTS.md), [OPEN-QUESTIONS-FOR-ENG.md](OPEN-QUESTIONS-FOR-ENG.md), [HANDOFF-CHECKLIST.md](HANDOFF-CHECKLIST.md).
+You deliver the **blueprint index**. Coded product build is a later program unless Daniel expands scope.
 
-### Engineer-ready pack (student level)
-
-| Piece | Job |
-| --- | --- |
-| **System context** | Short what/why/for whom — beachhead, versions, matching & supply paragraphs |
-| **Figma + inventories** | Screens engineers implement; frames match inventory IDs |
-| **Data / matching specs** | Fields, acquisition, match rules |
-| **Build constraints** | Money, headcount, beachhead-only, privacy → shape eng choices |
-| **Open questions** | Unresolved items tagged **eng** vs **business**, blocking or not |
-| **Checklist + sign-off** | Binary: pack complete; Daniel accepts |
+Optional dumps: [SYSTEM-CONTEXT.md](SYSTEM-CONTEXT.md), [BUILD-CONSTRAINTS.md](BUILD-CONSTRAINTS.md), [OPEN-QUESTIONS-FOR-ENG.md](OPEN-QUESTIONS-FOR-ENG.md), [HANDOFF-CHECKLIST.md](HANDOFF-CHECKLIST.md).
 
 ### Key terms
 
 | Term | Meaning in plain language | Why it matters here |
 | --- | --- | --- |
-| **Handoff** | Package so a new engineer starts without re-asking strategy | Gate 6 bar |
-| **MVP build scope** | Exactly what to implement first | Ambiguity fails Gate 6 |
-| **Build constraint** | Limit from finance/ops/risk | Prevents “build everything” |
-| **Open question (E-ID)** | Unresolved implementation/strategy item | Must have an owner |
-| **Decision log** | Authoritative Gates 1–6 | Not chat |
-| **Gate 6** | Daniel’s accept that the pack is engineer-ready | You prepare; you do not self-approve |
+| **Handoff** | Package so a new engineer starts without re-asking strategy | Gate 6 deliverable |
+| **Build constraint** | Limit from finance/ops/risk | Stops “build everything” |
+| **Open question (E-ID)** | Unresolved item with an owner | Chat archaeology prevention |
+| **Gate 6** | Daniel's accept that the pack is engineer-ready | Only Daniel locks |
 
-### Common beginner mistakes
+### What to avoid
 
-- Linking empty stubs as if gated  
+- Linking empty stubs as OK  
 - Ambiguous MVP vs V2  
 - Open questions without eng/business owner  
-- Skipping SYSTEM-CONTEXT (“read the whole repo”)  
 - Self-approving Gate 6  
-- Forgetting privacy/run-cost in BUILD-CONSTRAINTS  
-- Orphan Figma (no link / inventories don’t match frames)  
+- Skipping privacy/run-cost in BUILD-CONSTRAINTS  
+- Orphan Figma  
 
-## How to prove answers
+## Progress
 
-- Artifact present → path + Gate/decision ID where locked  
-- Figma → URL in `../06-product/FIGMA.md` + matching inventory Screen IDs  
-- Constraints → paths to Phase 08/09/10  
-- Open questions → filled OPEN-QUESTIONS-FOR-ENG.md  
-- Follow [RESEARCH-STANDARD.md](../../../RESEARCH-STANDARD.md) only if you add new factual claims  
-
-## Tasks
-
-### [ ] 11-T1 — Handoff index (gated artifacts)
-
-**Done when:** Every major gated artifact is linked and OK (or blocker named with owner).  
-**Unlocks / feeds:** README index; HANDOFF-CHECKLIST  
-
-#### Sub-questions
-
-- [ ] **11-T1-Q1.** Fill status for each:
-
-  | Topic | Path | Gate | Status OK? |
-  | --- | --- | --- | --- |
-  | Beachhead | `../03-beachhead/` | 1 |  |
-  | GTM | `../04-gtm/` | 2 |  |
-  | Brand | `../05-brand/` | 3 |  |
-  | Product / Figma | `../06-product/` | 4 (+ V3) |  |
-  | Data & matching | `../07-data-matching/` | 4 |  |
-  | Ops | `../08-ops/` | checkpoint |  |
-  | Finance | `../09-finance/` | 5 |  |
-  | Risk | `../10-risk/` | 6 input |  |
-  | Decisions | `/decisions/DECISION-LOG.md` | 1–6 |  |
-
-  - **Answer:** (table)  
-  - **Proof:** (paths + decision IDs)  
-
-- [ ] **11-T1-Q2.** If any row is not OK: what is blocked and who must finish it before Gate 6?
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 11-T2 — System context
-
-**Done when:** [SYSTEM-CONTEXT.md](SYSTEM-CONTEXT.md) has what/beachhead/versions/matching/supply filled.  
-**Unlocks / feeds:** Gate 6 walkthrough  
-
-#### Sub-questions
-
-- [ ] **11-T2-Q1.** ≤5 sentences: product loop, primary value, explicit non-goals.
-  - **Answer:**  
-  - **Proof:** (product concept / charter)  
-
-- [ ] **11-T2-Q2.** Beachhead niche × geography + Gate 1 decision ID.
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **11-T2-Q3.** One line each: MVP / V2 / V3 (what ships).
-  - **Answer:**  
-  - **Proof:** (VERSION-MAP / product concept)  
-
-- [ ] **11-T2-Q4.** Matching in one paragraph (hard filters, soft scores, Top-X, human confirm).
-  - **Answer:**  
-  - **Proof:** (`../07-data-matching/MATCHING-SPEC.md`)  
-
-- [ ] **11-T2-Q5.** Supply in one paragraph (MVP feeds/API vs crawl + Phase 2/3 direction).
-  - **Answer:**  
-  - **Proof:** (data acquisition / ops)  
-
-### [ ] 11-T3 — MVP build scope clarity
-
-**Done when:** Must-build vs must-not-build is unambiguous; Figma linked; residual ambiguity captured as E-ID.  
-**Unlocks / feeds:** Gate 6  
-
-#### Sub-questions
-
-- [ ] **11-T3-Q1.** Bullets: what engineers **must** build for MVP; what they must **not** build yet (V2/V3/non-goals).
-  - **Answer:**  
-  - **Proof:** (scope checkpoint + VERSION-MAP + inventories)  
-
-- [ ] **11-T3-Q2.** Confirm FIGMA.md link works; MVP (+ V2 as gated) inventories match frame names.
-  - **Answer:**  
-  - **Proof:** (`../06-product/FIGMA.md` + inventories)  
-
-- [ ] **11-T3-Q3.** One sentence an engineer might still find ambiguous — resolve it or add E-ID.
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 11-T4 — Build constraints
-
-**Done when:** [BUILD-CONSTRAINTS.md](BUILD-CONSTRAINTS.md) has ≥4 rows + ≥2 hard “out of bounds” eng choices.  
-**Unlocks / feeds:** Gate 6  
-
-#### Sub-questions
-
-- [ ] **11-T4-Q1.** Constraints table ≥4 rows:
-
-  | Constraint | Source | Implication for build |
-  | --- | --- | --- |
-  | Budget / run-cost envelope | Phase 09 |  |
-  | Headcount for ingestion | Phase 08 |  |
-  | Beachhead-only scope | Gate 1 |  |
-  | Privacy (home/commute) | Phase 10 |  |
-
-  - **Answer:** (table)  
-  - **Proof:** (paths to 08/09/10)  
-
-- [ ] **11-T4-Q2.** ≥2 implementation choices that are **out of bounds** (e.g. wrong cloud region, raw home on employer UI, unbounded crawl).
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 11-T5 — Open questions for engineering
-
-**Done when:** [OPEN-QUESTIONS-FOR-ENG.md](OPEN-QUESTIONS-FOR-ENG.md) has ≥6 rows with owners; blocking set identified; business leftovers deferred or decided.  
-**Unlocks / feeds:** Gate 6  
-
-**Required columns:** ID · Question · Blocking MVP? · Owner (eng / business) · Notes  
-
-#### Sub-questions
-
-- [ ] **11-T5-Q1.** ≥6 E-IDs covering leftovers (privacy/crawl, matching thresholds, feeds, region, ATS handoff, etc. as relevant).
-  - **Answer:** (count)  
-  - **Proof:** (path)  
-
-- [ ] **11-T5-Q2.** Which E-IDs **block MVP**? What if unresolved at kickoff?
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **11-T5-Q3.** Business-owned leftovers: decided or explicitly deferred in the decision log?
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 11-T6 — Checklist & decision log
-
-**Done when:** HANDOFF-CHECKLIST artifacts/clarity boxes done (or gaps owned); Gates 1–5 IDs listed; Malte prepared-by row filled.  
-**Unlocks / feeds:** Gate 6 meeting  
-
-#### Sub-questions
-
-- [ ] **11-T6-Q1.** All HANDOFF-CHECKLIST “Artifacts present” + “Clarity” boxes ticked, or gaps listed with owners.
-  - **Answer:**  
-  - **Proof:** (path to HANDOFF-CHECKLIST.md)  
-
-- [ ] **11-T6-Q2.** Decision log has Gates 1–5; Gate 6 draft line ready. Paste decision IDs.
-  - **Answer:**  
-  - **Proof:** (`/decisions/DECISION-LOG.md`)  
-
-- [ ] **11-T6-Q3.** Fill Malte row on HANDOFF-CHECKLIST (name + date + ready for Daniel).
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 11-T7 — Gate 6 meeting pack
-
-**Done when:** Gate brief written; 5-minute walkthrough order set.  
-**Unlocks / feeds:** Daniel accept  
-
-#### Sub-questions
-
-- [ ] **11-T7-Q1.** Prepare gate brief from [meetings/templates/gate.md](../../../meetings/templates/gate.md) — ask = accept handoff.
-  - **Answer:** (path)  
-  - **Proof:**  
-
-- [ ] **11-T7-Q2.** List walkthrough order (e.g. SYSTEM-CONTEXT → Figma MVP → matching → constraints → open E-IDs → checklist).
-  - **Answer:**  
-  - **Proof:** N/A — process  
+| Task | Focus | Task file | Your notes | Ready |
+| --- | --- | --- | --- | --- |
+| **11-T1** | Handoff index | [11-T1-HANDOFF-INDEX.md](tasks/11-T1-HANDOFF-INDEX.md) |  | [ ] |
+| **11-T2** | System context | [11-T2-SYSTEM-CONTEXT.md](tasks/11-T2-SYSTEM-CONTEXT.md) |  | [ ] |
+| **11-T3** | MVP scope | [11-T3-MVP-SCOPE.md](tasks/11-T3-MVP-SCOPE.md) |  | [ ] |
+| **11-T4** | Build constraints | [11-T4-BUILD-CONSTRAINTS.md](tasks/11-T4-BUILD-CONSTRAINTS.md) |  | [ ] |
+| **11-T5** | Open questions | [11-T5-OPEN-QUESTIONS.md](tasks/11-T5-OPEN-QUESTIONS.md) |  | [ ] |
+| **11-T6** | Checklist & decisions | [11-T6-CHECKLIST.md](tasks/11-T6-CHECKLIST.md) |  | [ ] |
+| **11-T7** | Gate 6 meeting pack | [11-T7-GATE6-PACK.md](tasks/11-T7-GATE6-PACK.md) |  | [ ] |
 
 ## Gate pack (Gate 6)
 
-- [ ] SYSTEM-CONTEXT filled  
-- [ ] BUILD-CONSTRAINTS filled  
-- [ ] OPEN-QUESTIONS-FOR-ENG ≥6 rows  
+- [ ] SYSTEM-CONTEXT filled enough to walk  
+- [ ] BUILD-CONSTRAINTS filled enough to walk  
+- [ ] OPEN-QUESTIONS-FOR-ENG (≥6 rows suggested)  
 - [ ] HANDOFF-CHECKLIST prepared  
-- [ ] README handoff index complete  
+- [ ] README / index complete  
 - [ ] Figma + inventories linked  
 - [ ] Risk pack linked (`../10-risk/`)  
 - [ ] Finance constraints linked (`../09-finance/`)  

@@ -2,7 +2,7 @@
 
 **Gate 6:** Daniel accepts that engineers can start from this folder + Figma.
 
-Optional evidence — complete via [WORKSHEET.md](WORKSHEET.md).
+Optional checklist shape — see [11-T6](tasks/11-T6-CHECKLIST.md). Track progress on [WORKSHEET.md](WORKSHEET.md).
 
 ## Artifacts present
 

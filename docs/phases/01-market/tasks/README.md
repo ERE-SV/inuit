@@ -1,14 +1,27 @@
 # Phase 01 — Task briefs
 
-Each brief is the **definition and guiding context** for one worksheet task.  
-**Answers and proofs still go on [WORKSHEET.md](../WORKSHEET.md).** Do not fill these files in.
+Each brief is **context and inspiration** for one row on [WORKSHEET.md](../WORKSHEET.md).
 
-| Task | Job | Brief | Week |
+**Do not fill these files in.** Track progress on the worksheet. Put notes wherever you like and link them from there.
+
+Every brief follows the same thread:
+
+| Section | Purpose |
+| --- | --- |
+| **Why this exists** | What job this task does in the phase |
+| **Our guideline** | How to explore (freedom + honesty) |
+| **What we have done before** | Prior tasks or inputs this builds on |
+| **What we're doing now** | Goal + example questions |
+| **Why it matters** | What Daniel and later phases need |
+
+| Task | Focus | Brief | Week |
 | --- | --- | --- | --- |
-| **01-T1** | How the Swiss hiring market **functions** (observe + apply) | [01-T1-MARKET-FUNCTIONS.md](01-T1-MARKET-FUNCTIONS.md) | 1 journeys+apply / 2 measure |
-| **01-T2** | Six **theme cards** (A–F): T1 fact → seeker / company / product so-what + must-not-claim | [01-T2-TRENDS.md](01-T2-TRENDS.md) | 2 |
-| **01-T3** | **Compare** T1’s three industries; add supply | [01-T3-SEGMENTS.md](01-T3-SEGMENTS.md) | 2 |
-| **01-T4** | Product **constraints** from T1 channels (not legal advice) | [01-T4-CONSTRAINTS.md](01-T4-CONSTRAINTS.md) | 2 |
-| **01-T5** | **Audit** T1–T4: citations, artifacts, load-bearing unknowns | [01-T5-SOURCES-PASS.md](01-T5-SOURCES-PASS.md) | 2 last |
+| **01-T1** | How the Swiss hiring market functions | [01-T1-MARKET-FUNCTIONS.md](01-T1-MARKET-FUNCTIONS.md) | 1–2 |
+| **01-T2** | What T1 means for the product | [01-T2-PRODUCT-IMPLICATIONS.md](01-T2-PRODUCT-IMPLICATIONS.md) | 2 |
+| **01-T3** | Compare segments side by side | [01-T3-SEGMENTS.md](01-T3-SEGMENTS.md) | 2 |
+| **01-T4** | Product constraints from what you saw | [01-T4-CONSTRAINTS.md](01-T4-CONSTRAINTS.md) | 2 |
+| **01-T5** | Wrap up Phase 01 | [01-T5-SOURCES-PASS.md](01-T5-SOURCES-PASS.md) | 2 last |
+
+**Roter Faden:** T1 map the market → T2 connect to the product idea → T3 compare segments → T4 flag constraints → T5 audit and hand off.
 
 How briefs relate to the worksheet: [WORKSHEET-GUIDE.md](../../WORKSHEET-GUIDE.md).

@@ -1,35 +1,45 @@
 # Phase 07 — Data profiles, acquisition & matching
 
 - **Status:** not-started
-- **Block:** B–C (v0 in Week 7; depth Weeks 10–11)
-- **Gate:** **Gate 4** (with phase 06)
+- **Block:** B–C (v0 Week 7; depth Weeks 8–11 parallel to Figma; Gate 4 Week 12)
+- **Gate:** **Gate 4** (with phase 06, Week 12)
 - **Owner:** Malte
 
 ## Primary deliverable
 
 | File | Role |
 | --- | --- |
-| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs (primary path) |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — overview + progress; link your notes; Gate 4 pack |
+| **[tasks/](tasks/README.md)** | Inspiration — context and example questions per task (do not fill) |
 
-### Optional evidence dumps only
-
-These seeded stubs are **not** the definition of done by themselves. Update them as you answer worksheet tasks; put paths in **Proof**.
+Put keep/cut/add and specs in the working stubs below (or elsewhere). Link from the worksheet.
 
 | File | Role |
 | --- | --- |
-| [DATA-DICTIONARY.md](DATA-DICTIONARY.md) | Working dump *(seeded)* — keep/cut/add via worksheet |
-| [DATA-ACQUISITION.md](DATA-ACQUISITION.md) | Working dump *(seeded methods)* |
+| [DATA-DICTIONARY.md](DATA-DICTIONARY.md) | Working dump *(seeded)* — keep/cut/add here |
+| [DATA-ACQUISITION.md](DATA-ACQUISITION.md) | Working dump *(seeded methods)* — **field-level** acquisition |
 | [MATCHING-SPEC.md](MATCHING-SPEC.md) | Working dump for Gate 4 |
 | [SEARCH-DIMENSIONS.md](SEARCH-DIMENSIONS.md) | Working dump *(seeded)* |
 
+## Timing vs Figma
+
+| Week | Data work | Figma (Phase 06) |
+| --- | --- | --- |
+| **7** | Dictionary v0 (beachhead-critical fields) | Scope only — no frames |
+| **8** | Light 07-T2 (critical dimensions) | MVP Figma primary |
+| **9** | Continue dimensions as needed | MVP Figma primary |
+| **10** | 07-T2 finish, 07-T3 + **dictionary ↔ Figma sync** | V2 Figma primary |
+| **11** | 07-T4, 07-T5 | V2 Figma + comms spec |
+| **12** | Gate 4 pack with Phase 06 | V3 roadmap + Gate 4 |
+
 ## Definition of done
 
-- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
-- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
-- [ ] Gate 4 pack section in the worksheet complete (with Phase 06; Daniel locks)
+- [ ] Progress rows on [WORKSHEET.md](WORKSHEET.md) ticked when ready to discuss
+- [ ] Notes / updated stubs linked from the worksheet
+- [ ] Gate 4 pack ready (with Phase 06; Daniel locks)
 
-> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
+> Worksheet = progress; `tasks/` = inspiration ([WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
 
-## Relationship to Figma
+## Relationship to Phase 08
 
-Refine seeded dictionary in **Week 7** before polishing all screens. Keep dictionary ↔ inventories in sync before Gate 4. Week tasks: [PLAN-WEEKS.md](../../../PLAN-WEEKS.md).
+**07-T3** = field-level acquisition methods. **08-T1** = supply mix narrative for ops/finance — synthesizes T3, does not redo field assignments.

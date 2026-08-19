@@ -1,6 +1,6 @@
 # Build constraints
 
-Constraints from ops/finance/risk that affect engineering choices. Fill via [WORKSHEET.md](WORKSHEET.md).
+Constraints from ops/finance/risk that affect engineering choices. Suggested shape for [11-T4](tasks/11-T4-BUILD-CONSTRAINTS.md); link notes from [WORKSHEET.md](WORKSHEET.md).
 
 | Constraint | Source | Implication for build |
 | --- | --- | --- |

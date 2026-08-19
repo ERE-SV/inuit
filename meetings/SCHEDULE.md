@@ -40,12 +40,12 @@ Fill the date columns at kickoff. Gate weeks: the lock is **Decision A in that w
 | 4 | A | _TBD_ | _TBD_ | _TBD_ | **Gate 1 — Beachhead** |
 | 5 | B | _TBD_ | _TBD_ | _TBD_ | **Gate 2 — GTM** |
 | 6 | B | _TBD_ | _TBD_ | _TBD_ | **Gate 3 — Brand** |
-| 7 | B | _TBD_ | _TBD_ | _TBD_ | **Scope checkpoint** + MVP start |
-| 8 | C | _TBD_ | _TBD_ | _TBD_ | MVP Figma |
-| 9 | C | _TBD_ | _TBD_ | _TBD_ | MVP finish + V2 start |
-| 10 | C | _TBD_ | _TBD_ | _TBD_ | V2 + acquisition + matching |
-| 11 | C | _TBD_ | _TBD_ | _TBD_ | **Gate 4** + ops checkpoint |
-| 12 | D | _TBD_ | _TBD_ | _TBD_ | V3 Figma finish |
+| 7 | B | _TBD_ | _TBD_ | _TBD_ | **Scope checkpoint** (no Figma) |
+| 8 | C | _TBD_ | _TBD_ | _TBD_ | MVP Figma (deep) |
+| 9 | C | _TBD_ | _TBD_ | _TBD_ | MVP Figma (complete) |
+| 10 | C | _TBD_ | _TBD_ | _TBD_ | V2 Figma + data depth |
+| 11 | C | _TBD_ | _TBD_ | _TBD_ | V2 finish + matching + supply |
+| 12 | C | _TBD_ | _TBD_ | _TBD_ | **Gate 4** + V3 roadmap + ops checkpoint |
 | 13 | D | _TBD_ | _TBD_ | _TBD_ | **Gate 5 — Finance** |
 | 14 | D | _TBD_ | _TBD_ | _TBD_ | **Gate 6 — Handoff** |
 | 15 | E | _TBD_ | _TBD_ | _TBD_ | Buffer |

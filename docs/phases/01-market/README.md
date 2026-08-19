@@ -9,31 +9,29 @@
 
 | File | Role |
 | --- | --- |
-| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs (primary path) |
-| **[tasks/](tasks/README.md)** | **Required reading** — definition + guiding context per task (`01-T1` … `01-T5`) |
-| [SOURCES.md](SOURCES.md) | Required — running source log (URL + access date) |
-| [SOURCES-STARTER.md](SOURCES-STARTER.md) | Reference — starting search list |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — progress tracking; link your notes |
+| **[tasks/](tasks/README.md)** | Inspiration — why each task exists, example questions; **do not fill** |
+| [SOURCES.md](SOURCES.md) | Sources you relied on (by end of phase) |
+| [SOURCES-STARTER.md](SOURCES-STARTER.md) | Starting search list |
 
-### Optional evidence dumps only
-
-These stubs are **not** the definition of done. Use them if you want a long write-up; still answer every worksheet sub-question and put the path in **Proof**.
+Put notes wherever helps you think. Suggested dumps:
 
 | File | Role |
 | --- | --- |
-| [MARKET-BRIEF.md](MARKET-BRIEF.md) | Optional narrative dump |
-| [evidence/APPLY-LOG.md](evidence/APPLY-LOG.md) | Required for **01-T1-Q16** (template) |
+| [MARKET-BRIEF.md](MARKET-BRIEF.md) | Optional narrative / tables |
+| [evidence/APPLY-LOG.md](evidence/APPLY-LOG.md) | Optional template if you apply through portals yourself |
 
 ## Definition of done
 
-- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
-- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
-- [ ] Gate / checkpoint pack section in the worksheet complete (weekly pack for Daniel)
+- [ ] Progress table in [WORKSHEET.md](WORKSHEET.md) ticked **Ready** when you can discuss each area
+- [ ] Notes linked from the worksheet
+- [ ] [SOURCES.md](SOURCES.md) lists sources for **facts you treat as load-bearing**
+- [ ] Daniel can see: channels + journeys, segment sketch, product angles, constraint flags
 
-> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
+> How worksheets work: [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md).
 
 ## Inputs
 
 - [docs/brief/01-vision.md](../../brief/01-vision.md)
 - [SOURCES-STARTER.md](SOURCES-STARTER.md)
-- Task briefs: [tasks/README.md](tasks/README.md)
-- Week tasks: [PLAN-WEEKS.md](../../../PLAN-WEEKS.md) Weeks 1–2
+- [PLAN-WEEKS.md](../../../PLAN-WEEKS.md) Weeks 1–2

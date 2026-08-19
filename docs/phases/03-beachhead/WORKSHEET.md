@@ -4,6 +4,16 @@
 **Unlocks:** **Gate 1** — Daniel locks niche × geography; then Phase 04 GTM  
 **Primary path:** this file  
 
+## How this file works
+
+This is **progress tracking**, not an exam. Tick **Ready** when you can talk about that area in the weekly. Put notes wherever you like and paste the path under **Your notes**.
+
+Read [task files](tasks/README.md) for context and example questions. Each brief has the same thread: **why it exists → guideline → what came before → what we're doing now → why it matters.**
+
+You **propose** the beachhead. **Only Daniel** locks it in [decisions/DECISION-LOG.md](../../../decisions/DECISION-LOG.md). Do not mark Gate 1 approved yourself.
+
+Reuse Phase 01–02 evidence by path. Facts that matter need a source or `unknown`. Label guesses as **inference**. See [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md) and [RESEARCH-STANDARD.md](../../../RESEARCH-STANDARD.md).
+
 ## Learn (read before working)
 
 ### What this phase is
@@ -28,6 +38,7 @@ A **beachhead** is the first small market you win on purpose — one **niche** (
 3. Mix of objective + non-CV criteria (so simple CV screeners aren’t enough)  
 4. Geographic concentration (Zurich often attractive — prove it)  
 5. High cost of bad hire / high salaries (better matching worth paying for)  
+6. **Trust / explainability** — can this niche tolerate automated fit scores and notify-both-sides with clear transparency?
 
 Candidate niches from the brief (still open): specialized IT/consultants; bankers (Zurich); healthcare (nurses); trades — see [docs/brief/03-gtm-niche.md](../../brief/03-gtm-niche.md).
 
@@ -39,139 +50,19 @@ Candidate niches from the brief (still open): specialized IT/consultants; banker
 - Hiding risks of the recommended option  
 - Acting as if Gate 1 is already approved  
 
-## How to prove answers
+Suggested dumps: [SCORECARD.md](SCORECARD.md), [BEACHHEAD-RECOMMENDATION.md](BEACHHEAD-RECOMMENDATION.md).
 
-- Factual claim → URL + access date OR path under this phase folder / `evidence/`  
-- Reuse Phase 01–02 proofs by path; do not re-invent numbers  
-- Label inferences as **inference**  
-- Flexible formats OK: md, table, chart image, PDF, video link — record path in Proof  
+## Progress
 
-## Tasks
+| Task | Focus | Task file | Your notes | Ready |
+| --- | --- | --- | --- | --- |
+| **03-T1** | Score beachhead options | [03-T1-OPTIONS-SCORECARD.md](tasks/03-T1-OPTIONS-SCORECARD.md) |  | [ ] |
+| **03-T2** | Test liquidity | [03-T2-LIQUIDITY.md](tasks/03-T2-LIQUIDITY.md) |  | [ ] |
+| **03-T3** | Recommend and reject runners-up | [03-T3-RECOMMENDATION.md](tasks/03-T3-RECOMMENDATION.md) |  | [ ] |
+| **03-T4** | Prepare Gate 1 options | [03-T4-GATE-OPTIONS.md](tasks/03-T4-GATE-OPTIONS.md) |  | [ ] |
+| **03-T5** | Complete the pack | [03-T5-PACK.md](tasks/03-T5-PACK.md) |  | [ ] |
 
-### [ ] 03-T1 — Options list and scorecard design
-
-**Done when:** ≥3 beachhead options are defined as niche × geography and scored on the same criteria.  
-**Unlocks / feeds:** Recommendation and Gate 1 pack  
-
-#### Sub-questions
-
-- [ ] **03-T1-Q1.** List ≥3 options in the form `niche × geography` (e.g. “specialized IT consultants × Zurich”). Include brief shortlist items or justify substitutes.
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T1-Q2.** Define your scoring scale (e.g. 1–5) and what each criterion means in one line. Put the full table in [SCORECARD.md](SCORECARD.md) or embed path.
-  - **Answer:**  
-  - **Proof:** (path: [SCORECARD.md](SCORECARD.md))  
-
-- [ ] **03-T1-Q3.** Score every option on all five brief criteria. Show totals.
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T1-Q4.** For each criterion on the **leading** option: which Phase 01 or 02 fact supports the score?
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T1-Q5.** Which criterion is weakest on your leading option, and what would change your mind? (**inference** OK.)
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 03-T2 — Liquidity hypothesis per option
-
-**Done when:** Each option has openings + candidates signals (or explicit `unknown` + how you would validate).  
-**Unlocks / feeds:** Gate 1 risk discussion  
-
-#### Sub-questions
-
-- [ ] **03-T2-Q1.** For each option: best available **openings** signal (volume, concentration, source).
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T2-Q2.** For each option: best available **candidate** signal (pool size, communities, graduate pipelines, or honest `unknown`).
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T2-Q3.** Which options are most at risk from **location constraints** (hard commute / local-only work)? Why?
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T2-Q4.** Chicken-and-egg: for the leading option, can Phase-1 ingest + forward candidates create early utility before employers fully onboard? One paragraph. (**inference** + any analogue evidence.)
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T2-Q5.** Minimum liquidity you would want before calling the beachhead “viable to try” (even if approximate). Label assumptions.
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 03-T3 — Recommendation and runner-up rejections
-
-**Done when:** One sentence recommendation + written rejections for other scored options.  
-**Unlocks / feeds:** Gate 1 decision text  
-
-#### Sub-questions
-
-- [ ] **03-T3-Q1.** Recommendation in one sentence: niche × geography.
-  - **Answer:**  
-  - **Proof:** (path: [BEACHHEAD-RECOMMENDATION.md](BEACHHEAD-RECOMMENDATION.md))  
-
-- [ ] **03-T3-Q2.** Why this wedge wins on the scorecard (≤7 bullets, each tied to evidence or labeled **inference**).
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T3-Q3.** For each runner-up: reject reason + evidence pointer.
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T3-Q4.** Top risks if we lock the recommendation (product, liquidity, sales, compliance).
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T3-Q5.** What would make you switch recommendation before Gate 1?
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 03-T4 — Gate 1 decision options for Daniel
-
-**Done when:** Daniel has 2–3 clear choices with pros/cons (not a single “please rubber-stamp”).  
-**Unlocks / feeds:** Decision log entry after the meeting  
-
-#### Sub-questions
-
-- [ ] **03-T4-Q1.** **Option A — Approve recommendation as written.** Pros / cons / what becomes true next week.
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T4-Q2.** **Option B — Approve with conditions** (state conditions, e.g. validate liquidity in 2 weeks, Zurich-only, exclude X employers). Pros / cons.
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T4-Q3.** **Option C — Choose a named runner-up instead** (or reject all and revise). Pros / cons vs Option A.
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T4-Q4.** What must be true in the decision log after Gate 1 (niche × geo string, owner, date, any conditions)?
-  - **Answer:**  
-  - **Proof:** (reference [decisions/DECISION-LOG.md](../../../decisions/DECISION-LOG.md))  
-
-- [ ] **03-T4-Q5.** Gate brief prepared using `meetings/templates/gate.md`? Path or checklist status.
-  - **Answer:**  
-  - **Proof:**  
-
-### [ ] 03-T5 — Pack completeness
-
-**Done when:** Recommendation + scorecard + sources are linkable from this worksheet; no orphan claims.  
-**Unlocks / feeds:** Phase 04 starts only after Gate 1 pass  
-
-#### Sub-questions
-
-- [ ] **03-T5-Q1.** Links to recommendation, scorecard, Phase 01 sources, Phase 02 matrix/white space — all present?
-  - **Answer:**  
-  - **Proof:**  
-
-- [ ] **03-T5-Q2.** Confirm you did **not** mark Gate 1 approved yourself — status stays pending Daniel.
-  - **Answer:**  
-  - **Proof:**  
-
-## Gate / checkpoint pack (Gate 1)
+## Gate 1 pack
 
 Bring to Daniel:
 
@@ -185,6 +76,8 @@ Bring to Daniel:
 
 **Pass:** Daniel approves niche × geography (possibly with conditions) → log in decision log → phase status `gated`.  
 **Fail / revise:** update scorecard and re-run Gate 1; do not start Phase 04 GTM as locked.
+
+Malte does not self-approve.
 
 ## Handoff to next phase
 

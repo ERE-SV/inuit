@@ -5,8 +5,8 @@
 - **Author:**  
 - **Last updated:**  
 
-Optional evidence dump. **Answers still go on [WORKSHEET.md](WORKSHEET.md).**  
-Table shapes follow the task briefs: [01-T1](tasks/01-T1-MARKET-FUNCTIONS.md) · [01-T2](tasks/01-T2-TRENDS.md) · [01-T3](tasks/01-T3-SEGMENTS.md) · [01-T4](tasks/01-T4-CONSTRAINTS.md).  
+Optional evidence dump. Link your work from [WORKSHEET.md](WORKSHEET.md).  
+Table shapes are optional inspiration from: [01-T1](tasks/01-T1-MARKET-FUNCTIONS.md) · [01-T2](tasks/01-T2-PRODUCT-IMPLICATIONS.md) · [01-T3](tasks/01-T3-SEGMENTS.md) · [01-T4](tasks/01-T4-CONSTRAINTS.md).  
 First-person applies: [evidence/APPLY-LOG.md](evidence/APPLY-LOG.md).
 
 Follow [RESEARCH-STANDARD.md](../../../RESEARCH-STANDARD.md).
@@ -67,24 +67,17 @@ See [01-T1-MARKET-FUNCTIONS.md](tasks/01-T1-MARKET-FUNCTIONS.md).
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-## 2. Product “so what” — six theme cards (01-T2)
+## 2. What T1 means for the product (01-T2)
 
-See [01-T2](tasks/01-T2-TRENDS.md). One row per required ID. Facts from T1.
+See [01-T2](tasks/01-T2-PRODUCT-IMPLICATIONS.md). Optional dump — memo, bullets, or short table. Link from the worksheet.
 
-| ID | Fact + T1 path | Strength | So what — seekers | So what — companies | So what — product | Must not claim yet |
-| --- | --- | --- | --- | --- | --- | --- |
-| T2-A Labour motion |  |  |  |  |  |  |
-| T2-B Seeker apply / AI |  |  |  |  |  |  |
-| T2-C Employer noise / TTH |  |  |  |  |  |  |
-| T2-D Structured matching |  |  |  |  |  |  |
-| T2-E Salary transparency |  |  |  |  |  |  |
-| T2-F Commute / culture / remote |  |  |  |  |  |  |
+| Observation (from T1) | Might mean for product | Confidence (strong / weak / unknown) | Must not claim yet |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
-**If-wrong card:**  
-**If reversed we would:**  
-**Do-not-claim list:**
+**Do-not-claim list (optional):**
 
-## 3. Three-segment comparison (01-T3)
+## 3. Segment comparison (01-T3)
 
 See [01-T3](tasks/01-T3-SEGMENTS.md). Same three industries as T1. Demand-side cells cite T1 paths.
 

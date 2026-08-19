@@ -1,6 +1,6 @@
 # System context (short)
 
-Fill via [WORKSHEET.md](WORKSHEET.md) before Gate 6.
+Optional dump — see [11-T2](tasks/11-T2-SYSTEM-CONTEXT.md); link notes from [WORKSHEET.md](WORKSHEET.md) before Gate 6.
 
 ## What we are building
 

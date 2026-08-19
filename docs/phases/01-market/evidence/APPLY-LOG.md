@@ -1,4 +1,6 @@
-# Apply log — 01-T1-Q16
+# Apply log (optional)
+
+Use this if you **apply through portals yourself** as part of exploring the applicant journey. Not required to fill every row.
 
 First-person observation. Rules: [01-T1 brief](../tasks/01-T1-MARKET-FUNCTIONS.md) §8 Q16.
 

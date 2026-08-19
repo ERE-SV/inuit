@@ -2,7 +2,7 @@
 
 Use these as a **starting search list**, not an exhaustive bibliography. Verify every claim with URL + access date per [RESEARCH-STANDARD.md](../../../RESEARCH-STANDARD.md). Prefer Tier A/B.
 
-Task briefs (read before working): [01-T1 market functions](tasks/01-T1-MARKET-FUNCTIONS.md) · [01-T2 trends](tasks/01-T2-TRENDS.md) · [01-T3 segments](tasks/01-T3-SEGMENTS.md) · [01-T4 constraints](tasks/01-T4-CONSTRAINTS.md) · [01-T5 quality](tasks/01-T5-SOURCES-PASS.md)
+Task briefs (read before working): [01-T1 market functions](tasks/01-T1-MARKET-FUNCTIONS.md) · [01-T2 product implications](tasks/01-T2-PRODUCT-IMPLICATIONS.md) · [01-T3 segments](tasks/01-T3-SEGMENTS.md) · [01-T4 constraints](tasks/01-T4-CONSTRAINTS.md) · [01-T5 quality](tasks/01-T5-SOURCES-PASS.md)
 
 ## Official / statistical (Tier A)
 
@@ -57,4 +57,4 @@ Used by [01-T1](tasks/01-T1-MARKET-FUNCTIONS.md). Visit and document **role for 
 
 1. Open 5–8 Tier A sources first; log them in [SOURCES.md](SOURCES.md).  
 2. Map **how the market functions** ([01-T1 brief](tasks/01-T1-MARKET-FUNCTIONS.md)): channels, journeys, apply log, then volume/institutions/economics.  
-3. Then deepen trend “so what” for *this* product ([01-T2 brief](tasks/01-T2-TRENDS.md)).
+3. Then reflect: what does T1 mean for *this* product? ([01-T2 brief](tasks/01-T2-PRODUCT-IMPLICATIONS.md)).

@@ -9,25 +9,24 @@
 
 | File | Role |
 | --- | --- |
-| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — guided tasks + proofs + Gate 1 options (primary path) |
+| **[WORKSHEET.md](WORKSHEET.md)** | **Required** — progress tracking; link your notes; Gate 1 pack |
+| **[tasks/](tasks/README.md)** | Inspiration — why each task exists, example questions; **do not fill** |
 
-### Optional evidence dumps only
-
-These stubs are **not** the definition of done. Use them if helpful for the Gate pack; still answer every worksheet sub-question and put the path in **Proof**.
+Put notes wherever helps you think. Suggested dumps:
 
 | File | Role |
 | --- | --- |
-| [BEACHHEAD-RECOMMENDATION.md](BEACHHEAD-RECOMMENDATION.md) | Optional recommendation narrative dump |
-| [SCORECARD.md](SCORECARD.md) | Optional scorecard table dump |
+| [BEACHHEAD-RECOMMENDATION.md](BEACHHEAD-RECOMMENDATION.md) | Optional recommendation narrative |
+| [SCORECARD.md](SCORECARD.md) | Optional scorecard table |
 
 ## Definition of done
 
-- [ ] All tasks in [WORKSHEET.md](WORKSHEET.md) ticked
-- [ ] Every factual answer has proof (URL + access date, or path under this phase / `evidence/`)
-- [ ] Gate / checkpoint pack (Gate 1) in the worksheet complete
+- [ ] Progress table in [WORKSHEET.md](WORKSHEET.md) ticked **Ready** when you can discuss each area (not every example question answered)
+- [ ] Notes linked from the worksheet
+- [ ] Gate 1 pack on the worksheet filled enough for the meeting
 - [ ] Decision logged in [decisions/DECISION-LOG.md](../../../decisions/DECISION-LOG.md) **after** Daniel decides (Malte does not self-approve)
 
-> Canonical DoD = worksheet complete + proofs (see [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md)).
+> How worksheets work: [WORKSHEET-GUIDE.md](../WORKSHEET-GUIDE.md).
 
 ## Inputs
 

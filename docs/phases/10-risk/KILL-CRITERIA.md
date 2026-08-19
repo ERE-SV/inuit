@@ -1,6 +1,6 @@
 # Kill / pivot criteria
 
-Optional evidence — fill via [WORKSHEET.md](WORKSHEET.md) (≥4 triggers).
+Optional dump — suggested shape for [10-T6](tasks/10-T6-KILL-CRITERIA.md). Link notes from [WORKSHEET.md](WORKSHEET.md).
 
 | Trigger | What we do | Who decides |
 | --- | --- | --- |

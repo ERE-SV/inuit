@@ -5,10 +5,10 @@
 ## Calendar (set at kickoff)
 
 
-| Ritual                 | Default                                                                           | Length    |
-| ---------------------- | --------------------------------------------------------------------------------- | --------- |
+| Ritual                 | Default                                                                           | Length         |
+| ---------------------- | --------------------------------------------------------------------------------- | -------------- |
 | Weekly working session | Same weekday/time each week; **Malte leads**. Includes gate locks when due.       | **60 min max** |
-| T-24 pack              | **24 hours before** weekly: all content in repo + agenda + 2–3 decision proposals | Written   |
+| T-24 pack              | **24 hours before** weekly: all content in repo + agenda + 2–3 decision proposals | Written        |
 | Kickoff                | Once, before Week 1                                                               | **60 min max** |
 
 
@@ -94,13 +94,15 @@ Also mirror start/end into [STATUS.md](../STATUS.md) and [ONBOARDING.md](../ONBO
 Malte may drop/shorten a block if T-24 already said so, or adjust live if discussion requires it (note the change in minutes). Times still must sum to **≤ 60**.
 
 
-| #   | Block                       | Time    | What happens                                                                                                                                                                                       |
-| --- | --------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Review of the week**      | 5 min   | What was planned vs done; slips and why                                                                                                                                                            |
-| 2   | **Presentation of results** | 15 min  | Malte presents findings (substance, not reading docs aloud). On gate weeks: recommendation + evidence highlights. Daniel challenges evidence and implications                                      |
-| 3   | **Discussion of decisions** | 25 min  | Malte presents **2–3** prepared decisions with options + pros/cons. **Daniel only chooses** among those options (or sends back for a better option set). On gate weeks, Decision A is the gate lock |
-| 4   | **Plan + outlook**          | 10 min  | Agree changes to week plan / STATUS; next 1–2 weeks’ focus and deliverables                                                                                                                        |
-| 5   | **Blockers**                | 5 min   | What’s stuck; who unblocks                                                                                                                                                                         |
+| #   | Block                       | Time   | What happens                                                                                                                                                                                        |
+| --- | --------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Review of the week**      | 5 min  | What was planned vs done; slips and why                                                                                                                                                             |
+| 2   | **Presentation of results** | 15 min | Malte presents findings (substance, not reading docs aloud). On gate weeks: recommendation + evidence highlights. Daniel challenges evidence and implications                                       |
+| 3   | **Discussion of decisions** | 25 min | Malte presents **2–3** prepared decisions with options + pros/cons. **Daniel only chooses** among those options (or sends back for a better option set). On gate weeks, Decision A is the gate lock |
+| 4   | **Plan + outlook**          | 10 min | Agree changes to week plan / STATUS; next 1–2 weeks’ focus and deliverables                                                                                                                         |
+| 5   | **Blockers**                | 5 min  | What’s stuck; who unblocks                                                                                                                                                                          |
+
+
 
 
 ### Gate weeks (same slot, same agenda)
@@ -113,6 +115,8 @@ When a formal **gate** or **checkpoint** is due (see [SCHEDULE.md](SCHEDULE.md))
 - If two locks land the same week (e.g. Gate 4 + ops checkpoint), they are Decision A and B in the same 25 min. Keep weekly option-sets to what fits.
 - Downstream impact (what is unblocked / now out of scope) is covered in block 4.
 
+
+
 ### Decision rule (weekly)
 
 - Malte **proposes** 2–3 decisions on a topic with structured options and advantages/disadvantages, if a decision is needed.  
@@ -121,23 +125,25 @@ When a formal **gate** or **checkpoint** is due (see [SCHEDULE.md](SCHEDULE.md))
 - Formal program gates (beachhead, GTM, brand, etc.) still use the gate template as the T-24 brief when locking those milestones.
 
 
+
 ### After (Malte, same day)
 
 Required — same day, before pinging Daniel:
 
 1. **Minutes:** `minutes/YYYY-MM-DD-weekly.md` using [templates/minutes.md](templates/minutes.md) (decisions, actions, blockers, next — not a transcript)
-2. **Transcript (optional):** full text in `transcripts/YYYY-MM-DD-weekly.md` if captured; link it from the minutes
+2. **Transcript:** full text in `transcripts/YYYY-MM-DD-weekly.md` if captured; link it from the minutes
 3. **Decision log:** chosen decisions (including any gate outcome) in [decisions/DECISION-LOG.md](../decisions/DECISION-LOG.md)
 4. **STATUS:** Malte updates [STATUS.md](../STATUS.md) — week number, current block, phase focus, next gate, open blockers, this week’s deliverables, and any gate row that changed
 5. Phase READMEs if status changed
 6. Ping Daniel with paths to minutes + STATUS for review
 
 
+
 ### Roles in the room
 
 
-| Malte                                                                                          | Daniel                                                                                     |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Malte                                                                                         | Daniel                                                                                     |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Leads agenda; presents results; frames decisions; **same day:** minutes, decision log, STATUS | Pre-reads; discusses findings; **chooses** among prepared options; clears blockers he owns |
 
 

@@ -29,7 +29,7 @@ After locking: fill the full table in [meetings/SCHEDULE.md](meetings/SCHEDULE.m
 
 1. [README.md](README.md) — map  
 2. [CHARTER.md](CHARTER.md) — your mandate  
-3. [docs/phases/WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md) — how guided tasks work (plus [Phase 01 task briefs](docs/phases/01-market/tasks/README.md) when you reach Week 1)  
+3. [docs/phases/WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md) — worksheet = progress; `tasks/` = inspiration  
 4. [PLAN.md](PLAN.md) — 16-week plan  
 5. [PLAN-WEEKS.md](PLAN-WEEKS.md) — week checklist → worksheet task IDs  
 6. [meetings/README.md](meetings/README.md) — session structure  
@@ -65,7 +65,9 @@ Use the kickoff checklist in [meetings/README.md](meetings/README.md).
 
 | When | What |
 | --- | --- |
-| Ongoing | Follow [PLAN-WEEKS.md](PLAN-WEEKS.md); read the **task brief** when one exists (Phase 01: [tasks/](docs/phases/01-market/tasks/README.md)); complete tasks on each phase [WORKSHEET.md](docs/phases/WORKSHEET-GUIDE.md) (answer + proof) |
+| Ongoing | Follow [PLAN-WEEKS.md](PLAN-WEEKS.md); tick the worksheet; explore from `tasks/`; link your notes |
+| **Weeks 8–11** | **Figma primary** (~70% time) — MVP then V2 screens; data/ops in parallel, not instead of frames |
+| **Week 7** | Scope checkpoint only — lock feature lists; **no Figma frames yet** |
 | **T-24** | All week content in repo + [weekly-t24.md](meetings/templates/weekly-t24.md) (see SCHEDULE for exact deadline) |
 | Weekly session | You **lead** (60 min max); informed discussion; Daniel **chooses** among your prepared options. Gate locks happen here — no extra meeting. |
 | Same day after | **You** write [minutes](meetings/templates/minutes.md), log decisions, and **update [STATUS.md](STATUS.md)** (week, focus, next gate, blockers, deliverables); then ping Daniel for review |
@@ -88,7 +90,7 @@ If it matters later, it belongs in the repo within 24 hours of the discussion.
 - [ ] All 16 weekly meetings on the calendar  
 - [ ] `STATUS.md` shows start, end, Week 1 focus  
 - [ ] Figma link set  
-- [ ] You understand worksheets: big task → sub-questions → Answer + Proof ([WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md))  
+- [ ] You understand worksheets vs task files ([WORKSHEET-GUIDE.md](docs/phases/WORKSHEET-GUIDE.md))  
 - [ ] T-24 template understood ([weekly-t24.md](meetings/templates/weekly-t24.md))  
 
 ## Out of scope reminder
